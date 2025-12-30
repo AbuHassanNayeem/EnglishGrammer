@@ -8,39 +8,214 @@ This document integrates descriptive English grammar with deep linguistic struct
 **[PHONOLOGY] → [MORPHOLOGY] → [SYNTAX] → [SEMANTICS] → [PRAGMATICS] → [DISCOURSE]**
 
 ---
-
 ## 🧱 LEVEL 2 — MORPHOLOGY (Word Structure)
-The internal structure of words and the rules of formation.
 
-**MORPHOLOGY**
+The internal structure of words, their forms, and class membership
+
+## **MORPHOLOGY**
 │
 ├── **MORPHEMES**
-│   ├── **Free**: Can stand alone (e.g., *book*, *run*)
-│   └── **Bound**: Must be attached (e.g., *-s*, *un-*, *-ly*)
-│       ├── **Inflectional**
-│       └── **Derivational**
+│   │   **Definition**: Smallest meaningful units of language
+│   │
+│   ├── **Free Morphemes**
+│   │   │ **Definition**: Can occur independently as words
+│   │   └── Examples: book, run, happy
+│   │
+│   └── **Bound Morphemes**
+│       │ **Definition**: Must attach to another morpheme
+│       │ Examples: -s, un-, -ly, -ed
+│       │
+│       ├── **Inflectional Morphemes**
+│       │   │ **Function**: Express grammatical information
+│       │   │               Do NOT change word class
+│       │   └── Examples: -s, -ed, -ing, -er, -est
+│       │
+│       └── **Derivational Morphemes**
+│           │ **Function**: Create new words
+│           │               May change meaning and/or word class
+│           └── Examples: un-, -ness, -ment, -ly
 │
-├── **INFLECTION** (Grammatical markers)
-│   ├── **Tense**: (e.g., *walk* → *walked*)
-│   ├── **Number**: (e.g., *cat* → *cats*)
-│   ├── **Person**: (e.g., *I go* vs *She goes*)
-│   ├── **Comparison**: (e.g., *fast* → *faster* → *fastest*)
-│   └── **Case**: (e.g., *he* → *him*)
+├── **INFLECTION** (Grammatical morphology)
+│   │ **Definition**: Variation of word form for grammar
+│   │
+│   ├── **Tense**
+│   │   └── walk → walked
+│   │
+│   ├── **Number**
+│   │   └── cat → cats
+│   │
+│   ├── **Person**
+│   │   └── I go vs She goes
+│   │
+│   ├── **Comparison**
+│   │   └── fast → faster → fastest
+│   │
+│   └── **Case**
+│       └── he → him → his
 │
-├── **DERIVATION** (Category changing)
-│   ├── **Noun → Adjective**: (e.g., *beauty* → *beautiful*)
-│   ├── **Verb → Noun**: (e.g., *create* → *creation*)
-│   ├── **Adjective → Adverb**: (e.g., *quick* → *quickly*)
-│   └── **Zero Derivation**: (e.g., *to butter* from *butter*)
+│   **EXAM NOTE**:
+│   → Inflection NEVER creates a new dictionary entry
+│
+├── **DERIVATION** (Lexical morphology)
+│   │ **Definition**: Word formation via affixes or shift
+│   │
+│   ├── **Category-Changing Derivation**
+│   │   │
+│   │   ├── **Noun → Adjective**
+│   │   │   └── beauty → beautiful
+│   │   │
+│   │   ├── **Verb → Noun**
+│   │   │   └── create → creation
+│   │   │
+│   │   ├── **Adjective → Adverb**
+│   │   │   └── quick → quickly
+│   │   │
+│   │   └── **Zero Derivation (Conversion)**
+│   │       └── butter (N) → to butter (V)
+│   │
+│   **EXAM NOTE**:
+│   → Derivation often signals WORD CLASS change
+│
+├── **WORD CLASSES** (Parts of Speech)
+│   │ **Definition**: Morphological categories of words
+│   │ Based on inflection, derivation, and distribution
+│   │
+│   ├── **Content Words (Open Classes)**
+│   │   │ **Characteristics**:
+│   │   │ • Carry lexical meaning
+│   │   │ • New members easily added
+│   │   │ • Undergo derivation freely
+│   │   │
+│   │   ├── **Noun**
+│   │   │   │ **Meaning**: Entity, person, concept
+│   │   │   │ **Morphology**: plural (-s), possessive (-’s)
+│   │   │   └── *Exam test*: Can take determiners
+│   │   │       ├── **Proper Nouns**: Specific names (*London, Sarah*)
+│   │   │       └── **Common Nouns**
+│   │   │              ├── **Abstract Nouns**: Ideas, qualities, states (*Love, Courage, Honesty, Knowledge, Happiness*)
+│   │   │              ├── **Concrete Nouns**
+│   │   │              |     ├── **Countable Nouns**
+│   │   │              |     │   ├── **Individual/Singular items**: (*Book, Chair, Pen, Man, City*)
+│   │   │              |     │   └── **Plural items**: (*Books, Chairs, Pens, Men, Cities*)
+│   │   │              |     |        └── **Collective Nouns**
+│   │   │              |     |              ├── **Groups**: (*Team, Flock, Herd, Swarm, Pack*)
+│   │   │              |     |              └── **Collections/Institutions**: (*Library, Gallery, Orchestra, Choir, Ensemble*)
+│   │   │              |     └── **Uncountable Nouns**
+│   │   │              |          ├── **Mass items**: (*Water, Air, Fire, Food, Furniture, Information*)
+│   │   │              |          └── **Material items**: (*Gold, Water, Wood, Steel, Paper*)
+│   │   │              |     
+│   │   │              └── **Compound Nouns**
+│   │   │                   ├── **Spaced/Open**: (*Bus stop, Post office, Tea party*)
+│   │   │                   ├── **Hyphenated**: (*Mother-in-law, Father-in-law, Son-in-law*)
+│   │   │                   └── **Closed/Solid**: (*Snowball, Keyboard, Notebook*)
+│   │   │          
+│   │   │
+│   │   ├── **Verb**
+│   │   │   │ **Meaning**: Action, state, process
+│   │   │   │ **Morphology**: tense, aspect, agreement
+│   │   │   └── Exam test: Takes -ed / -ing
+│   │   │
+│   │   ├── **Adjective**
+│   │   │   │ **Meaning**: Quality or property
+│   │   │   │ **Morphology**: comparison (-er, -est)
+│   │   │   └── Exam test: Can be intensified (very)
+│   │   │
+│   │   └── **Adverb**
+│   │       │ **Meaning**: Manner, time, degree, attitude
+│   │       │ **Morphology**: often -ly derived
+│   │       └── *Exam trap*: Not all adverbs end in -ly
+│   │
+│   └── **Function Words (Closed Classes)**
+│       │ **Characteristics**:
+│       │ • Grammatical function
+│       │ • Limited membership
+│       │ • Rarely derived
+│       │
+│       ├── **Determiner**
+│       │   │ **Function**: Restrict noun reference
+│       │   └── a, the, this, my
+│       │
+│       ├── **Pronoun**
+│       │   │ **Function**: Replace noun phrases
+│       │   │ **Morphology**: case (he/him)
+│       │   └── he, she, they
+│       │        ├── **Personal Pronouns**
+│       │        │   ├── **Subjective (Nominative Case)**: (*I, We, You, He, She, It, They*)
+│       │        │   ├── **Objective (Accusative Case)**: (*Me, Us, You, Him, Her, It, Them*)
+│       │        │   └── **Possessive Personal Pronouns**
+│       │        │       ├── **Possessive Adjectives (Determiners)**: (*My, Our, Your, His, Her, Its, Their*)
+│       │        │       └── **Possessive Pronouns (Absolute)**: (*Mine, Ours, Yours, His, Hers, Its, Theirs*)
+│       │        │
+│       │        ├── **Reflexive Pronouns**: (*Myself, Yourself, Himself, Herself, Itself, Ourselves, Yourselves, Themselves, Oneself*)
+│       │        ├── **Emphatic (Intensive)**: (*Same forms as Reflexive; Myself, Himself, Themselves, etc.*)
+│       │        ├── Difference between Reflexive and Emphatic: (*Myself, Himself, Themselves, etc.*)
+│       │        ├── **Demonstrative**: (*This, That, These, Those, Such, The same, Yonder*)
+│       │        ├── **Interrogative**: (*Who, Whom, Whose, Which, What, Whoever, Whichever, Whatever*)
+│       │        ├── **Relative**: (*Who, Whom, Whose, Which, That, Whoever, Whomever, Whichever, Whatever, As, But*)
+|       │        ├── Difference between Interrogative and Relative: (*Who, Whom, Whose, Which, That, Whoever, Whomever, Whichever, Whatever, As, But*)
+│       │        ├── **Indefinite Pronouns**
+│       │        │   ├── **Universal**: (*All, Both, Each, Every, Everyone, Everybody, Everything*)
+│       │        │   ├── **Distributive**: (*Each, Either, Neither*)
+│       │        │   ├── **Quantitative**: (*Some, Any, Much, Many, Few, Little, Several, Enough, More, Most, Both*)
+│       │        │   ├── **Negative**: (*None, Nobody, Nothing, No one, Neither*)
+│       │        │   └── **Existential**: (*Someone, Somebody, Something, Anyone, Anybody, Anything*)
+│       │        ├── **Reciprocal**: (*Each other, One another*)
+│       │        ├── **Relative–Interrogative Overlap**: (*Who, Whom, Whose, Which, What*)
+│       │        ├── **Dummy / Expletive**: (*It, There*)
+│       │        ├── **Distributive (Traditional)**: (*Each, Either, Neither*)
+│       │        └── Difference between Distributive (Traditional) and Indefinite Pronouns: (*Each, Either, Neither*)
+│       │
+│       │
+│       ├── **Preposition**
+│       │   │ **Function**: Express relation
+│       │   └── in, on, under
+│       │
+│       ├── **Conjunction**
+│       │   │
+│       │   ├── **Coordinating**
+│       │   │   └── and, but, or
+│       │   │
+│       │   └── **Subordinating**
+│       │       └── because, although, if
+│       │
+│       ├── **Complementizer**
+│       │   │ **Function**: Introduce clauses
+│       │   └── that, whether, if
+│       │
+│       ├── **Particle**
+│       │   │ **Function**: Part of phrasal verb
+│       │   └── give up, take off
+│       │
+│       └── **Interjection**
+│           │ **Function**: Express emotion / stance
+│           └── oh!, hey!, honestly!
+│
+│   **EXAM TRAP**:
+│   → Same word form ≠ same word class (e.g., fast)
 │
 └── **WORD FORMATION PROCESSES**
-    ├── **Prefixation / Suffixation** (Affixation)
-    ├── **Compounding**: (*sunflower*, *stone wall*)
-    ├── **Conversion**: (*a gift* → *to gift*)
-    ├── **Clipping**: (*advertisement* → *ad*)
-    ├── **Blending**: (*smoke* + *fog* → *smog*)
-    ├── **Acronym**: (*NASA*)
-    └── **Back-formation**: (*editor* → *edit*)
+    │ **Definition**: Mechanisms for creating new lexemes
+    │
+    ├── **Affixation**
+    │   └── **Prefixation** / **Suffixation**
+    │
+    ├── **Compounding**
+    │   └── sunflower, stone wall
+    │
+    ├── **Conversion**
+    │   └── a gift → to gift
+    │
+    ├── **Clipping**
+    │   └── advertisement → ad
+    │
+    ├── **Blending**
+    │   └── smoke + fog → smog
+    │
+    ├── **Acronym**
+    │   └── NASA
+    │
+    └── **Back-formation**
+        └── editor → edit
 
 ---
 
@@ -235,160 +410,154 @@ The arrangement of words and phrases to create well-formed sentences.
 │           - Example: *The group of students **are** here.* (subject = "group", plural collective)
 │           - Example: *One of the girls **has** arrived.* (subject = "one", singular)
 │
-├── **1.8 Government & Case**
+├── **1.8 GOVERNMENT & CASE**
 │   │
-│   ├── **Definition**:
-│   │   └── How verbs/prepositions assign grammatical case (morphological marking of function).
+│   ├── **Definition**
+│   │   └── The syntactic relationship in which a head word (verb, preposition, adjective)
+│   │       controls (governs) the grammatical case or form of its dependent.
 │   │
-│   ├── **Cases** (Remnants in English, stronger in other languages)
-│   │   ├── **Subjective (Nominative)**
-│   │   │   - Used for subjects.
-│   │   │   - Pronouns: *I, he, she, they, we, you*
-│   │   │   - Example: *I went to the store.*
+│   ├── **1.8.1 Government**
 │   │   │
-│   │   ├── **Objective (Accusative)**
-│   │   │   - Used for direct objects and objects of prepositions.
-│   │   │   - Pronouns: *me, him, her, them, us, you*
-│   │   │   - Example: *She gave **me** a gift.* / *Come with **us**.*
+│   │   ├── **Definition**
+│   │   │   └── The mechanism by which a governing head determines
+│   │   │       the form, position, or case of another element.
 │   │   │
-│   │   └── **Possessive (Genitive)**
-│   │       - Shows ownership or relationship.
-│   │       - Pronouns: *my, his, her, our, their, your, its*
-│   │       - Example: ***My** house is large.* / *The book is **his**.*
-│   1.8 GOVERNMENT & CASE
-│   │
-│   ├── Definition
-│   │ └── The syntactic relationship in which a head word (verb, preposition, adjective)
-│   │ controls (governs) the grammatical case or form of its dependent.
-│   │
-│   ├── 1.8.1 Government
-│   │ │
-│   │ ├── Definition
-│   │ │ └── The mechanism by which a governing head determines
-│   │ │ the form, position, or case of another element.
-│   │ │
-│   │ ├── Governing Heads
-│   │ │ ├── Verb
-│   │ │ │ ├── Governs object case
-│   │ │ │ │ └── She saw him (objective case)
-│   │ │ │ └── Governs complement type
-│   │ │ │ ├── Verb + NP (want money)
-│   │ │ │ ├── Verb + to-infinitive (want to go)
-│   │ │ │ └── Verb + -ing (enjoy reading)
-│   │ │ │
-│   │ │ ├── Preposition
-│   │ │ │ ├── Always governs objective case
-│   │ │ │ │ └── between you and me ✔
-│   │ │ │ └── Exam Trap
-│   │ │ │ └── between you and I ✘
-│   │ │ │
-│   │ │ └── Adjective
-│   │ │ ├── Governs prepositional complements
-│   │ │ │ └── afraid of snakes
-│   │ │ └── Fixed adjective + preposition patterns
-│   │ │ ├── fond of
-│   │ │ ├── capable of
-│   │ │ └── interested in
-│   │ │
-│   │ └── Exam Tip
-│   │ └── If a word controls what comes after it, it is a governor.
+│   │   ├── **Governing Heads**
+│   │   │   │
+│   │   │   ├── **Verb**
+│   │   │   │   ├── **Governs object case**
+│   │   │   │   │   └── Example: She saw him (objective case)
+│   │   │   │   └── **Governs complement type**
+│   │   │   │       ├── Verb + NP → want money
+│   │   │   │       ├── Verb + to-infinitive → want to go
+│   │   │   │       └── Verb + -ing → enjoy reading
+│   │   │   │
+│   │   │   ├── **Preposition**
+│   │   │   │   ├── Always governs objective case
+│   │   │   │   │   ├── ✔ between you and me
+│   │   │   │   │   └── ✘ between you and I
+│   │   │   │   └── **Exam Trap**
+│   │   │   │       └── Students often incorrectly use subjective case
+│   │   │   │
+│   │   │   └── **Adjective**
+│   │   │       ├── **Governs prepositional complements**
+│   │   │       │   └── Example: afraid of snakes
+│   │   │       └── **Fixed adjective + preposition patterns**
+│   │   │           ├── fond of
+│   │   │           ├── capable of
+│   │   │           └── interested in
+│   │   │
+│   │   └── **Exam Tip**
+│   │       └── If a word controls what comes after it, it is a governor.
 │   │
 │   ├── 1.8.2 Case
-│   │ │
-│   │ ├── Definition
-│   │ │ └── The grammatical form of a noun or pronoun
-│   │ indicating its syntactic function in a clause.
+│   │   │
+│   │   ├── **Definition**
+│   │   │   └── The grammatical form of a noun or pronoun
+│   │   │       indicating its syntactic function in a clause.
+│   │   │
+│   │   ├── **Types of Case (Modern English)**
+│   │   │   │
+│   │   │   ├── **1.8.2.1 Subjective (Nominative) Case**
+│   │   │   │   ├── **Function**
+│   │   │   │   │   └── Used for subjects and subject complements
+│   │   │   │   ├── **Pronouns**
+│   │   │   │   │   └── I, we, he, she, they, who
+│   │   │   │   └── **Example**
+│   │   │   │       └── She is a doctor.
+│   │   │   │
+│   │   │   ├── **1.8.2.2 Objective (Accusative) Case**
+│   │   │   │   ├── **Function**
+│   │   │   │   │   └── Used for objects of verbs and prepositions
+│   │   │   │   ├── **Pronouns**
+│   │   │   │   │   └── me, us, him, her, them, whom
+│   │   │   │   └── **Example**
+│   │   │   │       └── They invited him.
+│   │   │   │
+│   │   │   └── **1.8.2.3 Possessive (Genitive) Case**
+│   │   │       ├── **Function**
+│   │   │       │   └── Shows ownership or association
+│   │   │       ├── **Forms**
+│   │   │       │   ├── **Determiner possessive** → my book
+│   │   │       │   └── **Independent possessive** → the book is mine
+│   │   │       └── **Example**
+│   │   │           └── This is her pen.
+│   │   │
+│   │   └── **Exam Note**
+│   │       └── Case distinction is visible mainly in pronouns,
+│   │           not in common nouns.
 │   │
-│   │ ├── Types of Case (Modern English)
-│   │ │
-│   │ ├── 1.8.2.1 Subjective (Nominative) Case
-│   │ │ │
-│   │ │ ├── Function
-│   │ │ │ └── Used for subjects and subject complements.
-│   │ │ ├── Pronouns
-│   │ │ │ └── I, we, he, she, they, who
-│   │ │ └── Example
-│   │ │ └── She is a doctor.
-│   │ │
-│   │ ├── 1.8.2.2 Objective (Accusative) Case
-│   │ │ │
-│   │ │ ├── Function
-│   │ │ │ └── Used for objects of verbs and prepositions.
-│   │ │ ├── Pronouns
-│   │ │ │ └── me, us, him, her, them, whom
-│   │ │ └── Example
-│   │ │ └── They invited him.
-│   │ │
-│   │ ├── 1.8.2.3 Possessive (Genitive) Case
-│   │ │ │
-│   │ │ ├── Function
-│   │ │ │ └── Shows ownership or association.
-│   │ │ ├── Forms
-│   │ │ │ ├── Determiner possessive (my book)
-│   │ │ │ └── Independent possessive (the book is mine)
-│   │ │ └── Example
-│   │ │ └── This is her pen.
-│   │ │
-│   │ └── Exam Note
-│   │ └── Case distinction is visible mainly in pronouns,
-│   │ not in common nouns.
+│   ├── **1.8.3 Case Assignment**
+│   │   │
+│   │   ├── **Definition**
+│   │   │   └── The process by which grammatical case is assigned
+│   │   │       to noun phrases by structural position.
+│   │   │
+│   │   ├── **Assigners**
+│   │   │   ├── **Finite Verb → Subjective Case**
+│   │   │   │   └── Example: She runs fast.
+│   │   │   │
+│   │   │   ├── **Verb → Objective Case**
+│   │   │   │   └── Example: I saw him.
+│   │   │   │
+│   │   │   └── **Preposition → Objective Case**
+│   │   │       └── Example: with me
+│   │   │
+│   │   └── **Exam Focus**
+│   │       └── Prepositions never take subjective case.
 │   │
-│   ├── 1.8.3 Case Assignment
-│   │ │
-│   │ ├── Definition
-│   │ │ └── The process by which grammatical case is assigned
-│   │ to noun phrases by structural position.
-│   │ │
-│   │ ├── Assigners
-│   │ │ ├── Finite Verb → Subjective Case
-│   │ │ │ └── She runs fast.
-│   │ │ │
-│   │ │ ├── Verb → Objective Case
-│   │ │ │ └── I saw him.
-│   │ │ │
-│   │ │ └── Preposition → Objective Case
-│   │ │ └── with me.
-│   │ │
-│   │ └── Exam Focus
-│   │ └── Prepositions never take subjective case.
+│   ├── **1.8.4 Special Case Constructions**
+│   │   │
+│   │   ├── **It-cleft / Dummy Subject**
+│   │   │   └── It is I who am responsible. ✔ (formal)
+│   │   │
+│   │   ├── **Comparative Structures**
+│   │   │   ├── **Formal** → He is taller than I (am).
+│   │   │   └── **Informal** → taller than me ✔ (spoken)
+│   │   │
+│   │   ├── **Coordination**
+│   │   │   ├── **Correct** → She and I went home.
+│   │   │   └── **Correct** → They invited him and me.
+│   │   │
+│   │   └── **Who vs Whom**
+│   │       ├── **Subject** → who
+│   │       └── **Object** → whom
 │   │
-│   ├── 1.8.4 Special Case Constructions
-│   │ │
-│   │ ├── It-cleft / Dummy Subject
-│   │ │ └── It is I who am responsible. ✔ (formal)
-│   │ │
-│   │ ├── Comparative Structures
-│   │ │ ├── Formal: He is taller than I (am).
-│   │ │ └── Informal: taller than me ✔ (spoken)
-│   │ │
-│   │ ├── Coordination
-│   │ │ ├── Correct: She and I went home.
-│   │ │ └── Correct: They invited him and me.
-│   │ │
-│   │ └── Who vs Whom
-│   │ ├── Subject → who
-│   │ └── Object → whom
+│   ├── **1.8.5 Common Exam Traps**
+│   │   │
+│   │   ├── **Preposition + Pronoun**
+│   │   │   ├── ✔ for me
+│   │   │   └── ✘ for I
+│   │   │
+│   │   ├── **Coordination Errors**
+│   │   │   ├── ✔ between you and me
+│   │   │   └── ✘ between you and I
+│   │   │
+│   │   ├── **Verb Complement**
+│   │   │   └── They elected him president.
+│   │   │
+│   │   ├── **Ellipsis Confusion**
+│   │   │   └── She is older than I (am).
+│   │   │
+│   │   └── **Hypercorrection**
+│   │       └── Overuse of "I" instead of "me"
 │   │
-│   ├── 1.8.5 Common Exam Traps
-│   │ │
-│   │ ├── Preposition + Pronoun
-│   │ │ └── for me ✔ / for I ✘
-│   │ │
-│   │ ├── Verb Complement
-│   │ │ └── They elected him president.
-│   │ │
-│   │ ├── Ellipsis Confusion
-│   │ │ └── She is older than I (am).
-│   │ │
-│   │ └── Hypercorrection
-│   │ └── Overuse of “I” instead of “me”
-│   │
-│   └── 1.8.6 Competitive Exam Summary
-│   ├── Government = control
-│   ├── Case = form
-│   ├── Verbs & Prepositions govern objective case
-│   ├── Subject position → subjective case
-│   └── Preposition + “I” = almost always wrong
+│   └── **1.8.6 Competitive Exam Summary**
+│       │
+│       ├── **Government = control**
+│       │   └── One word controls another
+│       │
+│       ├── **Case = form**
+│       │   └── How pronouns change based on function
+│       │
+│       ├── **Verbs & Prepositions govern objective case**
+│       │   └── Always use: me, him, her, us, them
+│       │
+│       ├── **Subject position → subjective case**
+│       │   └── Always use: I, he, she, we, they
+│       │
+│       └── **Preposition + "I" = almost always wrong**
+│           └── Memory Aid: After prepositions, use objective case
 │
 ├── **1.9 Subordination & Coordination**
 │   │
@@ -440,7 +609,7 @@ The arrangement of words and phrases to create well-formed sentences.
         └── **Emphasis**: Highlighting certain elements through stress, intonation, or word order.
             - Example: *It was **him** who told me.* (Cleft construction emphasizing "him")
 
----ll-formed sentences.
+---
 
 ### 3.1 SENTENCE FORCE & TYPES
 │
@@ -495,52 +664,9 @@ Detailed analysis of the standard Clause components.
 │   ├── **Internal DP/NP Structure**
 │   │   ├── **Spec-DP/NP**: **Head** (The Noun/Pronoun filling the subject slot)
 │   │   │    ├── **Noun**
-│   │   │    │   ├── **Proper Nouns**: Specific names (*London, Sarah*)
-│   │   │    │   └── **Common Nouns**
-│   │   │    │       ├── **Abstract Nouns**: Ideas, qualities, states (*Love, Courage, Honesty, Knowledge, Happiness*)
-│   │   │    │       ├── **Concrete Nouns**
-│   │   │    │       |     ├── **Countable Nouns**
-│   │   │    │       |     │   ├── **Individual/Singular items**: (*Book, Chair, Pen, Man, City*)
-│   │   │    │       |     │   └── **Plural items**: (*Books, Chairs, Pens, Men, Cities*)
-│   │   │    │       |     |        └── **Collective Nouns**
-│   │   │    │       |     |              ├── **Groups**: (*Team, Flock, Herd, Swarm, Pack*)
-│   │   │    │       |     |              └── **Collections/Institutions**: (*Library, Gallery, Orchestra, Choir, Ensemble*)
-│   │   │    │       |     └── **Uncountable Nouns**
-│   │   │    │       |          ├── **Mass items**: (*Water, Air, Fire, Food, Furniture, Information*)
-│   │   │    │       |          └── **Material items**: (*Gold, Water, Wood, Steel, Paper*)
-│   │   │    │       |     
-│   │   │    │       └── **Compound Nouns**
-│   │   │    │            ├── **Spaced/Open**: (*Bus stop, Post office, Tea party*)
-│   │   │    │            ├── **Hyphenated**: (*Mother-in-law, Father-in-law, Son-in-law*)
-│   │   │    │            └── **Closed/Solid**: (*Snowball, Keyboard, Notebook*)
 │   │   │    │   
 │   │   │    ├── **Pronoun**
-│   │   │    │   ├── **Personal Pronouns**
-│   │   │    │   │   ├── **Subjective (Nominative Case)**: (*I, We, You, He, She, It, They*)
-│   │   │    │   │   ├── **Objective (Accusative Case)**: (*Me, Us, You, Him, Her, It, Them*)
-│   │   │    │   │   └── **Possessive Personal Pronouns**
-│   │   │    │   │       ├── **Possessive Adjectives (Determiners)**: (*My, Our, Your, His, Her, Its, Their*)
-│   │   │    │   │       └── **Possessive Pronouns (Absolute)**: (*Mine, Ours, Yours, His, Hers, Its, Theirs*)
-│   │   │    │   │
-│   │   │    │   ├── **Reflexive Pronouns**: (*Myself, Yourself, Himself, Herself, Itself, Ourselves, Yourselves, Themselves, Oneself*)
-│   │   │    │   ├── **Emphatic (Intensive)**: (*Same forms as Reflexive; Myself, Himself, Themselves, etc.*)
-│   │   │    │   ├── Difference between Reflexive and Emphatic: (*Myself, Himself, Themselves, etc.*)
-│   │   │    │   ├── **Demonstrative**: (*This, That, These, Those, Such, The same, Yonder*)
-│   │   │    │   ├── **Interrogative**: (*Who, Whom, Whose, Which, What, Whoever, Whichever, Whatever*)
-│   │   │    │   ├── **Relative**: (*Who, Whom, Whose, Which, That, Whoever, Whomever, Whichever, Whatever, As, But*)
-|   |   |    |   ├── Difference between Interrogative and Relative: (*Who, Whom, Whose, Which, That, Whoever, Whomever, Whichever, Whatever, As, But*)
-│   │   │    │   ├── **Indefinite Pronouns**
-│   │   │    │   │   ├── **Universal**: (*All, Both, Each, Every, Everyone, Everybody, Everything*)
-│   │   │    │   │   ├── **Distributive**: (*Each, Either, Neither*)
-│   │   │    │   │   ├── **Quantitative**: (*Some, Any, Much, Many, Few, Little, Several, Enough, More, Most, Both*)
-│   │   │    │   │   ├── **Negative**: (*None, Nobody, Nothing, No one, Neither*)
-│   │   │    │   │   └── **Existential**: (*Someone, Somebody, Something, Anyone, Anybody, Anything*)
-│   │   │    │   ├── **Reciprocal**: (*Each other, One another*)
-│   │   │    │   ├── **Relative–Interrogative Overlap**: (*Who, Whom, Whose, Which, What*)
-│   │   │    │   ├── **Dummy / Expletive**: (*It, There*)
-│   │   │    │   ├── **Distributive (Traditional)**: (*Each, Either, Neither*)
-│   │   │    │   └── Difference between Distributive (Traditional) and Indefinite Pronouns: (*Each, Either, Neither*)
-│   │   │    │
+│   │   │    │   
 │   │   │    └── **Gerund (Verb + ing used as a Noun)**
 │   │   │        ├── **Core Identity**
 │   │   │        │   ├── **Form**: (*Base Verb + -ing; e.g., walking, eating, being*)
@@ -844,25 +970,7 @@ Detailed analysis of the standard Clause components.
 │       ├── **Conjuncts**: (Linking: *However, Therefore*)
 │       └── **Disjuncts**: (Speaker stance: *Frankl
 
-├── 3. WORD CLASSES
-│   │
-│   ├── Content Words
-│   │   ├── Noun
-│   │   ├── Verb
-│   │   ├── Adjective
-│   │   └── Adverb
-│   │
-│   └── Function Words
-│       ├── Determiner
-│       ├── Pronoun
-│       ├── Preposition
-│       ├── Conjunction
-│       │   ├── Coordinating
-│       │   └── Subordinating
-│       ├── Complementizer (that, if)
-│       ├── Particle
-│       └── Interjection
-y, Honestly*)
+
 
 ---
 
