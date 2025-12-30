@@ -1,0 +1,2021 @@
+================================================================================
+HEADLINE EXTRACTION REPORT
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 01-Basic-Patterns\01a-Pattern-1-Examples.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Pattern 1: S + V — Detailed Examples
+  ◦ [2] Pattern Structure
+  ◦ [2] Common Intransitive Verbs by Category
+    ◦ [3] Movement Verbs
+    ◦ [3] State/Condition Verbs
+    ◦ [3] Action Verbs (Complete Without Object)
+    ◦ [3] Occurrence Verbs
+  ◦ [2] Extensive Examples
+    ◦ [3] Basic Examples (50+)
+  ◦ [2] Variations
+    ◦ [3] With Compound Subjects
+    ◦ [3] With Modified Subjects
+    ◦ [3] With Different Subject Types
+  ◦ [2] Different Tenses & Forms
+    ◦ [3] Simple Present
+    ◦ [3] Simple Past
+    ◦ [3] Simple Future
+    ◦ [3] Present Continuous
+    ◦ [3] Past Continuous
+    ◦ [3] Present Perfect
+    ◦ [3] Past Perfect
+    ◦ [3] Future Perfect
+  ◦ [2] Modal Verbs with Pattern 1
+  ◦ [2] Negative Forms
+  ◦ [2] Question Forms (Inverted)
+  ◦ [2] Common Mistakes to Avoid
+    ◦ [3] ❌ Adding Unnecessary Objects
+    ◦ [3] ❌ Confusing Intransitive with Transitive
+    ◦ [3] ❌ Subject-Verb Agreement
+  ◦ [2] Pattern 1 vs Pattern 1 + Optional Adverbial
+    ◦ [3] Pattern 1 (Complete Without Adverbial):
+    ◦ [3] Pattern 4 (Requires Adverbial):
+  ◦ [2] Practice Exercises
+    ◦ [3] Exercise 1: Identify Subject and Verb
+    ◦ [3] Exercise 2: Create Pattern 1 Sentences
+    ◦ [3] Exercise 3: Add Optional Adverbials
+    ◦ [3] Exercise 4: Tense Transformation
+  ◦ [2] Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 01-Basic-Patterns\01b-Pattern-2-Examples.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Pattern 2: S + V + O — Detailed Examples
+  ◦ [2] Pattern Structure
+  ◦ [2] Common Transitive Verbs by Category
+    ◦ [3] Communication Verbs
+    ◦ [3] Cognitive Verbs
+    ◦ [3] Physical Action Verbs
+    ◦ [3] Sensory Verbs
+    ◦ [3] Possession/Transfer Verbs
+    ◦ [3] Creation Verbs
+  ◦ [2] Extensive Examples (100+)
+    ◦ [3] Basic Transitive Actions
+  ◦ [2] Different Object Types
+    ◦ [3] 1. Noun Objects
+    ◦ [3] 2. Pronoun Objects
+    ◦ [3] 3. Noun Clause Objects
+    ◦ [3] 4. Gerund Objects (Verbal Noun)
+    ◦ [3] 5. Infinitive Objects
+  ◦ [2] Passive Voice Transformation
+    ◦ [3] Active → Passive Examples
+  ◦ [2] Different Tenses
+    ◦ [3] Simple Present
+    ◦ [3] Simple Past
+    ◦ [3] Simple Future
+    ◦ [3] Present Continuous
+    ◦ [3] Past Continuous
+    ◦ [3] Present Perfect
+    ◦ [3] Past Perfect
+    ◦ [3] Future Perfect
+  ◦ [2] Negative Forms
+  ◦ [2] Question Forms
+  ◦ [2] Common Mistakes to Avoid
+    ◦ [3] ❌ Using Intransitive Verbs with Objects
+    ◦ [3] ❌ Pronoun Case Errors
+    ◦ [3] ❌ Missing Required Object
+    ◦ [3] ❌ Confusing Object with Complement
+  ◦ [2] Pattern 2 Test: Is it an Object?
+    ◦ [3] Test 1: Ask "What?" or "Whom?"
+    ◦ [3] Test 2: Passive Transformation
+    ◦ [3] Test 3: Different from Subject
+  ◦ [2] Practice Exercises
+    ◦ [3] Exercise 1: Identify Object
+    ◦ [3] Exercise 2: Create Pattern 2 Sentences
+    ◦ [3] Exercise 3: Convert to Passive
+    ◦ [3] Exercise 4: Object Type Identification
+  ◦ [2] Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 01-Basic-Patterns\01c-Pattern-3-Examples.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Pattern 3: S + V + C — Detailed Examples
+  ◦ [2] Pattern Structure
+  ◦ [2] Common Linking Verbs
+    ◦ [3] Primary Linking Verbs
+    ◦ [3] Sensory Linking Verbs
+    ◦ [3] State/Condition Linking Verbs
+  ◦ [2] Extensive Examples (100+)
+    ◦ [3] With "Be" Verb
+    ◦ [3] With "Become"
+    ◦ [3] With "Seem"
+    ◦ [3] With "Appear"
+    ◦ [3] With Sensory Verbs
+    ◦ [3] With State/Condition Verbs
+  ◦ [2] Complement Types
+    ◦ [3] 1. Noun Complements (Rename/Identify Subject)
+    ◦ [3] 2. Adjective Complements (Describe Subject)
+    ◦ [3] 3. Prepositional Phrase Complements
+    ◦ [3] 4. Infinitive/Clause Complements
+  ◦ [2] Different Tenses
+    ◦ [3] Simple Present
+    ◦ [3] Simple Past
+    ◦ [3] Simple Future
+    ◦ [3] Present Continuous
+    ◦ [3] Past Continuous
+    ◦ [3] Present Perfect
+    ◦ [3] Past Perfect
+    ◦ [3] Future Perfect
+  ◦ [2] Negative Forms
+  ◦ [2] Question Forms
+  ◦ [2] Pattern 3 vs Pattern 2 (Key Difference)
+    ◦ [3] Pattern 3: Complement = Subject
+    ◦ [3] Pattern 2: Object ≠ Subject
+    ◦ [3] Test: Replace verb with "="
+  ◦ [2] Common Mistakes to Avoid
+    ◦ [3] ❌ Using Action Verbs as Linking Verbs
+    ◦ [3] ❌ Confusing Complement with Object
+    ◦ [3] ❌ Using Object Pronouns with "Be"
+    ◦ [3] ❌ Adjective vs Adverb Confusion
+  ◦ [2] Special Cases
+    ◦ [3] "Grow" as Linking Verb vs Non-Linking
+    ◦ [3] "Turn" Special Usage
+    ◦ [3] "Get" as Linking Verb
+  ◦ [2] Practice Exercises
+    ◦ [3] Exercise 1: Identify Complement
+    ◦ [3] Exercise 2: Pattern 3 vs Pattern 2
+    ◦ [3] Exercise 3: Complete the Sentence
+    ◦ [3] Exercise 4: Transform Tenses
+    ◦ [3] Exercise 5: Linking Verb or Not?
+  ◦ [2] Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 01-Basic-Patterns\01d-Pattern-4-Examples.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Pattern 4: S + V + A — Detailed Examples
+  ◦ [2] Pattern Structure
+  ◦ [2] Types of Adverbials
+    ◦ [3] Place Adverbials (Where?)
+    ◦ [3] Time Adverbials (When?)
+    ◦ [3] Manner Adverbials (How?)
+    ◦ [3] Frequency Adverbials (How often?)
+  ◦ [2] Extensive Examples (100+)
+    ◦ [3] Place Adverbials (ESSENTIAL)
+    ◦ [3] Time Adverbials (ESSENTIAL or COMMON)
+    ◦ [3] Manner Adverbials
+    ◦ [3] Frequency Adverbials
+    ◦ [3] Duration Adverbials
+    ◦ [3] Direction Adverbials
+  ◦ [2] Adverbial Forms
+    ◦ [3] 1. Single-Word Adverbs
+    ◦ [3] 2. Prepositional Phrases
+    ◦ [3] 3. Adverbial Phrases
+    ◦ [3] 4. Adverbial Clauses
+  ◦ [2] Different Tenses
+    ◦ [3] Simple Present
+    ◦ [3] Simple Past
+    ◦ [3] Simple Future
+    ◦ [3] Present Continuous
+    ◦ [3] Past Continuous
+    ◦ [3] Present Perfect
+  ◦ [2] Negative Forms
+  ◦ [2] Question Forms
+  ◦ [2] Pattern 4 vs Pattern 1 (Key Difference)
+    ◦ [3] Pattern 4: Adverbial REQUIRED
+    ◦ [3] Pattern 1: Adverbial OPTIONAL
+    ◦ [3] Test: Can you remove the adverbial?
+  ◦ [2] Verbs That Typically Require Adverbials
+    ◦ [3] Place Adverbials Required:
+    ◦ [3] Time Adverbials Common:
+    ◦ [3] Manner Adverbials Common:
+  ◦ [2] Common Mistakes to Avoid
+    ◦ [3] ❌ Omitting Required Adverbial
+    ◦ [3] ❌ Confusing Pattern 4 with Pattern 2
+    ◦ [3] ❌ Using Adjectives Instead of Adverbs
+  ◦ [2] Practice Exercises
+    ◦ [3] Exercise 1: Identify the Adverbial
+    ◦ [3] Exercise 2: Complete the Sentence
+    ◦ [3] Exercise 3: Pattern 4 or Pattern 1?
+    ◦ [3] Exercise 4: Transform
+    ◦ [3] Exercise 5: Adverbial Type
+  ◦ [2] Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 01-Basic-Patterns\01e-Pattern-5-Examples.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Pattern 5: S + V + IO + DO — Detailed Examples
+  ◦ [2] Pattern Structure
+  ◦ [2] Common Ditransitive Verbs
+    ◦ [3] Transfer Verbs (Give/Send Pattern)
+    ◦ [3] Communication Verbs (Tell Pattern)
+    ◦ [3] Creation/Acquisition Verbs (Make/Buy Pattern with "for")
+    ◦ [3] Other Ditransitive Verbs
+  ◦ [2] Extensive Examples (100+)
+    ◦ [3] With "Give"
+    ◦ [3] With "Send"
+    ◦ [3] With "Tell"
+    ◦ [3] With "Show"
+    ◦ [3] With "Teach"
+    ◦ [3] With "Offer"
+    ◦ [3] With "Bring"
+    ◦ [3] With "Buy"
+    ◦ [3] With "Make"
+    ◦ [3] With "Write"
+    ◦ [3] With "Read"
+    ◦ [3] With "Lend"
+    ◦ [3] With "Hand/Pass"
+    ◦ [3] With "Pay"
+    ◦ [3] With "Sell"
+    ◦ [3] With "Throw/Toss"
+    ◦ [3] With "Wish"
+    ◦ [3] With "Owe"
+    ◦ [3] With "Cook/Bake"
+  ◦ [2] Alternative Pattern: S + V + DO + to/for + IO
+    ◦ [3] Using "TO" (Transfer/Communication)
+    ◦ [3] Using "FOR" (Benefit/Creation)
+  ◦ [2] When to Use "TO" vs "FOR"
+    ◦ [3] Use "TO" (Transfer/Communication)
+    ◦ [3] Use "FOR" (Benefit/Purpose)
+  ◦ [2] Passive Voice Transformations
+    ◦ [3] Option 1: IO Becomes Subject
+    ◦ [3] Option 2: DO Becomes Subject
+  ◦ [2] Different Tenses
+    ◦ [3] Simple Present
+    ◦ [3] Simple Past
+    ◦ [3] Simple Future
+    ◦ [3] Present Continuous
+    ◦ [3] Past Continuous
+    ◦ [3] Present Perfect
+    ◦ [3] Past Perfect
+  ◦ [2] Negative Forms
+  ◦ [2] Question Forms
+  ◦ [2] Identification Tests
+    ◦ [3] Test 1: Ask "What?" and "To/For Whom?"
+    ◦ [3] Test 2: Rephrase with "to" or "for"
+    ◦ [3] Test 3: Two Passive Forms
+  ◦ [2] Common Mistakes to Avoid
+    ◦ [3] ❌ Wrong Word Order
+    ◦ [3] ❌ Confusing IO with DO
+    ◦ [3] ❌ Using Wrong Preposition
+    ◦ [3] ❌ Both Objects as Pronouns (Awkward)
+  ◦ [2] Practice Exercises
+    ◦ [3] Exercise 1: Identify IO and DO
+    ◦ [3] Exercise 2: Rephrase with "to" or "for"
+    ◦ [3] Exercise 3: Create Passives
+    ◦ [3] Exercise 4: Complete the Sentence
+    ◦ [3] Exercise 5: Correct the Mistake
+  ◦ [2] Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 01-Basic-Patterns\01f-Pattern-6-Examples.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Pattern 6: S + V + O + C — Detailed Examples
+  ◦ [2] Pattern Structure
+  ◦ [2] Common Complex-Transitive Verbs
+    ◦ [3] Verbs of Appointment/Selection
+    ◦ [3] Verbs of Causation (Make/Cause)
+    ◦ [3] Verbs of Perception/Judgment
+    ◦ [3] Verbs of Transformation
+    ◦ [3] Other Complex-Transitive Verbs
+  ◦ [2] Extensive Examples (100+)
+    ◦ [3] With "Elect"
+    ◦ [3] With "Name/Call"
+    ◦ [3] With "Appoint"
+    ◦ [3] With "Crown/Declare"
+    ◦ [3] With "Make" (Causation)
+    ◦ [3] With "Consider/Think/Believe"
+    ◦ [3] With "Find"
+    ◦ [3] With "Paint/Color/Dye"
+    ◦ [3] With "Keep/Leave"
+    ◦ [3] With "Drive/Render"
+    ◦ [3] With "Judge/Deem"
+    ◦ [3] With "Prove"
+    ◦ [3] With "Get" (Causative)
+    ◦ [3] With "Set"
+    ◦ [3] With "Want/Like/Prefer"
+  ◦ [2] Object Complement Types
+    ◦ [3] 1. Noun Complements
+    ◦ [3] 2. Adjective Complements
+    ◦ [3] 3. Participle Complements
+  ◦ [2] Different Tenses
+    ◦ [3] Simple Present
+    ◦ [3] Simple Past
+    ◦ [3] Simple Future
+    ◦ [3] Present Continuous
+    ◦ [3] Present Perfect
+  ◦ [2] Passive Voice
+  ◦ [2] Negative Forms
+  ◦ [2] Question Forms
+  ◦ [2] Pattern 6 Tests
+    ◦ [3] Test 1: Complement Describes Object (Not Subject)
+    ◦ [3] Test 2: Insert "as" or "to be"
+    ◦ [3] Test 3: Object = Complement in Meaning
+  ◦ [2] Pattern 6 vs Pattern 5 (Key Difference)
+    ◦ [3] Pattern 6: Object = Complement
+    ◦ [3] Pattern 5: Two Different Things
+    ◦ [3] Test: Are they the same?
+  ◦ [2] Common Mistakes to Avoid
+    ◦ [3] ❌ Confusing Pattern 6 with Pattern 5
+    ◦ [3] ❌ Missing the Complement
+    ◦ [3] ❌ Using Adverbs Instead of Adjectives
+  ◦ [2] Practice Exercises
+    ◦ [3] Exercise 1: Identify O and C
+    ◦ [3] Exercise 2: Pattern 6 or Pattern 5?
+    ◦ [3] Exercise 3: Complete with Object Complement
+    ◦ [3] Exercise 4: Convert to Passive
+    ◦ [3] Exercise 5: Insert "as" or "to be"
+  ◦ [2] Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 01-Basic-Patterns\01g-Pattern-7-Examples.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Pattern 7: S + V + O + A — Detailed Examples
+  ◦ [2] Pattern Structure
+  ◦ [2] Verbs Requiring Object + Adverbial
+    ◦ [3] Position/Location Verbs (ESSENTIAL Adverbial)
+    ◦ [3] Movement/Transfer Verbs (Common with Adverbial)
+    ◦ [3] Discovery/Finding Verbs
+    ◦ [3] Leaving Verbs
+  ◦ [2] Extensive Examples (100+)
+    ◦ [3] With "Put" (ESSENTIAL)
+    ◦ [3] With "Place" (ESSENTIAL)
+    ◦ [3] With "Set" (ESSENTIAL)
+    ◦ [3] With "Lay" (ESSENTIAL)
+    ◦ [3] With "Throw/Toss"
+    ◦ [3] With "Push/Pull/Move"
+    ◦ [3] With "Carry/Bring/Take"
+    ◦ [3] With "Leave"
+    ◦ [3] With "Find/Discover/Locate"
+    ◦ [3] With "Hang/Mount/Fix/Attach"
+    ◦ [3] With "Pour/Spread/Scatter"
+    ◦ [3] With "Send/Mail/Ship"
+    ◦ [3] With Time/Manner Adverbials
+    ◦ [3] With Other Verbs
+  ◦ [2] Adverbial Types in Pattern 7
+    ◦ [3] 1. Place Adverbials (ESSENTIAL with Put/Place/Set)
+    ◦ [3] 2. Time Adverbials (Common but not always essential)
+    ◦ [3] 3. Manner Adverbials (Describe how the action was done)
+  ◦ [2] Different Tenses
+    ◦ [3] Simple Present
+    ◦ [3] Simple Past
+    ◦ [3] Simple Future
+    ◦ [3] Present Continuous
+    ◦ [3] Present Perfect
+  ◦ [2] Negative Forms
+  ◦ [2] Question Forms
+  ◦ [2] Pattern 7 Tests
+    ◦ [3] Test 1: Both Object AND Adverbial Required
+    ◦ [3] Test 2: Remove the Adverbial
+  ◦ [2] Pattern 7 vs Pattern 2 (Key Difference)
+    ◦ [3] Pattern 7: Adverbial ESSENTIAL
+    ◦ [3] Pattern 2: Adverbial OPTIONAL
+    ◦ [3] Verbs That Require Pattern 7:
+  ◦ [2] Pattern 7 vs Pattern 4 (Key Difference)
+    ◦ [3] Pattern 7: Has OBJECT + Adverbial
+    ◦ [3] Pattern 4: Has Adverbial (NO Object)
+  ◦ [2] Common Mistakes to Avoid
+    ◦ [3] ❌ Omitting Required Adverbial with Put/Place/Set/Lay
+    ◦ [3] ❌ Confusing Lay (Transitive) with Lie (Intransitive)
+    ◦ [3] ❌ Confusing Essential with Optional Adverbials
+  ◦ [2] Practice Exercises
+    ◦ [3] Exercise 1: Identify O and A
+    ◦ [3] Exercise 2: Essential or Optional Adverbial?
+    ◦ [3] Exercise 3: Complete the Sentence
+    ◦ [3] Exercise 4: Pattern 7 or Pattern 4?
+    ◦ [3] Exercise 5: Correct the Mistake
+  ◦ [2] Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 01-Basic-Patterns\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Basic Sentence Patterns — Complete Guide
+  ◦ [2] Introduction
+  ◦ [2] Legend & Notation
+  ◦ [2] The Seven Basic Sentence Patterns
+    ◦ [3] Pattern 1: S + V (Subject + Verb)
+    ◦ [3] Pattern 2: S + V + O (Subject + Verb + Object)
+    ◦ [3] Pattern 3: S + V + C (Subject + Verb + Complement)
+    ◦ [3] Pattern 4: S + V + A (Subject + Verb + Adverbial)
+    ◦ [3] Pattern 5: S + V + IO + DO (Subject + Verb + Indirect Object + Direct Object)
+    ◦ [3] Pattern 6: S + V + O + C (Subject + Verb + Object + Complement)
+    ◦ [3] Pattern 7: S + V + O + A (Subject + Verb + Object + Adverbial)
+  ◦ [2] Quick Summary Table
+  ◦ [2] Pattern Comparison & Identification
+    ◦ [3] How to Identify the Pattern
+    ◦ [3] Common Confusions
+  ◦ [2] Expanded Patterns & Variations
+    ◦ [3] Adding Optional Elements
+    ◦ [3] Multiple Adverbials
+    ◦ [3] Complex Subjects and Objects
+  ◦ [2] Practice Exercises
+    ◦ [3] Exercise 1: Identify the Pattern
+    ◦ [3] Exercise 2: Transform Patterns
+  ◦ [2] Subject Position Variations: Inversion
+    ◦ [3] Types of Inversion
+      ◦ [4] 1. Locative Inversion (Adverbial/Verb before Subject)
+      ◦ [4] 2. Existential "There" / "Here"
+      ◦ [4] 3. Interrogative Inversion (Questions)
+      ◦ [4] 4. Conditional/Literary Inversion
+      ◦ [4] 5. Negative Adverbial Inversion
+    ◦ [3] Inversion Comparison Table
+    ◦ [3] Detailed Inversion Guides
+  ◦ [2] Related Topics
+  ◦ [2] Key Takeaways
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 02-Subject\02a-Noun-Phrases.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Noun Phrases as Subjects — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Components of a Subject Noun Phrase
+    ◦ [3] A. The Head
+    ◦ [3] B. Determiners (The Setup)
+    ◦ [3] C. Pre-Modifiers (Adjectives/Participles)
+    ◦ [3] D. Post-Modifiers (Phrases/Clauses)
+  ◦ [2] 3. Simple vs. Complete Subject
+  ◦ [2] 4. Complex Constructions
+    ◦ [3] A. Appositives
+    ◦ [3] B. Coordination (Compound Subjects)
+  ◦ [2] 5. Typical Errors
+    ◦ [3] ❌ "The List of Items Are" Mistake
+    ◦ [3] ❌ "One of the..." Mistake
+  ◦ [2] 6. Practice Exercises
+    ◦ [3] Identify the HEAD NOUN in the Subject:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 02-Subject\02b-Pronouns.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Pronouns as Subjects — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Personal Pronouns (Subjective Case)
+    ◦ [3] Common Error: Case Confusion
+    ◦ [3] The "It" Pronoun
+  ◦ [2] 3. Indefinite Pronouns
+    ◦ [3] A. Always Singular
+    ◦ [3] B. Always Plural
+    ◦ [3] C. Variable (Singular OR Plural)
+  ◦ [2] 4. Demonstrative Pronouns
+  ◦ [2] 5. Relative Pronouns (Inside Clauses)
+  ◦ [2] 6. Interrogative Pronouns (Questions)
+  ◦ [2] 7. Practice Exercises
+    ◦ [3] Choose the Correct Pronoun or Verb:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 02-Subject\02c-Verbal-Subjects.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Verbal Subjects (Gerunds & Infinitives) — Detailed Guide
+  ◦ [2] 1. Overview
+  ◦ [2] 2. Gerund Phrases (The "-ing" Form)
+    ◦ [3] Structure
+    ◦ [3] Characteristics
+    ◦ [3] Examples
+  ◦ [2] 3. Infinitive Phrases (The "To" Form)
+    ◦ [3] Structure
+    ◦ [3] Usage
+    ◦ [3] The "It" Transformation (Extraposition)
+  ◦ [2] 4. Gerund vs. Infinitive as Subject
+  ◦ [2] 5. "For...To" Construction
+  ◦ [2] 6. Practice Exercises
+    ◦ [3] Transformations:
+    ◦ [3] Agreement:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 02-Subject\02d-Clausal-Subjects.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Clausal Subjects — Detailed Guide
+  ◦ [2] 1. Overview
+  ◦ [2] 2. Noun Clauses with "That"
+    ◦ [3] Structure
+    ◦ [3] Examples
+    ◦ [3] Agreement
+  ◦ [2] 3. Wh-Clauses (Interrogative Content)
+    ◦ [3] Structure
+    ◦ [3] Examples
+    ◦ [3] "What" Clauses: Singular or Plural?
+  ◦ [2] 4. Whether-Clauses (Yes/No content)
+    ◦ [3] Structure
+    ◦ [3] Examples
+  ◦ [2] 5. Extraposition ("It" Transformation)
+    ◦ [3] That-Clause
+    ◦ [3] Wh-Clause
+    ◦ [3] Whether-Clause
+  ◦ [2] 6. Practice Exercises
+    ◦ [3] Identification
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 02-Subject\02e-Dummy-Subjects.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Dummy / Expletive Subjects (It & There) — Detailed Guide
+  ◦ [2] 1. What is a Dummy Subject?
+  ◦ [2] 2. Dummy "It"
+    ◦ [3] A. Weather and Environment
+    ◦ [3] B. Time and Date
+    ◦ [3] C. Distance
+    ◦ [3] D. Anticipatory "It" (Extraposition)
+  ◦ [2] 3. Dummy "There" (Existential)
+    ◦ [3] Structure
+    ◦ [3] The "Inversion" Rule
+    ◦ [3] Usage vs. "It"
+    ◦ [3] Advanced "There" Usage
+  ◦ [2] 4. Common Mistakes
+    ◦ [3] ❌ Confusion of It/There
+    ◦ [3] ❌ Agreement Errors with There
+    ◦ [3] ❌ Double Subject
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Choose It or There:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 02-Subject\02f-Subject-Agreement.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Subject-Verb Agreement
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 02-Subject\02g-Subject-Identification.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Identifying the Subject — Detailed Guide
+  ◦ [2] 1. Why is it Difficult?
+  ◦ [2] 2. Five Tests to Find the Subject
+    ◦ [3] Test 1: The Verb-Question Test (Most Common)
+    ◦ [3] Test 2: The Tag Question Test
+    ◦ [3] Test 3: The Yes/No Question Test (Inversion)
+    ◦ [3] Test 4: The Pronoun Substitution Test
+    ◦ [3] Test 5: The Agreement Test (Pluralization)
+  ◦ [2] 3. Dissecting Complex Sentences (Case Studies)
+    ◦ [3] Sentence A (Prepositional Trap)
+    ◦ [3] Sentence B (Inverted)
+    ◦ [3] Sentence C (Expletive)
+  ◦ [2] 4. Practice Exercises
+  ◦ [2] 6. Advanced Positioning: Inverted Subjects
+    ◦ [3] A. Interrogative Order (Questions)
+    ◦ [3] B. Locative Inversion
+    ◦ [3] C. Negative Inversion
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 02-Subject\02h-Subject-Relationships.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Subject Relationships: The Subject Complement — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. General Rules
+  ◦ [2] 3. Types of Subject Complements
+    ◦ [3] A. Noun / Noun Phrase (Predicate Nominative)
+    ◦ [3] B. Adjective / Adjective Phrase (Predicate Adjective)
+    ◦ [3] C. Prepositional Phrase
+    ◦ [3] D. Verbal Phrases (Infinitive / Gerund)
+    ◦ [3] E. Clause (Noun Clause)
+    ◦ [3] F. Adverbial Phrase (Contextual)
+  ◦ [2] 4. Summary Table
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 02-Subject\02i-Subject-Types-Master-List.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Types of Subject — Master List
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Master Table of Subject Types
+  ◦ [2] 3. Detailed Breakdown
+    ◦ [3] A. Simple vs Compound
+    ◦ [3] B. Verbal Subjects (Gerund vs Infinitive)
+    ◦ [3] C. Clausal Subjects
+    ◦ [3] D. The "Hidden" Subjects (Implicit & Delayed)
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 02-Subject\02j-Determiners.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Determiners (Det) — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Functions of Determiners
+    ◦ [3] A. Specify Definiteness
+    ◦ [3] B. Show Quantity (Quantifiers)
+    ◦ [3] C. Show Possession (Possessives)
+    ◦ [3] D. Demonstrate (Demonstratives)
+    ◦ [3] E. Indicate Interrogation
+    ◦ [3] F. Distributive Reference
+  ◦ [2] 3. Usage Rules
+  ◦ [2] 4. Common Types of Determiners (Master Table)
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 02-Subject\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Subject — Chapter Index
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Forms of the Subject (The "What")
+  ◦ [2] 3. Function & Rules (The "How")
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 03-Predicate\03a-Predicate-Definition.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] The Predicate — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Classification of Predicates
+    ◦ [3] A. Simple Predicate
+    ◦ [3] B. Complete Predicate
+    ◦ [3] C. Compound Predicate
+  ◦ [2] 3. Properties of the Predicate (The Verb Phrase)
+  ◦ [2] 4. The "Predicator" (Linguistics Term)
+  ◦ [2] 5. Recognizing the Predicate Barriers
+  ◦ [2] 6. Practice Exercises
+    ◦ [3] Identify Simple vs Complete Predicate
+    ◦ [3] Identify Compound Predicate
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 03-Predicate\03b-Predicators-Valency.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] The Predicator & Valency Theory — Advanced Guide
+  ◦ [2] 1. What is a Predicator?
+  ◦ [2] 2. Valency (Argument Structure)
+    ◦ [3] A. Zero-Valent (Avalent)
+    ◦ [3] B. Monovalent (Intransitive)
+    ◦ [3] C. Bivalent (Transitive)
+    ◦ [3] D. Trivalent (Ditransitive)
+  ◦ [2] 3. Adjuncts are NOT Arguments
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Identify Valency:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 03-Predicate\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] The Predicate — Chapter Index
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Detailed Study Modules
+  ◦ [2] 3. Quick Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 04-Verbs\04a-Verb-Forms.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Verb Forms & Morphology — Detailed Guide
+  ◦ [2] 1. The Five Main Forms
+  ◦ [2] 2. Regular vs. Irregular Verbs
+    ◦ [3] A. Regular Verbs
+    ◦ [3] B. Irregular Verbs
+  ◦ [2] 3. Finite vs. Non-Finite Verbs
+    ◦ [3] Finite Verbs (Tensed)
+    ◦ [3] Non-Finite Verbs (Untensed)
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Identify the Form (V1, V2, V3, V-ing, V-s)
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 04-Verbs\04b-Tenses.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] The 12 Tenses — Detailed Guide
+  ◦ [2] 1. The Structure of English Time
+  ◦ [2] 2. Present Tenses
+    ◦ [3] Present Simple
+    ◦ [3] Present Continuous
+    ◦ [3] Present Perfect
+    ◦ [3] Present Perfect Continuous
+  ◦ [2] 3. Past Tenses
+    ◦ [3] Past Simple
+    ◦ [3] Past Continuous
+    ◦ [3] Past Perfect
+    ◦ [3] Past Perfect Continuous
+  ◦ [2] 4. Future Tenses
+    ◦ [3] Future Simple
+    ◦ [3] Future Continuous
+    ◦ [3] Future Perfect
+    ◦ [3] Future Perfect Continuous
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Identify the Tense
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 04-Verbs\04c-Transitive.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Transitive Verbs — Comprehensive Guide
+  ◦ [2] 1. What is a Transitive Verb?
+    ◦ [3] Examples
+  ◦ [2] 2. The Three Types of Transitivity
+    ◦ [3] A. Monotransitive (One Object)
+    ◦ [3] B. Ditransitive (Two Objects)
+    ◦ [3] C. Complex-Transitive (Object + Complement)
+  ◦ [2] 3. Objects: Forms and Functions
+    ◦ [3] Forms of the Direct Object
+  ◦ [2] 4. Ambitransitive Verbs (Use Both Ways)
+    ◦ [3] A. Agentive Ambitransitives (Object Omitted)
+    ◦ [3] B. Ergative Ambitransitives (Subject Change)
+  ◦ [2] 5. Passivization
+    ◦ [3] Monotransitive Passive
+    ◦ [3] Ditransitive Passive (Two Ways!)
+    ◦ [3] Complex-Transitive Passive
+  ◦ [2] 6. Identification Tests
+    ◦ [3] Test 1: The "What/Whom" Question
+    ◦ [3] Test 2: The Passive Transformation
+    ◦ [3] Test 3: "It" Cleft
+  ◦ [2] 7. Common Verbs by Type
+    ◦ [3] Monotransitive
+    ◦ [3] Ditransitive
+    ◦ [3] Complex-Transitive
+  ◦ [2] 8. Common Errors to Avoid
+    ◦ [3] ❌ Omitting Objects (Transitive use)
+    ◦ [3] ❌ Lay vs. Lie
+    ◦ [3] ❌ Raise vs. Rise
+    ◦ [3] ❌ Set vs. Sit
+    ◦ [3] ❌ Incorrect Preposition in Ditransitive
+  ◦ [2] 9. Practice Exercises
+    ◦ [3] Exercise A: Transitive or Intransitive?
+    ◦ [3] Exercise B: Identify DO and IO
+    ◦ [3] Exercise C: Choose the Correct Verb
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 04-Verbs\04d-Intransitive.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Intransitive Verbs — Comprehensive Guide
+  ◦ [2] 1. What is an Intransitive Verb?
+    ◦ [3] Examples
+  ◦ [2] 2. Advanced Classifications (Linguistics)
+    ◦ [3] A. Unergative Verbs (Action)
+    ◦ [3] B. Unaccusative Verbs (Event/Change)
+  ◦ [2] 3. Syntactic Patterns
+    ◦ [3] A. Pure Intransitive (S + V)
+    ◦ [3] B. Intransitive with Adverbial (S + V + A)
+    ◦ [3] C. Prepositional Verbs (S + V + Prep + O)
+  ◦ [2] 4. Special Intransitive Constructions
+    ◦ [3] A. Cognate Objects
+    ◦ [3] B. Resultative Combinations
+    ◦ [3] C. The "There" Transformation
+  ◦ [2] 5. Confusing Pairs (Transitive vs. Intransitive)
+  ◦ [2] 6. Common Mistakes to Avoid
+    ◦ [3] ❌ Passive Voice with Intransitive Verbs
+    ◦ [3] ❌ Forcing Objects on Intransitive Verbs
+    ◦ [3] ❌ Confusing Ambitransitive Uses
+  ◦ [2] 7. Practice Exercises
+    ◦ [3] Exercise A: Transitive or Intransitive?
+    ◦ [3] Exercise B: Correct the Errors
+  ◦ [2] 8. Summary Table
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 04-Verbs\04e-Voice.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Active & Passive Voice — Detailed Guide
+  ◦ [2] 1. What is Voice?
+  ◦ [2] 2. Forming the Passive
+  ◦ [2] 3. When to Use Passive?
+  ◦ [2] 4. Constraints
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Convert to Passive
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 04-Verbs\04f-Mood.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Verb Moods — Detailed Guide
+  ◦ [2] 1. Description
+  ◦ [2] 2. Indicative Mood (Fact)
+  ◦ [2] 3. Imperative Mood (Command)
+  ◦ [2] 4. Subjunctive Mood (Hypothetical/Necessary)
+    ◦ [3] A. The "Were" Subjunctive (Past Subjunctive)
+    ◦ [3] B. The Mandative Subjunctive (Base Form)
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Identify the Mood
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 04-Verbs\04g-Modals.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Auxiliary & Modal Verbs — Detailed Guide
+  ◦ [2] 1. Primary Auxiliaries (Be, Do, Have)
+  ◦ [2] 2. Modal Auxiliaries
+    ◦ [3] Meanings
+  ◦ [2] 3. Semi-Modals
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Choose the Correct Option
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 04-Verbs\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Verb Overview — Chapter Index
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Detailed Study Modules
+  ◦ [2] 3. Quick Definition
+  ◦ [2] 4. Key Concepts to Master
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 05-Object\05a-Direct-Object.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Direct Object (DO) — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Advanced Classifications
+    ◦ [3] A. Effected Object (Result of Action)
+    ◦ [3] B. Affected Object (Recipient of Action)
+    ◦ [3] C. Cognate Object
+    ◦ [3] D. Dummy Object (It)
+  ◦ [2] 3. Position and Movement
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Identify the Direct Object types:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 05-Object\05b-Indirect-Object.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Indirect Object (IO) — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Dative Shift (Alternation)
+    ◦ [3] Structure A: Double Object Construction
+    ◦ [3] Structure B: Prepositional Construction
+  ◦ [2] 3. "To" vs "For" - The Two Groups
+    ◦ [3] Group 1: The "Give" Type (Takes TO)
+    ◦ [3] Group 2: The "Buy" Type (Takes FOR)
+    ◦ [3] Group 3: Non-Alternating (Preposition Only)
+  ◦ [2] 4. Restrictions
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Convert to Prepositional Form:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 05-Object\05c-Object-of-Preposition.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Object of Preposition — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Categories of Prepositional Object
+  ◦ [2] 3. Function of the Phrase
+  ◦ [2] 4. Difference from Direct/Indirect Object
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 05-Object\05d-Object-Forms.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Forms of the Object — Detailed Guide
+  ◦ [2] 1. Noun Phrase (Most Common)
+  ◦ [2] 2. Pronoun
+  ◦ [2] 3. The "It" Pronoun (Special Uses)
+    ◦ [3] A. Dummy Object
+  ◦ [2] 4. Verbal Objects
+    ◦ [3] A. Gerund (V-ing)
+    ◦ [3] B. Infinitive (To V)
+    ◦ [3] C. Gerund vs Infinitive
+  ◦ [2] 5. Clausal Objects (Noun Clauses)
+    ◦ [3] A. That-Clause
+    ◦ [3] B. Wh-Clause
+    ◦ [3] C. If/Whether Clause
+  ◦ [2] 6. Practice Exercises
+    ◦ [3] Identify the Object Form:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 05-Object\05e-Object-Tests.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Identification Tests for Objects — Detailed Guide
+  ◦ [2] 1. Why Test?
+  ◦ [2] 2. Test 1: The Active-Passive Conversion
+  ◦ [2] 3. Test 2: The "What/Whom" Question
+  ◦ [2] 4. Test 3: Pronoun Substitution
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Is the bold word an Object?
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 05-Object\05f-Types-Master-List.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Types of Objects — Master List
+  ◦ [2] 1. Master Table
+  ◦ [2] 2. Detailed Notes
+    ◦ [3] A. Compound Objects
+    ◦ [3] B. Reflexive Objects
+    ◦ [3] C. Clausal Objects
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 05-Object\05g-Object-Complements-Ref.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Object Complements (Relation to Object) — Reference
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Types of Object Complements
+  ◦ [2] 3. Difference from Subject Complement
+  ◦ [2] 4. Common Verbs
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 05-Object\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Object — Chapter Index
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Detailed Study Modules
+  ◦ [2] 3. Quick Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 06-Complement\06a-Subject-Complement.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Subject Complement (SC) — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Two Main Types
+    ◦ [3] A. Predicate Nominative (Noun)
+    ◦ [3] B. Predicate Adjective (Adjective)
+  ◦ [2] 3. Linking Verbs (Copulas)
+    ◦ [3] True Linking Verbs (Always Linking)
+    ◦ [3] Sensory Linking Verbs
+    ◦ [3] State/Change Verbs
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Identify the Subject Complement:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 06-Complement\06b-Object-Complement.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Object Complement (OC) — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Structure
+  ◦ [2] 3. Common Verbs taking OC
+    ◦ [3] Verbs of Appointment / Naming
+    ◦ [3] Verbs of Opinion / Perception
+    ◦ [3] Verbs of Result (Causative)
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Identify O (Object) and C (Complement):
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 06-Complement\06c-Complement-Forms.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Forms of the Complement — Detailed Guide
+  ◦ [2] 1. Noun Phrase (Nominative)
+  ◦ [2] 2. Adjective Phrase
+  ◦ [2] 3. Prepositional Phrase
+  ◦ [2] 4. Infinitive Phrase
+  ◦ [2] 5. Participle Phrase
+  ◦ [2] 6. Noun Clause
+  ◦ [2] 7. Practice Exercises
+    ◦ [3] Identify the Form:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 06-Complement\06d-Complement-vs-Object.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Complement vs. Object — Detailed Guide
+  ◦ [2] 1. The Core Difference
+  ◦ [2] 2. Test 1: The Equals Sign (=)
+  ◦ [2] 3. Test 2: Passive Voice
+  ◦ [2] 4. Test 3: The "As" Insertion (for Object Complements)
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Complement or Object?
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 06-Complement\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Complement — Chapter Index
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Detailed Study Modules
+  ◦ [2] 3. Quick Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 07-Adverbial\07a-Adverbial-Types.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Types of Adverbials — Detailed Guide
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Circumstantial Adverbials
+    ◦ [3] A. Place (Where?)
+    ◦ [3] B. Time (When?)
+    ◦ [3] C. Manner (How?)
+    ◦ [3] D. Frequency (How Often?)
+    ◦ [3] E. Duration (How Long?)
+    ◦ [3] F. Degree (How Much?)
+  ◦ [2] 3. Logical Adverbials
+    ◦ [3] A. Reason/Cause (Why?)
+    ◦ [3] B. Purpose (What for?)
+    ◦ [3] C. Condition (Under what circumstances?)
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Identify the Type:
+  ◦ [2] 5. Quick Identification Tip 💡
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 07-Adverbial\07b-Adverbial-Forms.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Forms of the Adverbial — Detailed Guide
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Main Forms
+    ◦ [3] A. Adverb Phrase (AdvP)
+    ◦ [3] B. Prepositional Phrase (PP)
+    ◦ [3] C. Noun Phrase (NP)
+    ◦ [3] D. Clause (Finite)
+    ◦ [3] E. Infinitive Clause (Non-finite)
+    ◦ [3] F. Participle Clause (Non-finite)
+  ◦ [2] 3. Practice Exercises
+    ◦ [3] Identify the Form:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 07-Adverbial\07c-Adverbial-Positions.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Position and Order of Adverbials — Detailed Guide
+  ◦ [2] 1. Three Main Positions
+    ◦ [3] A. Front (Initial)
+    ◦ [3] B. Mid (Medial)
+    ◦ [3] C. End (Final)
+  ◦ [2] 2. Order of Multiple Adverbials (End Position)
+  ◦ [2] 3. Order of Specific vs General
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Reorder the sentences:
+  ◦ [2] 5. Flexibility of Position (Example)
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 07-Adverbial\07d-Adjuncts-Disjuncts-Conjuncts.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Adverbial Classes: Adjuncts, Disjuncts, Conjuncts — Advanced Guide
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Adjuncts (Integrated)
+  ◦ [2] 3. Disjuncts (Commentary)
+  ◦ [2] 4. Conjuncts (Connectors)
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Classify the Adverbial:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 07-Adverbial\07e-Common-Adverbial-Errors.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Common Adverbial Errors — Detailed Guide
+  ◦ [2] 1. Adjective vs Adverb Confusion
+  ◦ [2] 2. "Hardly" vs "Hard"
+  ◦ [2] 3. "Late" vs "Lately"
+  ◦ [2] 4. Misplaced Modifiers
+  ◦ [2] 5. Double Negatives with Adverbs
+  ◦ [2] 6. Practice Exercises
+    ◦ [3] Correct the sentences:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 07-Adverbial\07f-Forms-Master-List.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Forms of Adverbials — Master List
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Master Table of Forms
+  ◦ [2] 3. Multiple Functions
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 07-Adverbial\07g-Qualifiers.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Qualifiers — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Functions of Qualifiers
+    ◦ [3] A. Degree of Intensity
+    ◦ [3] B. Limitation
+    ◦ [3] C. Precision
+  ◦ [2] 3. Examples
+  ◦ [2] 4. Key Questions
+  ◦ [2] 5. Common Qualifiers List
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 07-Adverbial\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Adverbial — Chapter Index
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Detailed Study Modules
+  ◦ [2] 3. Quick Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 08-Inversion\08a-Locative.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Locative Inversion — Detailed Examples
+  ◦ [2] Pattern Structure
+  ◦ [2] Common Trigger Words
+    ◦ [3] Directional Adverbs
+    ◦ [3] Prepositional Phrases
+  ◦ [2] Extensive Examples (100+)
+    ◦ [3] With "Here" and "There"
+    ◦ [3] With Directional "Down" and "Up"
+    ◦ [3] With "In," "Out," "Away," and "Off"
+    ◦ [3] With Prepositional Phrases
+    ◦ [3] Narrative/Literary Examples
+    ◦ [3] With Specific Verbs
+  ◦ [2] When to Use Locative Inversion
+    ◦ [3] 1. **Dramatic Effect**
+    ◦ [3] 2. **Flow in Description**
+    ◦ [3] 3. **Literary Style**
+  ◦ [2] Different Tenses
+    ◦ [3] Simple Present
+    ◦ [3] Simple Past
+    ◦ [3] Simple Future (Less Common)
+  ◦ [2] Important Constraints
+    ◦ [3] ❌ **Does NOT Work with Pronouns**
+    ◦ [3] ✅ **Works Best with Full Noun Subjects**
+  ◦ [2] Common Mistakes to Avoid
+    ◦ [3] ❌ Using with Transitive Verbs Requiring Objects
+    ◦ [3] ❌ Overusing in Formal Writing
+    ◦ [3] ❌ Forgetting Subject-Verb Agreement
+  ◦ [2] Practice Exercises
+    ◦ [3] Exercise 1: Rewrite with Locative Inversion
+    ◦ [3] Exercise 2: Identify Components
+    ◦ [3] Exercise 3: Correct the Errors
+  ◦ [2] Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 08-Inversion\08b-Existential.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Existential "There" and "Here" — Detailed Examples
+  ◦ [2] Pattern Structure
+  ◦ [2] Existential "There"
+    ◦ [3] With "Be" Verb
+    ◦ [3] With Other Verbs (Literary/Formal)
+  ◦ [2] Existential "Here"
+  ◦ [2] Subject-Verb Agreement
+    ◦ [3] Singular Subjects
+    ◦ [3] Plural Subjects
+    ◦ [3] Common Errors
+  ◦ [2] Negative Forms
+  ◦ [2] Question Forms
+  ◦ [2] Existential vs. Locative "There"
+    ◦ [3] Existential "There" (Expletive)
+    ◦ [3] Locative "There" (Adverbial)
+  ◦ [2] Common Structures
+    ◦ [3] There is/are + Noun + Relative Clause
+    ◦ [3] There is/are + Noun + Participle
+    ◦ [3] There is/are + Noun + Prepositional Phrase
+  ◦ [2] Functions and Usage
+    ◦ [3] 1. **Introducing New Information**
+    ◦ [3] 2. **Stating Existence or Presence**
+    ◦ [3] 3. **Describing Situations**
+    ◦ [3] 4. **Narrative Opening**
+  ◦ [2] Practice Exercises
+    ◦ [3] Exercise 1: Subject-Verb Agreement
+    ◦ [3] Exercise 2: Existential vs. Locative
+    ◦ [3] Exercise 3: Form Questions
+    ◦ [3] Exercise 4: Transform to Existential "There"
+  ◦ [2] Common Mistakes to Avoid
+    ◦ [3] ❌ Wrong Agreement
+    ◦ [3] ❌ Confusing Existential with Locative
+    ◦ [3] ❌ Unnecessary "There" with Definite Subjects
+  ◦ [2] Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 08-Inversion\08c-Questions.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Question Inversion (Interrogative) — Detailed Examples
+  ◦ [2] Pattern Structure
+  ◦ [2] Types of Questions
+    ◦ [3] 1. Yes/No Questions
+    ◦ [3] 2. Wh-Questions (Information Questions)
+    ◦ [3] 3. Tag Questions
+    ◦ [3] 4. Alternative Questions
+  ◦ [2] Yes/No Questions
+    ◦ [3] With "Be" Verb
+    ◦ [3] With Auxiliary "Do/Does/Did"
+    ◦ [3] With Modal Verbs
+    ◦ [3] With Perfect Tenses
+    ◦ [3] With Continuous Tenses
+  ◦ [2] Wh-Questions (Information Questions)
+    ◦ [3] What, Where, When, Who, Why, How
+  ◦ [2] Tag Questions
+  ◦ [2] Special Cases
+    ◦ [3] Subject-Auxiliary Inversion vs. No Inversion
+  ◦ [2] Negative Questions
+  ◦ [2] Indirect Questions (NO Inversion)
+  ◦ [2] Practice Exercises
+    ◦ [3] Exercise 1: Convert to Questions
+    ◦ [3] Exercise 2: Form Wh-Questions
+    ◦ [3] Exercise 3: Add Tag Questions
+    ◦ [3] Exercise 4: Direct vs. Indirect
+  ◦ [2] Common Mistakes to Avoid
+    ◦ [3] ❌ Double Inversion
+    ◦ [3] ❌ No Auxiliary with Main Verb
+    ◦ [3] ❌ Inversion in Indirect Questions
+    ◦ [3] ❌ Wrong Auxiliary in Questions
+  ◦ [2] Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 08-Inversion\08d-Conditional.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Conditional Inversion (Formal/Literary) — Detailed Examples
+  ◦ [2] Pattern Structure
+  ◦ [2] Types of Conditional Inversion
+    ◦ [3] 1. Had + Subject (Past Perfect → Third Conditional)
+    ◦ [3] 2. Were + Subject (Past Subjunctive →
+    ◦ [3] 3. Should + Subject (Future Possibility → First Conditional)
+  ◦ [2] "Had" Inversion (Third Conditional)
+    ◦ [3] Basic Examples
+    ◦ [3] More Complex Examples
+    ◦ [3] Negative Forms
+    ◦ [3] With Different Modal Consequences
+  ◦ [2] "Were" Inversion (Second Conditional)
+    ◦ [3] Basic Examples
+    ◦ [3] More Complex Examples
+    ◦ [3] Negative Forms
+    ◦ [3] Literary/Formal Examples
+  ◦ [2] "Should" Inversion (First Conditional - Formal)
+    ◦ [3] Basic Examples
+    ◦ [3] Polite/Formal Requests
+    ◦ [3] Business/Formal Contexts
+  ◦ [2] Mixed Examples (All Three Types)
+    ◦ [3] Comparing the Three
+  ◦ [2] Formal Correspondence Examples
+  ◦ [2] Academic/Literary Examples
+  ◦ [2] Emphatic/Rhetorical Uses
+  ◦ [2] Compound Conditions
+  ◦ [2] Practice Exercises
+    ◦ [3] Exercise 1: Convert to Inverted Form
+    ◦ [3] Exercise 2: Choose the Correct Auxiliary
+    ◦ [3] Exercise 3: Identify the Time Reference
+    ◦ [3] Exercise 4: Transform to Standard Form
+  ◦ [2] Common Mistakes to Avoid
+    ◦ [3] ❌ Using "Has" Instead of "Had"
+    ◦ [3] ❌ Using "Was" Instead of "Were"
+    ◦ [3] ❌ Using in Casual Conversation
+    ◦ [3] ❌ Mixing Types
+  ◦ [2] Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 08-Inversion\08e-Negative.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Negative Adverbial Inversion — Detailed Examples
+  ◦ [2] Pattern Structure
+  ◦ [2] Common Negative/Restrictive Adverbials
+    ◦ [3] Frequency Negatives
+    ◦ [3] Time Restrictives
+    ◦ [3] Degree Negatives
+    ◦ [3] Other Restrictives
+  ◦ [2] With "Never"
+    ◦ [3] Basic Examples
+    ◦ [3] More Complex Examples
+  ◦ [2] With "Seldom" and "Rarely"
+  ◦ [2] With "Hardly," "Scarcely," and "Barely"
+  ◦ [2] With "Not Only...But Also"
+  ◦ [2] With "Not Until"
+  ◦ [2] With "No Sooner...Than"
+  ◦ [2] With "Little" (Negative Meaning)
+  ◦ [2] With "Only" Constructions
+  ◦ [2] With "Under No Circumstances"
+  ◦ [2] With "In No Way" / "By No Means"
+  ◦ [2] With "Nowhere"
+  ◦ [2] With "At No Time"
+  ◦ [2] Emphatic Literary Examples
+  ◦ [2] Practice Exercises
+    ◦ [3] Exercise 1: Rewrite with Inversion
+    ◦ [3] Exercise 2: Identify the Structure
+    ◦ [3] Exercise 3: Correct the Errors
+  ◦ [2] Common Mistakes to Avoid
+    ◦ [3] ❌ No Auxiliary
+    ◦ [3] ❌ Wrong Word Order
+    ◦ [3] ❌ Using in Casual Speech
+    ◦ [3] ❌ Inverting with Positive Adverbials
+  ◦ [2] Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 08-Inversion\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Inversion — Chapter Index
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Detailed Study Modules
+  ◦ [2] 3. Quick Summary Table
+  ◦ [2] 4. Key Rules
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 09-Clauses\09a-Noun-Clauses.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Noun Clauses — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Three Main Types
+    ◦ [3] A. That-Clauses (Declarative)
+    ◦ [3] B. Wh-Clauses (Interrogative)
+    ◦ [3] C. If/Whether Clauses (Yes/No Questions)
+  ◦ [2] 3. The Subjunctive in Noun Clauses
+  ◦ [2] 4. Extraposition (The "It" Dummy)
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Identify the Noun Clause:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 09-Clauses\09b-Relative-Clauses.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Relative (Adjective) Clauses — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Relative Pronouns
+  ◦ [2] 3. Restrictive vs. Non-Restrictive
+    ◦ [3] A. Restrictive (Defining)
+    ◦ [3] B. Non-Restrictive (Non-Defining)
+  ◦ [2] 4. Omitting the Pronoun (Reduced Clauses)
+  ◦ [2] 5. Identifying Prepositions
+  ◦ [2] 6. Practice Exercises
+    ◦ [3] Correct or Incorrect?
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 09-Clauses\09c-Adverbial-Clauses.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Adverbial Clauses — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Common Types
+    ◦ [3] A. Time
+    ◦ [3] B. Reason/Cause
+    ◦ [3] C. Condition
+    ◦ [3] D. Concession (Contrast)
+    ◦ [3] E. Purpose
+    ◦ [3] F. Result
+  ◦ [2] 3. Punctuation Rule (The Comma)
+  ◦ [2] 4. Reducing Adverbial Clauses
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Punctuate Correctly:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 09-Clauses\09d-Finite-vs-NonFinite.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Finite vs. Non-Finite Clauses — Detailed Guide
+  ◦ [2] 1. The Distinction
+  ◦ [2] 2. Types of Non-Finite Clauses
+    ◦ [3] A. To-Infinitive Clause
+    ◦ [3] B. Bare Infinitive Clause
+    ◦ [3] C. -Ing Participle Clause
+    ◦ [3] D. -Ed Past Participle Clause
+  ◦ [2] 3. Ambiguity and Dangling Modifiers
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Finite or Non-Finite?
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 09-Clauses\09e-Sentences-Simple-Compound-Complex.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Sentence Types by Clause Structure — Detailed Guide
+  ◦ [2] 1. Simple Sentence
+  ◦ [2] 2. Compound Sentence
+  ◦ [2] 3. Complex Sentence
+  ◦ [2] 4. Compound-Complex Sentence
+  ◦ [2] 5. Structure & Logic
+  ◦ [2] 6. Practice Exercises
+    ◦ [3] Identify the Sentence Type:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 09-Clauses\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Clauses — Chapter Index
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Detailed Study Modules
+  ◦ [2] 3. Quick Summary Table
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 10-Phrasal-Verbs\10a-Structure-Types.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Structure & Types of Phrasal Verbs — Detailed Guide
+  ◦ [2] 1. Intransitive (No Object)
+  ◦ [2] 2. Transitive (Takes an Object)
+    ◦ [3] A. Separable Phrasal Verbs (Most Common)
+    ◦ [3] B. Inseparable Phrasal Verbs (Prepositional Verbs)
+  ◦ [2] 3. How to know if it's Separable?
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Correct or Incorrect?
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 10-Phrasal-Verbs\10b-Particle-Meanings.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Meaning of Particles — Conceptual Guide
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. UP (Completion / Increase / Upward)
+  ◦ [2] 3. DOWN (Decrease / Failure / Record)
+  ◦ [2] 4. OFF (Separation / Departure / Cancellation)
+  ◦ [2] 5. ON (Continuation / Attachment / Activation)
+  ◦ [2] 6. OUT (Exit / Discovery / Exhaustion)
+  ◦ [2] 7. Practice Exercises
+    ◦ [3] Match the Meaning (Completion vs Direction):
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 10-Phrasal-Verbs\10c-Three-Word-Verbs.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Three-Word Phrasal Verbs — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Characteristics
+  ◦ [2] 3. Common List
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Correct the sentence:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 10-Phrasal-Verbs\10d-Common-List.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Common Phrasal Verbs by Category — Reference
+  ◦ [2] 1. Work & Business
+  ◦ [2] 2. Travel & Movement
+  ◦ [2] 3. Communication
+  ◦ [2] 4. Daily Life
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 10-Phrasal-Verbs\10e-Register-Formal-vs-Informal.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Register: Phrasal Verbs in Formal Writing — Detailed Guide
+  ◦ [2] 1. The General Rule
+  ◦ [2] 2. Comparison Table
+  ◦ [2] 3. When to Use Which?
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Convert to Formal:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 10-Phrasal-Verbs\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Phrasal Verbs — Chapter Index
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Detailed Study Modules
+  ◦ [2] 3. Quick Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 11-Agreement\11a-Basic-Rules.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Basic Subject-Verb Agreement — Detailed Guide
+  ◦ [2] 1. The Golden Rule
+  ◦ [2] 2. Ignoring Interrupters
+    ◦ [3] A. Prepositional Phrases
+    ◦ [3] B. Appositives
+    ◦ [3] C. "Together with", "As well as"
+  ◦ [2] 3. Inverted Sentences
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Choose the Correct Verb:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 11-Agreement\11b-Compound-Subjects.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Compound Subjects Agreement — Detailed Guide
+  ◦ [2] 1. Subjects Joined by "AND"
+  ◦ [2] 2. Subjects Joined by "OR" / "NOR" (Proximity Rule)
+    ◦ [3] A. Singular + Singular
+    ◦ [3] B. Plural + Plural
+    ◦ [3] C. Mixed (Singular + Plural)
+  ◦ [2] 3. "Both...And"
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Choose the Correct Verb:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 11-Agreement\11c-Collective-Nouns.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Collective Nouns Agreement — Detailed Guide
+  ◦ [2] 1. Collective Nouns (Group Words)
+    ◦ [3] Rule: Context Matters
+  ◦ [2] 2. Expressions of Quantity
+  ◦ [2] 3. The "-ics" Words
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Choose the Correct Verb:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 11-Agreement\11d-Indefinite-Pronouns.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Indefinite Pronouns Agreement — Detailed Guide
+  ◦ [2] 1. Always Singular
+  ◦ [2] 2. Always Plural
+  ◦ [2] 3. Variable (Singular or Plural)
+  ◦ [2] 4. "None" - Special Note
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Choose the Correct Verb:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 11-Agreement\11e-Advanced-Cases.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Advanced Agreement Cases — Detailed Guide
+  ◦ [2] 1. Relative Clauses
+  ◦ [2] 2. Complement Disagreement
+  ◦ [2] 3. Titles and Names
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Choose the Correct Verb:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 11-Agreement\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Subject-Verb Agreement — Chapter Index
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Detailed Study Modules
+  ◦ [2] 3. Quick Tips
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 12-Sentence-Elements\12a-Modifiers.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Modifiers — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Adjectives (Modifying Nouns)
+    ◦ [3] A. Attributive Position (Before Noun)
+    ◦ [3] B. Predicative Position (After Linking Verb)
+  ◦ [2] 3. Adverbs (Modifying Verbs/Adjs/Adverbs)
+    ◦ [3] A. Modifying Verbs
+    ◦ [3] B. Modifying Adjectives/Adverbs
+    ◦ [3] C. Modifying Sentences
+  ◦ [2] 4. General Modifiers (Pre vs Post)
+    ◦ [3] A. Pre-modifiers
+    ◦ [3] B. Post-modifiers
+  ◦ [2] 5. Summary Table
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 12-Sentence-Elements\12d-Vocatives.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Vocatives — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Key Features
+  ◦ [2] 3. Positions and Rules
+    ◦ [3] A. Beginning (Front)
+    ◦ [3] B. Middle (Medial)
+    ◦ [3] C. End (Final)
+  ◦ [2] 4. Purpose of Vocatives
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 12-Sentence-Elements\12e-Combined-Analysis.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Combined Sentence Analysis — Case Study
+  ◦ [2] 1. The Super Sentence
+  ◦ [2] 2. Element Analysis
+  ◦ [2] 3. Structural Breakdown
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 12-Sentence-Elements\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Sentence Elements — Chapter Index
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Detailed Study Modules
+  ◦ [2] 3. Quick Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 13-Conditionals\13a-Zero-First-Conditionals.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Zero & First Conditionals — Detailed Guide
+  ◦ [2] 1. Zero Conditional (General Truths)
+    ◦ [3] Structure
+    ◦ [3] Usage
+    ◦ [3] Examples
+    ◦ [3] Key Point
+  ◦ [2] 2. First Conditional (Real Future)
+    ◦ [3] Structure
+    ◦ [3] Usage
+    ◦ [3] Examples
+    ◦ [3] Variations
+  ◦ [2] 3. Time Clauses (Similar Pattern)
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Complete the sentences:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 13-Conditionals\13b-Second-Third-Conditionals.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Second & Third Conditionals — Detailed Guide
+  ◦ [2] 1. Second Conditional (Hypothetical Present/Future)
+    ◦ [3] Structure
+    ◦ [3] Usage
+    ◦ [3] Examples
+    ◦ [3] The Subjunctive "Were"
+  ◦ [2] 2. Third Conditional (Hypothetical Past)
+    ◦ [3] Structure
+    ◦ [3] Usage
+    ◦ [3] Examples
+    ◦ [3] Key Point
+  ◦ [2] 3. Modals in Conditionals
+    ◦ [3] Second Conditional Variations
+    ◦ [3] Third Conditional Variations
+  ◦ [2] 4. Common Mistakes
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Identify the type and complete:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 13-Conditionals\13c-Mixed-Conditionals.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Mixed Conditionals — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Type 1: Past Condition → Present Result
+    ◦ [3] Structure
+    ◦ [3] Usage
+    ◦ [3] Examples
+  ◦ [2] 3. Type 2: Present Condition → Past Result
+    ◦ [3] Structure
+    ◦ [3] Usage
+    ◦ [3] Examples
+  ◦ [2] 4. Comparison Table
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Identify if standard or mixed, then complete:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 13-Conditionals\13d-Alternative-Conditionals.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Alternative Conditionals — Detailed Guide
+  ◦ [2] 1. Unless (If not)
+    ◦ [3] Structure
+    ◦ [3] Meaning
+    ◦ [3] Examples
+    ◦ [3] Watch Out
+  ◦ [2] 2. Provided that / As long as (On condition that)
+    ◦ [3] Usage
+    ◦ [3] Examples
+  ◦ [2] 3. In case (Precaution)
+    ◦ [3] Usage
+    ◦ [3] Examples
+    ◦ [3] vs. If
+  ◦ [2] 4. Otherwise (Or else)
+    ◦ [3] Usage
+    ◦ [3] Examples
+  ◦ [2] 5. Inversion in Conditionals (Formal)
+    ◦ [3] Should (First Conditional)
+    ◦ [3] Were (Second Conditional)
+    ◦ [3] Had (Third Conditional)
+  ◦ [2] 6. Practice Exercises
+    ◦ [3] Rewrite using the word in brackets:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 13-Conditionals\13e-Wish-Hope-If-Only.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Wish, Hope, If Only — Detailed Guide
+  ◦ [2] 1. Wish (Regrets & Unreal Desires)
+    ◦ [3] Wish + Past Simple (Present Regret)
+    ◦ [3] Wish + Past Perfect (Past Regret)
+    ◦ [3] Wish + would (Annoyance/Request for Change)
+  ◦ [2] 2. If Only (Stronger Wish - Regret/Desire)
+    ◦ [3] Same Structures
+  ◦ [2] 3. Hope (Real Possibility)
+    ◦ [3] Hope vs Wish
+  ◦ [2] 4. Summary Table
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Choose wish or hope and the correct form:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 13-Conditionals\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Conditionals — Chapter Index
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Detailed Study Modules
+  ◦ [2] 3. Quick Reference
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 14-Reported-Speech\14a-Tense-Backshifting.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Tense Backshifting in Reported Speech — Detailed Guide
+  ◦ [2] 1. The Backshift Rule
+  ◦ [2] 2. Complete Backshifting Table
+  ◦ [2] 3. Exceptions: No Backshift Needed
+    ◦ [3] A. Still True Facts
+    ◦ [3] B. Recent Speech (Present Reporting)
+    ◦ [3] C. Past Perfect (Already past)
+    ◦ [3] D. Modals without past forms
+  ◦ [2] 4. Common Mistakes
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Convert to reported speech:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 14-Reported-Speech\14b-Pronoun-Time-Shifts.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Pronoun, Time & Place Shifts — Detailed Guide
+  ◦ [2] 1. Pronoun Changes
+    ◦ [3] Reference Table
+    ◦ [3] Context Matters
+  ◦ [2] 2. Time Expressions
+    ◦ [3] Shift Table
+    ◦ [3] Examples
+  ◦ [2] 3. Place Expressions
+    ◦ [3] Shift Table
+    ◦ [3] Examples
+  ◦ [2] 4. Demonstratives
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Convert to reported speech (from Mary's perspective):
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 14-Reported-Speech\14c-Reporting-Verbs.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Reporting Verbs — Detailed Guide
+  ◦ [2] 1. Say vs Tell
+    ◦ [3] Say (No indirect object)
+    ◦ [3] Tell (Requires indirect object)
+  ◦ [2] 2. Reporting Verbs by Pattern
+    ◦ [3] A. Verb + that-clause
+    ◦ [3] B. Verb + infinitive
+    ◦ [3] C. Verb + object + infinitive
+    ◦ [3] D. Verb + gerund
+    ◦ [3] E. Verb + preposition + gerund
+  ◦ [2] 3. Common Reporting Verbs
+  ◦ [2] 4. Practice Exercises
+    ◦ [3] Choose the correct reporting verb pattern:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 14-Reported-Speech\14d-Questions-Commands.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Reporting Questions & Commands — Detailed Guide
+  ◦ [2] 1. Reporting Yes/No Questions
+    ◦ [3] Structure
+    ◦ [3] Key Changes
+    ◦ [3] Examples
+    ◦ [3] If vs Whether
+  ◦ [2] 2. Reporting Wh- Questions
+    ◦ [3] Structure
+    ◦ [3] Examples
+    ◦ [3] Who/What as Subject (No Change)
+  ◦ [2] 3. Reporting Commands & Requests
+    ◦ [3] Structure
+    ◦ [3] Commands (Tell/Order)
+    ◦ [3] Requests (Ask)
+    ◦ [3] Suggestions/Advice
+  ◦ [2] 4. Summary Table
+  ◦ [2] 5. Common Mistakes
+  ◦ [2] 6. Practice Exercises
+    ◦ [3] Convert to reported speech:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 14-Reported-Speech\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Reported Speech — Chapter Index
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Detailed Study Modules
+  ◦ [2] 3. Quick Reference
+    ◦ [3] Basic Patterns
+    ◦ [3] Key Rules
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 15-Connectors\15a-Addition-Connectors.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Addition Connectors — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Common Addition Connectors
+    ◦ [3] Furthermore / Moreover (Formal)
+    ◦ [3] In addition / Additionally (Formal)
+    ◦ [3] Also / As well (Neutral)
+    ◦ [3] Besides (Informal)
+  ◦ [2] 3. Position & Punctuation
+    ◦ [3] Sentence-Initial (Most Common)
+    ◦ [3] Mid-Sentence (Also)
+    ◦ [3] Sentence-Final (As well / Too)
+  ◦ [2] 4. Formality Scale
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Choose the appropriate connector:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 15-Connectors\15b-Contrast-Connectors.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Contrast Connectors — Detailed Guide
+  ◦ [2] 1. Definition
+  ◦ [2] 2. Conjunctive Adverbs (Between Sentences)
+    ◦ [3] However (Formal Contrast)
+    ◦ [3] Nevertheless / Nonetheless (Strong Contrast)
+    ◦ [3] On the other hand (Alternative Perspective)
+    ◦ [3] In contrast / By contrast (Comparison)
+  ◦ [2] 3. Subordinating Conjunctions (Within Sentences)
+    ◦ [3] Although / Though / Even though
+    ◦ [3] While / Whereas (Comparison)
+  ◦ [2] 4. Prepositions (+ Noun/Gerund)
+    ◦ [3] Despite / In spite of
+    ◦ [3] Comparison with Although
+  ◦ [2] 5. Summary Table
+  ◦ [2] 6. Common Mistakes
+  ◦ [2] 7. Practice Exercises
+    ◦ [3] Choose the correct connector:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 15-Connectors\15c-Result-Cause-Connectors.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Result & Cause Connectors — Detailed Guide
+  ◦ [2] 1. Result Connectors
+    ◦ [3] Therefore (Formal)
+    ◦ [3] Thus / Hence (Very Formal)
+    ◦ [3] Consequently / As a result (Formal)
+    ◦ [3] So (Informal - Conjunction)
+  ◦ [2] 2. Cause/Reason Connectors
+    ◦ [3] Because / Since / As (Conjunctions)
+    ◦ [3] Because of / Due to / Owing to (Prepositions)
+    ◦ [3] Therefore vs Because
+  ◦ [2] 3. Summary Table
+  ◦ [2] 4. Common Mistakes
+  ◦ [2] 5. Formality Scale
+  ◦ [2] 6. Practice Exercises
+    ◦ [3] Choose the correct connector:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 15-Connectors\15d-Example-Clarification.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Example & Clarification Connectors — Detailed Guide
+  ◦ [2] 1. Example Connectors
+    ◦ [3] For example / For instance
+    ◦ [3] Such as / Including
+    ◦ [3] Namely (Complete List)
+  ◦ [2] 2. Clarification Connectors
+    ◦ [3] That is / That is to say
+    ◦ [3] In other words
+    ◦ [3] To clarify / To put it another way
+  ◦ [2] 3. E.g. vs I.e.
+  ◦ [2] 4. Summary Table
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Choose the correct connector:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 15-Connectors\15e-Sequence-Summary.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Sequence & Summary Connectors — Detailed Guide
+  ◦ [2] 1. Sequence/Order Connectors
+    ◦ [3] Firstly, Secondly, Thirdly (Formal)
+    ◦ [3] First, Second, Third (Less Formal)
+    ◦ [3] Then / Next / After that
+    ◦ [3] Meanwhile / In the meantime
+    ◦ [3] Subsequently / Afterwards (Formal)
+    ◦ [3] Finally / Lastly / In the end
+  ◦ [2] 2. Summary/Conclusion Connectors
+    ◦ [3] In conclusion (Academic)
+    ◦ [3] To sum up / To summarize
+    ◦ [3] In short / In brief (Condensing)
+    ◦ [3] Overall / All in all
+  ◦ [2] 3. Summary Table
+  ◦ [2] 4. Common Mistakes
+  ◦ [2] 5. Formality Scale
+  ◦ [2] 6. Practice Exercises
+    ◦ [3] Choose the correct connector:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 15-Connectors\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Connectors — Chapter Index
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Detailed Study Modules
+  ◦ [2] 3. Quick Reference by Function
+  ◦ [2] 4. Punctuation Rules
+    ◦ [3] Conjunctive Adverbs (However, Therefore)
+    ◦ [3] Coordinating Conjunctions (And, But, So)
+    ◦ [3] Subordinating Conjunctions (Although, Because)
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 16-Punctuation\16a-Commas.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Commas — Detailed Guide
+  ◦ [2] 1. Commas in Lists & Series
+    ◦ [3] Structure
+    ◦ [3] Examples
+    ◦ [3] Oxford Comma Importance
+  ◦ [2] 2. Commas with Coordinating Conjunctions(FANBOYS)
+    ◦ [3] Rule
+    ◦ [3] Examples
+    ◦ [3] Test
+  ◦ [2] 3. Commas After Introductory Elements
+    ◦ [3] Introductory Words/Phrases
+    ◦ [3] Introductory Clauses
+  ◦ [2] 4. Commas with Non-Restrictive Clauses
+    ◦ [3] Non-Restrictive (Extra Info - Use Commas)
+    ◦ [3] Restrictive (Essential Info - No Commas)
+    ◦ [3] Test
+  ◦ [2] 5. Common Comma Errors
+    ◦ [3] Comma Splice (Wrong)
+    ◦ [3] Missing Comma After Introductory
+  ◦ [2] 6. Summary Table
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 16-Punctuation\16b-Semicolons-Colons.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Semicolons & Colons — Detailed Guide
+  ◦ [2] 1. Semicolons
+    ◦ [3] Purpose
+    ◦ [3] A. Connecting Independent Clauses
+    ◦ [3] B. With Conjunctive Adverbs
+    ◦ [3] C. In Complex Lists
+  ◦ [2] 2. Colons
+    ◦ [3] Purpose
+    ◦ [3] A. Introducing Lists
+    ◦ [3] B. Introducing Explanations
+    ◦ [3] C. In Time & Ratios
+    ◦ [3] D. After Salutations (Formal Letters)
+  ◦ [2] 3. Semicolon vs Colon
+  ◦ [2] 4. Common Mistakes
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Choose semicolon or colon:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 16-Punctuation\16c-Sentence-Errors.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Sentence Errors — Detailed Guide
+  ◦ [2] 1. Comma Splice
+    ◦ [3] Definition
+    ◦ [3] Examples of Error
+    ◦ [3] How to Fix
+  ◦ [2] 2. Run-On Sentence (Fused Sentence)
+    ◦ [3] Definition
+    ◦ [3] Examples of Error
+    ◦ [3] How to Fix
+  ◦ [2] 3. Sentence Fragment
+    ◦ [3] Definition
+    ◦ [3] Common Types
+    ◦ [3] Intentional Fragments (Acceptable)
+  ◦ [2] 4. Summary: How to Identify
+    ◦ [3] Independence Test
+  ◦ [2] 5. Practice Exercises
+    ◦ [3] Identify and fix the error:
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 16-Punctuation\16d-Quotation-Marks.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Quotation Marks — Detailed Guide
+  ◦ [2] 1. Direct Speech
+    ◦ [3] Structure (American Style)
+    ◦ [3] Examples
+    ◦ [3] Punctuation Rules
+  ◦ [2] 2. Dialogue Formatting
+    ◦ [3] Rules
+    ◦ [3] Example Dialogue
+  ◦ [2] 3. Titles of Works
+    ◦ [3] Use Quotation Marks For:
+    ◦ [3] Use Italics/Underline For:
+  ◦ [2] 4. Scare Quotes (Irony/Doubt)
+    ◦ [3] Usage
+    ◦ [3] Examples
+  ◦ [2] 5. Quoting Within Quotes
+    ◦ [3] Rule
+    ◦ [3] Examples
+  ◦ [2] 6. Common Mistakes
+  ◦ [2] 7. Block Quotes (Long Quotes)
+    ◦ [3] Rule
+    ◦ [3] Example
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 16-Punctuation\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Punctuation — Chapter Index
+  ◦ [2] 1. Introduction
+  ◦ [2] 2. Detailed Study Modules
+  ◦ [2] 3. Quick Reference
+    ◦ [3] Joining Independent Clauses
+    ◦ [3] Common Errors
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 17-Exercises\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Exercises — Practice Problems
+  ◦ [2] Exercise 1: Identify Sentence Components (Subject, Verb, Object, Complement)
+  ◦ [2] Exercise 2: Identify Transitive vs Intransitive Verbs
+  ◦ [2] Exercise 3: Correct Subject-Verb Agreement
+  ◦ [2] Exercise 4: Identify Object Types
+  ◦ [2] Exercise 5: Convert Active to Passive
+  ◦ [2] Exercise 6: Identify and Correct Inversion
+  ◦ [2] Exercise 7: Noun, Adjective, and Adverbial Clauses
+  ◦ [2] Exercise 8: Transitive and Separable Phrasal Verbs
+  ◦ [2] Exercise 9: Identify Complements
+  ◦ [2] Exercise 10: Spot the Error
+  ◦ [2] Answer Summary
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: 18-Glossary\README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Glossary of Grammatical Terms
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: EXPANSION-SUMMARY.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Sentence Patterns — Expansion Summary
+  ◦ [2] What Was Done
+    ◦ [3] Main File Improvements
+    ◦ [3] New Detailed Example Files Created
+      ◦ [4] ✨ 01a-Pattern-1-Examples.md (COMPLETE)
+      ◦ [4] ✨ 01b-Pattern-2-Examples.md (COMPLETE)
+      ◦ [4] ✨ 01c-Pattern-3-Examples.md (COMPLETE)
+      ◦ [4] ✨ 01d-Pattern-4-Examples.md (COMPLETE)
+      ◦ [4] ✨ 01e-Pattern-5-Examples.md (COMPLETE)
+      ◦ [4] ✨ 01f-Pattern-6-Examples.md (COMPLETE)
+      ◦ [4] ✨ 01g-Pattern-7-Examples.md (COMPLETE)
+  ◦ [2] Files Ready for Creation
+  ◦ [2] Current File Structure
+  ◦ [2] Content Statistics
+    ◦ [3] Main File (01-Basic-Sentence-Patterns.md)
+    ◦ [3] All Detailed Pattern Files (COMPLETE! ✅)
+    ◦ [3] Overall
+  ◦ [2] Key Improvements
+    ◦ [3] 1. Learning Progression
+    ◦ [3] 2. Comprehensive Coverage
+    ◦ [3] 3. Practical Application
+    ◦ [3] 4. Reference Quality
+    ◦ [3] 5. Visual Learning
+  ◦ [2] Benefits for Students
+  ◦ [2] Recommended Next Steps
+    ◦ [3] Option 1: Create Remaining Pattern Examples
+    ◦ [3] Option 2: Enhance Other Core Files
+    ◦ [3] Option 3: Create Practice Material
+    ◦ [3] Option 4: Add Visual Aids
+  ◦ [2] Usage Guide
+    ◦ [3] For Self-Study:
+    ◦ [3] For Teaching:
+    ◦ [3] For Quick Reference:
+  ◦ [2] Technical Details
+    ◦ [3] File Format
+    ◦ [3] Organization
+    ◦ [3] Quality Standards
+  ◦ [2] Changelog
+    ◦ [3] 2025-12-25 — MAJOR EXPANSION COMPLETE ✅ (Modules 13-16)
+    ◦ [3] 2025-12-25 — COMPLETE REORGANIZATION ✅
+    ◦ [3] 2025-12-25 — REORGANIZATION III (Sentence Elements)
+    ◦ [3] 2025-12-25 — PHASE 16 COMPLETE ✅ (Sentence Elements)
+    ◦ [3] 2025-12-25 — REFINEMENT (Adverbial Module)
+    ◦ [3] 2025-12-25 — REFINEMENT (Object Module)
+    ◦ [3] 2025-12-25 — REORGANIZATION II (Renumbering)
+    ◦ [3] 2025-12-25 — REORGANIZATION COMPLETE ✅0
+    ◦ [3] 2025-12-25 — REFINEMENT (Subject Module)
+    ◦ [3] 2025-12-25 — PHASE 13 COMPLETE ✅ (Predicate Module Addition)
+    ◦ [3] 2025-12-25 — PHASE 12 COMPLETE ✅ (Agreement Module Upgrade)
+    ◦ [3] 2025-12-25 — PHASE 11 COMPLETE ✅ (Phrasal Verbs Module Upgrade)
+    ◦ [3] 2025-12-25 — PHASE 10 COMPLETE ✅ (Clauses Module Upgrade)
+    ◦ [3] 2025-12-25 — PHASE 9 COMPLETE ✅ (Inversion Module Organization)
+    ◦ [3] 2025-12-25 — PHASE 8 COMPLETE ✅ (Adverbial Module Upgrade)
+    ◦ [3] 2025-12-25 — PHASE 7 COMPLETE ✅ (Complement Module Upgrade)
+    ◦ [3] 2025-12-25 — PHASE 6 COMPLETE ✅ (Object Module Upgrade)
+    ◦ [3] 2025-12-25 — PHASE 5 COMPLETE ✅ (Verb Module Upgrade)
+    ◦ [3] 2025-12-25 — PHASE 4 COMPLETE ✅ (Subject Module Upgrade)
+    ◦ [3] 2025-12-25 — PHASE 3 COMPLETE ✅ (Inversion Expansion)
+    ◦ [3] 2025-12-25 — PHASE 2 COMPLETE ✅
+    ◦ [3] 2025-12-25 — PHASE 1 COMPLETE
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: extract_headlines.py
+────────────────────────────────────────────────────────────────────────────────
+• [1] Match markdown headers (# Header, ## Header, etc.)
+• [1] Get all markdown files
+• [1] Generate output
+• [1] Save to file
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: index.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Sentence Patterns — Index
+  ◦ [2] Quick Links
+    ◦ [3] Beginner Level
+    ◦ [3] Core Components
+    ◦ [3] Intermediate Topics
+    ◦ [3] Advanced Topics
+    ◦ [3] Practice & Reference
+  ◦ [2] Topics by Category
+    ◦ [3] Sentence Structure
+    ◦ [3] Sentence Components
+    ◦ [3] Grammar Rules
+    ◦ [3] Writing & Style
+    ◦ [3] Learning Resources
+  ◦ [2] All Files in Order
+  ◦ [2] Detailed Pattern Examples
+  ◦ [2] Resources
+
+────────────────────────────────────────────────────────────────────────────────
+📄 FILE: README.md
+────────────────────────────────────────────────────────────────────────────────
+• [1] Sentence Patterns — Study Guide
+  ◦ [2] Overview
+  ◦ [2] Quick Navigation
+    ◦ [3] Beginner Level
+    ◦ [3] Core Components
+    ◦ [3] Advanced Topics
+    ◦ [3] Practice & Reference
+  ◦ [2] How to Use This Guide
+    ◦ [3] For Self-Study
+    ◦ [3] For Classroom Use
+    ◦ [3] For Quick Reference
+  ◦ [2] Key Learning Outcomes
+  ◦ [2] Common Notation
+  ◦ [2] Tips for Success
+  ◦ [2] Recommended Study Schedule
+  ◦ [2] Common Questions
+  ◦ [2] Additional Resources
+
+================================================================================
+SUMMARY: Processed 107 files
+================================================================================
