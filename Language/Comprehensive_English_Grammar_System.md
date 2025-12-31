@@ -31,11 +31,10 @@ This document integrates descriptive English grammar with deep linguistic struct
 
 The internal structure of words, their forms, and class membership
 
+```md
 ## **MORPHOLOGY**
-│
-├── **MORPHEMES**
-│   │ **Definition**: Smallest meaningful units of language
-│   │
+│   **Definition**: Smallest meaningful units of language
+
 │   ├── **Free Morphemes**
 │   │   │ **Definition**: Can occur independently as words
 │   │   └── Examples: book, run, happy
@@ -353,13 +352,14 @@ The internal structure of words, their forms, and class membership
     └── **Back-formation**
         └── editor → edit
 
+```
 ---
 
 ## 🏛️ LEVEL 3 — SYNTAX (The Core Engine: Sentence Structure)
 The arrangement of words and phrases to create well-formed sentences.
 
 ---
-
+```md
 ### **3. SYNTAX (Sentence Structure)**
 │
 ├── **3.1 Sentence**
@@ -1143,12 +1143,13 @@ The arrangement of words and phrases to create well-formed sentences.
     │
     └── **Note**:
         └── See **[LEVEL 8 — PRAGMATICS & DISCOURSE](#level-8--pragmatics--discourse)** for detailed breakdown of Theme/Rheme, Given/New, and Focus.
-
+```
 ---
 
 ### 3.2 THE CP–TP–VP PROJECTION SYSTEM (Deep Structure)
 This represents the hierarchical "shell" of a clause.
 
+```md
 **CLAUSE (CP)**
 │
 ├── **CP (Complementizer Phrase)** — *The Outer Shell (Mood/Force)*
@@ -1165,7 +1166,8 @@ This represents the hierarchical "shell" of a clause.
     │   ├── **V (Head)**: Lexical Verb (*Action, State, Event, Process*)
     │   └── **Complement**: **Objects** (NP/DP), **PPs**, or **Embedded Clauses**
     └── **Adjuncts**: Adverbials (Time, Place, Manner)
-
+```
+```md
 ### 3.3 CONSTITUENCY BREAKDOWN
 Detailed analysis of the standard Clause components.
 
@@ -1206,29 +1208,29 @@ Detailed analysis of the standard Clause components.
 │       ├── **Subject of a Prepositional Phrase**: (*He is in the room*)
 │       └── **Subject of a Relative Clause**: (*He is the man who is tall*)
 │
-├── **PREDICATE (P)** → **Verb Phrase (VP)**
-│   ├── **Predicator (Verb)**
-│   │   ├── **Main Verb**: Lexical, Transitive, Intransitive, Ditransitive, Linking
-│   │   ├── **Auxiliary**: Primary (*be, have, do*), Modal (*can, must*)
-│   │   └── **Verb Forms**: Base, -s, -ing, -ed / past participle
-│   │
-│   ├── **OBJECTS (O)**
-│   │   ├── **Direct Object (DO)**: Theme/Patient (*He is running*)
-│   │   └── **Indirect Object (IO)**: Recipient/Beneficiary (*He is running to the park*)
-│   │
-│   ├── **COMPLEMENTS (C)**
-│   │   ├── **Subject Complement**: Predicate Noun/Adjective (*He is a teacher*)
-│   │   └── **Object Complement**: (*They elected him president*)
-│   │
-│   └── **ADVERBIALS (A)**
-│       ├── **Adjuncts**: (Essential context: *Time, Place, Manner, Reason*)
-│       ├── **Conjuncts**: (Linking: *However, Therefore*)
-│       └── **Disjuncts**: (Speaker stance: *Frankly, Honestly, Fortunately*)
+└── **PREDICATE (P)** → **Verb Phrase (VP)**
+    ├── **Predicator (Verb)**
+    │   ├── **Main Verb**: Lexical, Transitive, Intransitive, Ditransitive, Linking
+    │   ├── **Auxiliary**: Primary (*be, have, do*), Modal (*can, must*)
+    │   └── **Verb Forms**: Base, -s, -ing, -ed / past participle
+    │
+    ├── **OBJECTS (O)**
+    │   ├── **Direct Object (DO)**: Theme/Patient (*He is running*)
+    │   └── **Indirect Object (IO)**: Recipient/Beneficiary (*He is running to the park*)
+    │
+    ├── **COMPLEMENTS (C)**
+    │   ├── **Subject Complement**: Predicate Noun/Adjective (*He is a teacher*)
+    │   └── **Object Complement**: (*They elected him president*)
+    │
+    └── **ADVERBIALS (A)**
+        ├── **Adjuncts**: (Essential context: *Time, Place, Manner, Reason*)
+        ├── **Conjuncts**: (Linking: *However, Therefore*)
+        └── **Disjuncts**: (Speaker stance: *Frankly, Honestly, Fortunately*)
 
-
+```
 
 ---
-
+```md
 ## 🏷️ LEVEL 4 — THE DETERMINER PHRASE (DP Hypothesis)
 A deeper look at what we traditionally call "Noun Phrases."
 
@@ -1240,9 +1242,10 @@ A deeper look at what we traditionally call "Noun Phrases."
     ├── **Spec-NP**: Modifiers (*very tall*)
     ├── **N (Noun Head)**: (*man, water, London*)
     └── **Complement / Modifier**: (*in the park, who I met*)
-
+```
 ---
 
+```md
 ## 🖇️ LEVEL 5 — ARGUMENT STRUCTURE & VALENCY
 How verbs interact with their participants.
 
@@ -1280,9 +1283,9 @@ How verbs interact with their participants.
 └── **Exam Tip**: In passive voice, Patient/Theme becomes Subject:
     └── Active: *The boy hit the ball.* (Agent=Subject, Patient=Object)
     └── Passive: *The ball was hit by the boy.* (Patient=Subject, Agent=PP)
-
+```
 ---
-
+```md
 ## 🧩 LEVEL 6 — FEATURES & AGREEMENT
 The "code" behind the grammar.
 
@@ -1291,9 +1294,10 @@ The "code" behind the grammar.
 ├── **Nominal Features (phi-features)**: Person, Number, Gender, Case
 ├── **Verbal Features**: Tense, Aspect (Perfect/Progressive), Mood, Voice (Active/Passive)
 └── **Agreement Rules**: Subject–Verb, Pronoun–Antecedent
-
+```
 ---
 
+```md
 ## 🧠 LEVEL 7 — SEMANTICS (Meaning)
 The study of literal and logical meaning.
    Definition:
@@ -1584,10 +1588,11 @@ The study of literal and logical meaning.
             │   ├── Reading 1: Two specific books (all students read same two)
             │   └── Reading 2: Two books per student (different books possible)
             └── **Exam Tip**: Look for *every, all, each* + numbers → likely scope ambiguity.
-
+```
 
 ---
 
+```md
 ## 🗣️ LEVEL 8 — PRAGMATICS & DISCOURSE
 The study of language in use and context.
 
@@ -1656,7 +1661,7 @@ The study of language in use and context.
         ├── Flouting maxims = deliberately breaking for effect (humor, politeness, implicature).
         ├── Violating maxims = unintentionally breaking (lying, confusion).
         └── Most implicature questions test Quantity ("not more than stated") and Relevance.
-
+```
 ---
 
 ## 📋 APPENDIX: QUICK REFERENCE TABLES
@@ -1665,11 +1670,11 @@ The study of language in use and context.
 
 | Person | Present | Past | Present Perfect |
 |--------|---------|------|-----------------|
-| I | am | was | have been |
-| You | are | were | have been |
-| He/She/It | is | was | has been |
-| We | are | were | have been |
-| They | are | were | have been |
+| **I** | **am** | **was** | **have been** |
+| **You** | **are** | **were** | **have been** |
+| **He/She/It** | **is** | **was** | **has been** |
+| **We** | **are** | **were** | **have been** |
+| **They** | **are** | **were** | **have been** |
 
 ---
 
@@ -1677,18 +1682,18 @@ The study of language in use and context.
 
 | Base Form | Past Simple | Past Participle |
 |-----------|-------------|-----------------|
-| go | went | gone |
-| eat | ate | eaten |
-| see | saw | seen |
-| give | gave | given |
-| take | took | taken |
-| come | came | come |
-| think | thought | thought |
-| make | made | made |
-| write | wrote | written |
-| break | broke | broken |
-| speak | spoke | spoken |
-| begin | began | begun |
+| **go** | went | gone |
+| **eat** | ate | eaten |
+| **see** | saw | seen |
+| **give** | gave | given |
+| **take** | took | taken |
+| **come** | came | come |
+| **think** | thought | thought |
+| **make** | made | made |
+| **write** | wrote | written |
+| **break** | broke | broken |
+| **speak** | spoke | spoken |
+| **begin** | began | begun |
 
 ---
 
@@ -1696,14 +1701,14 @@ The study of language in use and context.
 
 | Type | Subjective | Objective | Possessive Adj. | Possessive Pron. |
 |------|------------|-----------|-----------------|------------------|
-| 1st Sing. | I | me | my | mine |
-| 2nd Sing. | you | you | your | yours |
-| 3rd Sing. (M) | he | him | his | his |
-| 3rd Sing. (F) | she | her | her | hers |
-| 3rd Sing. (N) | it | it | its | — |
-| 1st Plural | we | us | our | ours |
-| 2nd Plural | you | you | your | yours |
-| 3rd Plural | they | them | their | theirs |
+| **1st Sing.** | I | me | my | mine |
+| **2nd Sing.** | you | you | your | yours |
+| **3rd Sing. (M)** | he | him | his | his |
+| **3rd Sing. (F)** | she | her | her | hers |
+| **3rd Sing. (N)** | it | it | its | — |
+| **1st Plural** | we | us | our | ours |
+| **2nd Plural** | you | you | your | yours |
+| **3rd Plural** | they | them | their | theirs |
 
 ---
 
@@ -1711,10 +1716,10 @@ The study of language in use and context.
 
 | Type | Structure | Example |
 |------|-----------|---------|
-| Simple | 1 Independent clause | *She studies hard.* |
-| Compound | 2+ Independent clauses | *She studied hard, and she passed.* |
-| Complex | 1 Independent + 1+ Dependent | *She passed because she studied.* |
-| Compound-Complex | 2+ Independent + 1+ Dependent | *She studied hard, and she passed because she was determined.* |
+| **Simple** | 1 Independent clause | *She studies hard.* |
+| **Compound** | 2+ Independent clauses | *She studied hard, and she passed.* |
+| **Complex** | 1 Independent + 1+ Dependent | *She passed because she studied.* |
+| **Compound-Complex** | 2+ Independent + 1+ Dependent | *She studied hard, and she passed because she was determined.* |
 
 ---
 
@@ -1722,9 +1727,9 @@ The study of language in use and context.
 
 | Clause Type | Function | Example |
 |-------------|----------|---------|
-| Noun Clause | Subject, Object, Complement | *What he said* is important. |
-| Relative (Adjective) | Modifies noun | *The book that I read* was great. |
-| Adverbial | Modifies verb/adj/adv | *She succeeded because she worked hard.* |
+| **Noun Clause** | Subject, Object, Complement | *What he said* is important. |
+| **Relative (Adjective) Clause** | Modifies noun | *The book that I read* was great. |
+| **Adverbial Clause** | Modifies verb/adj/adv | *She succeeded because she worked hard.* |
 
 ---
 
@@ -1732,18 +1737,18 @@ The study of language in use and context.
 
 | Tense | Formula | Example |
 |-------|---------|---------|
-| Simple Present | S + V(base/-s) | *She walks.* |
-| Present Progressive | S + am/is/are + V-ing | *She is walking.* |
-| Present Perfect | S + have/has + V3 | *She has walked.* |
-| Present Perfect Prog. | S + have/has + been + V-ing | *She has been walking.* |
-| Simple Past | S + V2 | *She walked.* |
-| Past Progressive | S + was/were + V-ing | *She was walking.* |
-| Past Perfect | S + had + V3 | *She had walked.* |
-| Past Perfect Prog. | S + had + been + V-ing | *She had been walking.* |
-| Simple Future | S + will + V | *She will walk.* |
-| Future Progressive | S + will + be + V-ing | *She will be walking.* |
-| Future Perfect | S + will + have + V3 | *She will have walked.* |
-| Future Perfect Prog. | S + will + have + been + V-ing | *She will have been walking.* |
+| **Simple Present** | S + V(base/-s) | *She walks.* |
+| **Present Progressive** | S + am/is/are + V-ing | *She is walking.* |
+| **Present Perfect** | S + have/has + V3 | *She has walked.* |
+| **Present Perfect Prog.** | S + have/has + been + V-ing | *She has been walking.* |
+| **Simple Past** | S + V2 | *She walked.* |
+| **Past Progressive** | S + was/were + V-ing | *She was walking.* |
+| **Past Perfect** | S + had + V3 | *She had walked.* |
+| **Past Perfect Prog.** | S + had + been + V-ing | *She had been walking.* |
+| **Simple Future** | S + will + V | *She will walk.* |
+| **Future Progressive** | S + will + be + V-ing | *She will be walking.* |
+| **Future Perfect** | S + will + have + V3 | *She will have walked.* |
+| **Future Perfect Prog.** | S + will + have + been + V-ing | *She will have been walking.* |
 
 ---
 
