@@ -1,7 +1,7 @@
 echo "# EnglishGrammer" >> README.md
 git init
 git add -A
-git commit -m "first commit"
+git commit -m "Upgrade"
 git branch -M main
 git remote add origin https://github.com/AbuHassanNayeem/EnglishGrammer.git
 git push -u origin main

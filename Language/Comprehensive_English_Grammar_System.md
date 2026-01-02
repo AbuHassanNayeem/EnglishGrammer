@@ -4,13 +4,9 @@ This document integrates descriptive English grammar with deep linguistic struct
 
 ---
 
-## 🌍 LEVEL 1 — THE LANGUAGE OVERVIEW
-**[PHONOLOGY] → [MORPHOLOGY] → [SYNTAX] → [SEMANTICS] → [PRAGMATICS] → [DISCOURSE]**
-
----
 ## 📑 TABLE OF CONTENTS
 
-- **[LEVEL 1 — OVERVIEW](#level-1--the-language-overview)**
+- **[LEVEL 1 — OVERVIEW](#🌍-LEVEL-1-—-THE-LANGUAGE-OVERVIEW)**
 - **[LEVEL 2 — MORPHOLOGY](#level-2--morphology-word-structure)**
 - **[LEVEL 3 — SYNTAX](#level-3--syntax-sentence-structure)**
     - [3.1 Clause Elements](#31-clause-elements)
@@ -19,6 +15,7 @@ This document integrates descriptive English grammar with deep linguistic struct
     - [3.5 Agreement](#35-agreement--concord)
     - [3.6 Government & Case](#36-government--case)
     - [3.7 Subordination & Coordination](#37-complex-sentences-subordination--coordination)
+
 - **[LEVEL 4 — DP HYPOTHESIS](#level-4--the-determiner-phrase-dp-hypothesis)**
 - **[LEVEL 5 — ARGUMENT STRUCTURE](#level-5--argument-structure--valency)**
 - **[LEVEL 6 — FEATURES](#level-6--features--agreement)**
@@ -27,145 +24,137 @@ This document integrates descriptive English grammar with deep linguistic struct
 - **[APPENDIX: QUICK REFERENCE](#appendix-quick-reference-tables)**
 
 ---
+
+│
+│
+└──
+
+## 🌍 LEVEL 1 — THE LANGUAGE OVERVIEW
+
+**[PHONOLOGY] → [MORPHOLOGY] → [SYNTAX] → [SEMANTICS] → [PRAGMATICS] → [DISCOURSE]**
+
+---
+
 ## 🧱 LEVEL 2 — MORPHOLOGY (Word Structure)
 
 The internal structure of words, their forms, and class membership
 
 ```md
 ## **MORPHOLOGY**
-│   **Definition**: Smallest meaningful units of language
-
-│   ├── **Free Morphemes**
-│   │   │ **Definition**: Can occur independently as words
-│   │   └── Examples: book, run, happy
+│
+├── **I. Morphemes**
+│   │   **Definition**: Smallest meaningful units of language
+│   ├── **A. Free Morphemes**
+│   │        │ **Definition**: Can occur independently as words
+│   │        └── Examples: book, run, happy
 │   │
-│   └── **Bound Morphemes**
-│       │ **Definition**: Must attach to another morpheme
-│       │ Examples: -s, un-, -ly, -ed
+│   └── **B. Bound Morphemes**
+│       │    │ **Definition**: Must attach to another morpheme
+│       │    └── Examples: -s, un-, -ly, -ed
 │       │
-│       ├── **Inflectional Morphemes**
-│       │   │ **Function**: Express grammatical information
-│       │   │               Do NOT change word class
-│       │   └── Examples: -s, -ed, -ing, -er, -est
+│       ├── **1. Inflectional Morphemes** (Grammatical morphology)
+│       │   │    │ **Definition**: Variation of word form for grammar
+│       │   │    │ **Function**: Express grammatical information. Do NOT change word class.
+│       │   │    └── Examples: -s, -ed, -ing, -er, -est
+│       │   │
+│       │   ├── **a. Tense**: (e.g., *walk* → *walked*)
+│       │   ├── **b. Number**: (e.g., *cat* → *cats*)
+│       │   ├── **c. Person**: (e.g., *I go vs She goes*)
+│       │   ├── **d. Comparison**: (e.g., *fast* → *faster* → *fastest*)
+│       │   ├── **e. Case**: (e.g., *he* → *him* → *his*)
+│       │   │
+│       │   └── **EXAM NOTE**: → Inflection NEVER creates a new dictionary entry
 │       │
-│       └── **Derivational Morphemes**
-│           │ **Function**: Create new words
-│           │               May change meaning and/or word class
-│           └── Examples: un-, -ness, -ment, -ly
+│       └── **2. Derivational Morphemes** (Lexical morphology)
+│           │     │ **Definition**: Word formation via affixes or shift
+│           │     │ **Function**: Create new words. May change meaning and/or word class
+│           │     └── Examples: un-, -ness, -ment, -ly
+│           │
+│           ├── **Category-Changing Derivation**
+│           │   │
+│           │   ├── **Noun → Adjective** (*e.g., beauty (N) → beautiful (Adj)*)
+│           │   ├── **Verb → Noun** (*e.g., create (V) → creation (N)*)
+│           │   ├── **Adjective → Adverb** (*e.g., quick (Adj) → quickly (adv)*)
+│           │   └── **Zero Derivation (Conversion)** (*e.g., butter (N) → to butter (V)*)
+│           │
+│           └── **EXAM NOTE**: → Derivation often signals WORD CLASS change
 │
-├── **INFLECTION** (Grammatical morphology)
-│   │ **Definition**: Variation of word form for grammar
-│   │
-│   ├── **Tense**: (e.g., *walk* → *walked*)
-│   │   
-│   ├── **Number**: (e.g., *cat* → *cats*)
-│   │
-│   ├── **Person**: (e.g., *I go vs She goes*)
-│   │
-│   ├── **Comparison**: (e.g., *fast* → *faster* → *fastest*)
-│   │
-│   └── **Case**: (e.g., *he* → *him* → *his*)
-│
-│   **EXAM NOTE**:
-│   → Inflection NEVER creates a new dictionary entry
-│
-├── **DERIVATION** (Lexical morphology)
-│   │ **Definition**: Word formation via affixes or shift
-│   │
-│   ├── **Category-Changing Derivation**
-│   │   │
-│   │   ├── **Noun → Adjective**
-│   │   │   └── beauty → beautiful
-│   │   │
-│   │   ├── **Verb → Noun**
-│   │   │   └── create → creation
-│   │   │
-│   │   ├── **Adjective → Adverb**
-│   │   │   └── quick → quickly
-│   │   │
-│   │   └── **Zero Derivation (Conversion)**
-│   │       └── butter (N) → to butter (V)
-│   │
-│   **EXAM NOTE**:
-│   → Derivation often signals WORD CLASS change
-│
-├── **WORD CLASSES** (Parts of Speech)
+├── **II. WORD CLASSES** (Parts of Speech)
 │   │ **Definition**: Morphological categories of words
 │   │ Based on inflection, derivation, and distribution
 │   │
-│   ├── **Content Words (Open Classes)**
+│   ├── **A. Content Words (Open Classes)**
 │   │   │ **Characteristics**:
 │   │   │ • Carry lexical meaning
 │   │   │ • New members easily added
 │   │   │ • Undergo derivation freely
 │   │   │
-│   │   ├── **Noun**
+│   │   ├── **1. Noun**
 │   │   │   │ **Meaning**: Entity, person, concept
 │   │   │   │ **Morphology**: plural (-s), possessive (-’s)
 │   │   │   └── *Exam test*: Can take determiners
-│   │   │       ├── **Proper Nouns**: Specific names (*London, Sarah*)
-│   │   │       └── **Common Nouns**
-│   │   │              ├── **Abstract Nouns**: Ideas, qualities, states (*Love, Courage, Honesty, Knowledge, Happiness*)
-│   │   │              ├── **Concrete Nouns**
-│   │   │              |     ├── **Countable Nouns**
-│   │   │              |     │   ├── **Individual/Singular items**: (*Book, Chair, Pen, Man, City*)
-│   │   │              |     │   └── **Plural items**: (*Books, Chairs, Pens, Men, Cities*)
-│   │   │              |     |        └── **Collective Nouns**
-│   │   │              |     |              ├── **Groups**: (*Team, Flock, Herd, Swarm, Pack*)
-│   │   │              |     |              └── **Collections/Institutions**: (*Library, Gallery, Orchestra, Choir, Ensemble*)
-│   │   │              |     └── **Uncountable Nouns**
-│   │   │              |          ├── **Mass items**: (*Water, Air, Fire, Food, Furniture, Information*)
-│   │   │              |          └── **Material items**: (*Gold, Water, Wood, Steel, Paper*)
-│   │   │              |     
-│   │   │              └── **Compound Nouns**
+│   │   │       ├── **a. Proper Nouns**: Specific names (*London, Sarah*)
+│   │   │       └── **b. Common Nouns**
+│   │   │              ├── **i. Abstract Nouns**: Ideas, qualities, states (*Love, Courage, Honesty, Knowledge, Happiness*)
+│   │   │              ├── **ii. Concrete Nouns**
+│   │   │              │     ├── **(1) Countable Nouns**
+│   │   │              │     │   ├── **(a) Individual/Singular items**: (*Book, Chair, Pen, Man, City*)
+│   │   │              │     │   └── **(b) Plural items**: (*Books, Chairs, Pens, Men, Cities*)
+│   │   │              │     │        └── **(i) Collective Nouns**
+│   │   │              │     │              ├── **- Groups**: (*Team, Flock, Herd, Swarm, Pack*)
+│   │   │              │     │              └── **- Collections/Institutions**: (*Library, Gallery, Orchestra, Choir, Ensemble*)
+│   │   │              │     └── **(2) Uncountable Nouns**
+│   │   │              │          ├── **(a) Mass items**: (*Water, Air, Fire, Food, Furniture, Information*)
+│   │   │              │          └── **(b) Material items**: (*Gold, Water, Wood, Steel, Paper*)
+│   │   │              │     
+│   │   │              └── **iii. Compound Nouns**
 │   │   │                   ├── **Spaced/Open**: (*Bus stop, Post office, Tea party*)
 │   │   │                   ├── **Hyphenated**: (*Mother-in-law, Father-in-law, Son-in-law*)
 │   │   │                   └── **Closed/Solid**: (*Snowball, Keyboard, Notebook*)
-│   │   │          
 │   │   │
-│   │   ├── **Verb**
+│   │   ├── **2. Verb**
 │   │   │   │ **Meaning**: Action, state, process
 │   │   │   │ **Morphology**: tense, aspect, agreement
 │   │   │   │ Exam test: Takes -ed / -ing
 │   │   │   │
-│   │   │   ├── **THE 12 TENSES SYSTEM**
+│   │   │   ├── **a. THE 12 TENSES SYSTEM**
 │   │   │   │   │
-│   │   │   │   ├── **PRESENT TENSES**
-│   │   │   │   │   ├── **Simple Present**: S + V(base/-s)
+│   │   │   │   ├── **i. PRESENT TENSES**
+│   │   │   │   │   ├── **(1) Simple Present**: S + V(base/-s)
 │   │   │   │   │   │   └── *She walks to school.* / *He eats breakfast daily.*
-│   │   │   │   │   ├── **Present Progressive**: S + am/is/are + V-ing
+│   │   │   │   │   ├── **(2) Present Progressive**: S + am/is/are + V-ing
 │   │   │   │   │   │   └── *She is walking now.* / *They are eating.*
-│   │   │   │   │   ├── **Present Perfect**: S + have/has + V-ed/V3
+│   │   │   │   │   ├── **(3) Present Perfect**: S + have/has + V-ed/V3
 │   │   │   │   │   │   └── *She has walked home.* / *I have eaten.*
-│   │   │   │   │   └── **Present Perfect Progressive**: S + have/has + been + V-ing
+│   │   │   │   │   └── **(4) Present Perfect Progressive**: S + have/has + been + V-ing
 │   │   │   │   │       └── *She has been walking for an hour.*
 │   │   │   │   │
-│   │   │   │   ├── **PAST TENSES**
-│   │   │   │   │   ├── **Simple Past**: S + V-ed/V2
+│   │   │   │   ├── **ii. PAST TENSES**
+│   │   │   │   │   ├── **(1) Simple Past**: S + V-ed/V2
 │   │   │   │   │   │   └── *She walked yesterday.* / *He ate dinner.*
-│   │   │   │   │   ├── **Past Progressive**: S + was/were + V-ing
+│   │   │   │   │   ├── **(2) Past Progressive**: S + was/were + V-ing
 │   │   │   │   │   │   └── *She was walking when I called.*
-│   │   │   │   │   ├── **Past Perfect**: S + had + V-ed/V3
+│   │   │   │   │   ├── **(3) Past Perfect**: S + had + V-ed/V3
 │   │   │   │   │   │   └── *She had walked before the rain started.*
-│   │   │   │   │   └── **Past Perfect Progressive**: S + had + been + V-ing
+│   │   │   │   │   └── **(4) Past Perfect Progressive**: S + had + been + V-ing
 │   │   │   │   │       └── *She had been walking for hours before she stopped.*
 │   │   │   │   │
-│   │   │   │   └── **FUTURE TENSES**
-│   │   │   │       ├── **Simple Future**: S + will + V(base)
+│   │   │   │   └── **iii. FUTURE TENSES**
+│   │   │   │       ├── **(1) Simple Future**: S + will + V(base)
 │   │   │   │       │   └── *She will walk tomorrow.* / *He will eat later.*
-│   │   │   │       ├── **Future Progressive**: S + will + be + V-ing
+│   │   │   │       ├── **(2) Future Progressive**: S + will + be + V-ing
 │   │   │   │       │   └── *She will be walking at 5 PM.*
-│   │   │   │       ├── **Future Perfect**: S + will + have + V-ed/V3
+│   │   │   │       ├── **(3) Future Perfect**: S + will + have + V-ed/V3
 │   │   │   │       │   └── *She will have walked 10 miles by evening.*
-│   │   │   │       └── **Future Perfect Progressive**: S + will + have + been + V-ing
+│   │   │   │       └── **(4) Future Perfect Progressive**: S + will + have + been + V-ing
 │   │   │   │           └── *She will have been walking for 2 hours by then.*
 │   │   │   │
-│   │   │   ├── **MOOD** (Verb Mode)
-│   │   │   │   ├── **Indicative**: States facts, reality
+│   │   │   ├── **b. MOOD** (Verb Mode)
+│   │   │   │   ├── **(1) Indicative**: States facts, reality
 │   │   │   │   │   └── *She is here.* / *The train arrives at 6.*
-│   │   │   │   ├── **Imperative**: Commands, requests
+│   │   │   │   ├── **(2) Imperative**: Commands, requests
 │   │   │   │   │   └── *Come here!* / *Please sit down.*
-│   │   │   │   └── **Subjunctive**: Hypotheticals, wishes, demands
+│   │   │   │   └── **(3) Subjunctive**: Hypotheticals, wishes, demands
 │   │   │   │       ├── *If I **were** you, I would study.* (contrary to fact)
 │   │   │   │       ├── *I suggest that he **leave** immediately.* (mandative)
 │   │   │   │       ├── *It is essential that she **be** present.* (formal)
@@ -173,128 +162,128 @@ The internal structure of words, their forms, and class membership
 │   │   │   │
 │   │   │   └── **Exam Tip**: Tense errors are the most common in competitive exams.
 │   │   │
-│   │   ├── **Adjective**
+│   │   ├── **3. Adjective**
 │   │   │   │ **Meaning**: Quality or property
 │   │   │   │ **Morphology**: comparison (-er, -est)
 │   │   │   └── Exam test: Can be intensified (very)
 │   │   │
-│   │   └── **Adverb**
+│   │   └── **4. Adverb**
 │   │       │ **Meaning**: Manner, time, degree, attitude
 │   │       │ **Morphology**: often -ly derived
 │   │       └── *Exam trap*: Not all adverbs end in -ly
 │   │
-│   └── **Function Words (Closed Classes)**
+│   └── **B. Function Words (Closed Classes)**
 │       │ **Characteristics**:
 │       │ • Grammatical function
 │       │ • Limited membership
 │       │ • Rarely derived
 │       │
-│       ├── **Determiners (Det)**
-│       │   ├── **Definition**: 
+│       ├── **1. Determiners (Det)**
+│       │   │   **Definition**: 
 │       │   │   Words placed before nouns to clarify reference, quantity, possession, or definiteness. 
 │       │   │   Determiners are essential in forming noun phrases and specify **which** or **how many** of something is being referred to.  
-│       │   ├── **Functions**: 
+│       │   │   **Functions**: 
 │       │   │   - Specify **definiteness/indefiniteness** (*the book* vs *a book*).  
 │       │   │   - Indicate **quantity or amount** (*few students, many ideas*).  
 │       │   │   - Show **possession or association** (*my house, her book*).  
 │       │   │   - Point to **specific entities** (*this pen, those books*).  
 │       │   │   - Introduce **numbers or order** (*first prize, three apples*).  
-│       │   └── **Types of Determiners**:
-│       │       ├── **Articles**:
-│       │       │   - **Definite Article**: *the* → refers to a specific entity.  
-│       │       │     - Example: *The dog barked loudly.*  
-│       │       │   - **Indefinite Articles**: *a, an* → refers to a non-specific entity.  
-│       │       │     - Example: *I saw a cat in the garden.*  
-│       │       │   - **Exam Tip**: Use *a* before consonant sounds, *an* before vowel sounds (*a university, an apple*).  
-│       │       ├── **Demonstratives**:
-│       │       │   - Words that indicate **proximity or distance**: *this, that, these, those*.  
-│       │       │   - Example: *This book is mine. Those chairs are old.*  
-│       │       │   - **Exam Tip**: Singular vs plural → *this/that* (singular), *these/those* (plural).  
-│       │       ├── **Quantifiers**:
-│       │       │   - Express **quantity or amount** of nouns: *some, any, every, no, few, many, much, most, all, half, both, either, neither, each, one, another, others*.  
-│       │       │   - Examples:  
-│       │       │     - *Few students passed the exam.*  
-│       │       │     - *All the cookies are gone.*  
-│       │       │     - *Each child received a gift.*  
-│       │       │   - **Exam Tip**: Some quantifiers work with **countable nouns** (*few, many*), others with **uncountable nouns** (*little, much*).  
-│       │       ├── **Numbers**:
-│       │       │   - Cardinal numbers: *one, two, three…* (indicate quantity)  
-│       │       │   - Ordinal numbers: *first, second, third…* (indicate position/order)  
-│       │       │   - Examples: *I have three books. She won first prize.*  
-│       │       │   - **Exam Tip**: Numbers as determiners always precede nouns (*three apples*, not *apples three*).  
-│       │       ├── **Possessives**:
-│       │       │   - Show **ownership or relationship**: *my, your, his, her, its, our, their, whose*.  
-│       │       │   - Examples: *Her dress is beautiful. Whose bag is this?*  
-│       │       │   - **Exam Tip**: Possessive determiners must match the **owner** and are followed by the noun (*my book*, not *mine book*).  
-│       │       ├── **Interrogative Determiners**:
-│       │       │   - Used to ask questions: *which, what, whose*.  
-│       │       │   - Example: *Which color do you prefer? Whose bag is this?*  
-│       │       ├── **Distributive Determiners**:
-│       │       │   - Show distribution or individuality: *each, every, either, neither*.  
-│       │       │   - Example: *Each student must submit homework. Neither option is suitable.*  
-│       │       └── **Exam Tips (General)**:
-│       │           - Determiners always appear **before adjectives (if any) and nouns**: *the red car*, *my best friend*.  
-│       │           - Most determiners **cannot be used together**: *the my book ❌*, *some few books ❌*.  
-│       │           - Count vs uncount nouns affect choice of determiners: *many books (countable), much water (uncountable)*.  
+│       │   │
+│       │   ├── **a. Articles**:
+│       │   │   - **Definite Article**: *the* → refers to a specific entity.  
+│       │   │     - Example: *The dog barked loudly.*  
+│       │   │   - **Indefinite Articles**: *a, an* → refers to a non-specific entity.  
+│       │   │     - Example: *I saw a cat in the garden.*  
+│       │   │   - **Exam Tip**: Use *a* before consonant sounds, *an* before vowel sounds (*a university, an apple*).  
+│       │   ├── **b. Demonstratives**:
+│       │   │   - Words that indicate **proximity or distance**: *this, that, these, those*.  
+│       │   │   - Example: *This book is mine. Those chairs are old.*  
+│       │   │   - **Exam Tip**: Singular vs plural → *this/that* (singular), *these/those* (plural).  
+│       │   ├── **c. Quantifiers**:
+│       │   │   - Express **quantity or amount** of nouns: *some, any, every, no, few, many, much, most, all, half, both, either, neither, each, one, another, others*.  
+│       │   │   - Examples:  
+│       │   │     - *Few students passed the exam.*  
+│       │   │     - *All the cookies are gone.*  
+│       │   │     - *Each child received a gift.*  
+│       │   │   - **Exam Tip**: Some quantifiers work with **countable nouns** (*few, many*), others with **uncountable nouns** (*little, much*).  
+│       │   ├── **d. Numbers**:
+│       │   │   - Cardinal numbers: *one, two, three…* (indicate quantity)  
+│       │   │   - Ordinal numbers: *first, second, third…* (indicate position/order)  
+│       │   │   - Examples: *I have three books. She won first prize.*  
+│       │   │   - **Exam Tip**: Numbers as determiners always precede nouns (*three apples*, not *apples three*).  
+│       │   ├── **e. Possessives**:
+│       │   │   - Show **ownership or relationship**: *my, your, his, her, its, our, their, whose*.  
+│       │   │   - Examples: *Her dress is beautiful. Whose bag is this?*  
+│       │   │   - **Exam Tip**: Possessive determiners must match the **owner** and are followed by the noun (*my book*, not *mine book*).  
+│       │   ├── **f. Interrogative Determiners**:
+│       │   │   - Used to ask questions: *which, what, whose*.  
+│       │   │   - Example: *Which color do you prefer? Whose bag is this?*  
+│       │   ├── **g. Distributive Determiners**:
+│       │   │   - Show distribution or individuality: *each, every, either, neither*.  
+│       │   │   - Example: *Each student must submit homework. Neither option is suitable.*  
+│       │   └── **Exam Tips (General)**:
+│       │       - Determiners always appear **before adjectives (if any) and nouns**: *the red car*, *my best friend*.  
+│       │       - Most determiners **cannot be used together**: *the my book ❌*, *some few books ❌*.  
+│       │       - Count vs uncount nouns affect choice of determiners: *many books (countable), much water (uncountable)*.  
 │       │
 │       │
-│       ├── **Pronoun**
+│       ├── **2. Pronoun**
 │       │   │ **Function**: Replace noun phrases
 │       │   │ **Morphology**: case (he/him)
-│       │   └── he, she, they
-│       │        ├── **Personal Pronouns**
-│       │        │   ├── **Subjective (Nominative Case)**: (*I, We, You, He, She, It, They*)
-│       │        │   ├── **Objective (Accusative Case)**: (*Me, Us, You, Him, Her, It, Them*)
-│       │        │   └── **Possessive Personal Pronouns**
-│       │        │       ├── **Possessive Adjectives (Determiners)**: (*My, Our, Your, His, Her, Its, Their*)
-│       │        │       └── **Possessive Pronouns (Absolute)**: (*Mine, Ours, Yours, His, Hers, Its, Theirs*)
-│       │        │
-│       │        ├── **Reflexive Pronouns**: (*Myself, Yourself, Himself, Herself, Itself, Ourselves, Yourselves, Themselves, Oneself*)
-│       │        ├── **Emphatic (Intensive)**: (*Same forms as Reflexive; Myself, Himself, Themselves, etc.*)
-│       │        ├── **Difference between Reflexive and Emphatic**:
-│       │        │   ├── **Reflexive**: Object refers back to subject; REQUIRED for meaning.
-│       │        │   │   └── Example: *I hurt **myself**.* (Cannot say: *I hurt.* — incomplete)
-│       │        │   ├── **Emphatic**: Adds emphasis; OPTIONAL and removable.
-│       │        │   │   └── Example: *I **myself** did it.* (Can say: *I did it.* — still complete)
-│       │        │   └── **Exam Tip**: Remove the pronoun—if sentence is incomplete, it's reflexive; if complete, it's emphatic.
-│       │        ├── **Demonstrative**: (*This, That, These, Those, Such, The same*)
-│       │        ├── **Interrogative**: (*Who, Whom, Whose, Which, What, Whoever, Whichever, Whatever*)
-│       │        ├── **Relative**: (*Who, Whom, Whose, Which, That, Whoever, Whomever, Whichever, Whatever, As, But*)
-│       │        ├── **Difference between Interrogative and Relative**:
-│       │        │   ├── **Interrogative**: Asks a question; stands alone.
-│       │        │   │   └── Example: ***Who** arrived?* / ***Which** book did you read?*
-│       │        │   ├── **Relative**: Introduces a clause; connects to a noun (antecedent).
-│       │        │   │   └── Example: *The man **who** arrived is my teacher.* / *The book **which** I read was great.*
-│       │        │   └── **Exam Tip**: If the pronoun asks a question → Interrogative. If it introduces a clause describing a noun → Relative.
-│       │        ├── **Who vs Whom** (Exam Essential):
-│       │        │   ├── **Who**: Subject position (*Who arrived?* → *He arrived* ✓)
-│       │        │   ├── **Whom**: Object position (*Whom did you see?* → *I saw him* ✓)
-│       │        │   └── **Trick**: Substitute he/him. *He* → *who*; *Him* → *whom*.
-│       │        ├── **Indefinite Pronouns**
-│       │        │   ├── **Universal**: (*All, Both, Each, Every, Everyone, Everybody, Everything*)
-│       │        │   ├── **Distributive**: (*Each, Either, Neither*)
-│       │        │   ├── **Quantitative**: (*Some, Any, Much, Many, Few, Little, Several, Enough, More, Most, Both*)
-│       │        │   ├── **Negative**: (*None, Nobody, Nothing, No one, Neither*)
-│       │        │   └── **Existential**: (*Someone, Somebody, Something, Anyone, Anybody, Anything*)
-│       │        ├── **Reciprocal**: (*Each other, One another*)
-│       │        ├── **Dummy / Expletive**: (*It, There*)
-│       │        └── **Pronoun Case in Coordinate Structures** (Exam Trap):
-│       │            ├── Both pronouns must be same case.
-│       │            ├── Subject: *She **and I** went home.* ✓ (NOT: *Her and me went home.* ❌)
-│       │            ├── Object: *They invited **him and me**.* ✓ (NOT: *They invited he and I.* ❌)
-│       │            └── **Trick**: Remove the other person—would you say "I went" or "Me went"?
+│       │   │ - Example: he, she, they
+│       │   │
+│       │   ├── **a. Personal Pronouns**
+│       │   │   ├── **i.Subjective (Nominative Case)**: (*I, We, You, He, She, It, They*)
+│       │   │   ├── **ii.Objective (Accusative Case)**: (*Me, Us, You, Him, Her, It, Them*)
+│       │   │   └── **iii.Possessive Personal Pronouns**
+│       │   │       ├── **(1) Possessive Adjectives (Determiners)**: (*My, Our, Your, His, Her, Its, Their*)
+│       │   │       └── **(2) Possessive Pronouns (Absolute)**: (*Mine, Ours, Yours, His, Hers, Its, Theirs*)
+│       │   │
+│       │   ├── **b. Reflexive Pronouns**: (*Myself, Yourself, Himself, Herself, Itself, Ourselves, Yourselves, Themselves, Oneself*)
+│       │   ├── **c. Emphatic (Intensive)**: (*Same forms as Reflexive; Myself, Himself, Themselves, etc.*)
+│       │   ├── **d. Difference between Reflexive and Emphatic**:
+│       │   │   ├── **(1) Reflexive**: Object refers back to subject; REQUIRED for meaning.
+│       │   │   │   └── Example: *I hurt **myself**.* (Cannot say: *I hurt.* — incomplete)
+│       │   │   ├── **(2) Emphatic**: Adds emphasis; OPTIONAL and removable.
+│       │   │   │   └── Example: *I **myself** did it.* (Can say: *I did it.* — still complete)
+│       │   │   └── **(3) Exam Tip**: Remove the pronoun—if sentence is incomplete, it's reflexive; if complete, it's emphatic.
+│       │   ├── **e. Demonstrative**: (*This, That, These, Those, Such, The same*)
+│       │   ├── **f. Interrogative**: (*Who, Whom, Whose, Which, What, Whoever, Whichever, Whatever*)
+│       │   ├── **g. Relative**: (*Who, Whom, Whose, Which, That, Whoever, Whomever, Whichever, Whatever, As, But*)
+│       │   ├── **h. Difference between Interrogative and Relative**:
+│       │   │   ├── **(1) Interrogative**: Asks a question; stands alone.
+│       │   │   │   └── Example: ***Who** arrived?* / ***Which** book did you read?*
+│       │   │   ├── **(2) Relative**: Introduces a clause; connects to a noun (antecedent).
+│       │   │   │   └── Example: *The man **who** arrived is my teacher.* / *The book **which** I read was great.*
+│       │   │   └── **Exam Tip**: If the pronoun asks a question → Interrogative. If it introduces a clause describing a noun → Relative.
+│       │   ├── **i. Who vs Whom** (Exam Essential):
+│       │   │   ├── **Who**: Subject position (*Who arrived?* → *He arrived* ✓)
+│       │   │   ├── **Whom**: Object position (*Whom did you see?* → *I saw him* ✓)
+│       │   │   └── **Trick**: Substitute he/him. *He* → *who*; *Him* → *whom*.
+│       │   ├── **j. Indefinite Pronouns**
+│       │   │   ├── **(1) Universal**: (*All, Both, Each, Every, Everyone, Everybody, Everything*)
+│       │   │   ├── **(2) Distributive**: (*Each, Either, Neither*)
+│       │   │   ├── **(3) Quantitative**: (*Some, Any, Much, Many, Few, Little, Several, Enough, More, Most, Both*)
+│       │   │   ├── **(4) Negative**: (*None, Nobody, Nothing, No one, Neither*)
+│       │   │   └── **(5) Existential**: (*Someone, Somebody, Something, Anyone, Anybody, Anything*)
+│       │   ├── **k. Reciprocal**: (*Each other, One another*)
+│       │   ├── **l. Dummy / Expletive**: (*It, There*)
+│       │   └── **m. Pronoun Case in Coordinate Structures** (Exam Trap):
+│       │       ├── Both pronouns must be same case.
+│       │       ├── Subject: *She **and I** went home.* ✓ (NOT: *Her and me went home.* ❌)
+│       │       ├── Object: *They invited **him and me**.* ✓ (NOT: *They invited he and I.* ❌)
+│       │       └── **Trick**: Remove the other person—would you say "I went" or "Me went"?
 │       │
-│       │
-│       ├── **Preposition**
+│       ├── **3. Preposition**
 │       │   │ **Function**: Express relation
 │       │   └── in, on, under
 │       │
-│       ├── **Conjunction**
+│       ├── **4. Conjunction**
 │       │   │
-│       │   ├── **Coordinating**
+│       │   ├── **a. Coordinating**
 │       │   │   └── and, but, or, yet, so, nor, for (FANBOYS)
 │       │   │
-│       │   ├── **Correlative** (Paired Conjunctions)
+│       │   ├── **b. Correlative** (Paired Conjunctions)
 │       │   │   ├── *either...or* (choice between two)
 │       │   │   │   └── Example: *Either you leave **or** I will.*
 │       │   │   ├── *neither...nor* (both negated)
@@ -310,87 +299,260 @@ The internal structure of words, their forms, and class membership
 │       │   │       - **Subject-verb agreement**: With *neither...nor* and *either...or*, verb agrees with CLOSER subject.
 │       │   │       - Example: *Neither the students **nor** the teacher **was** present.* ✓
 │       │   │
-│       │   └── **Subordinating**
+│       │   └── **c. Subordinating**
 │       │       └── because, although, if, when, while, unless, after, before
 │       │
-│       ├── **Complementizer**
+│       ├── **5. Complementizer**
 │       │   │ **Function**: Introduce clauses
 │       │   └── that, whether, if
 │       │
-│       ├── **Particle**
+│       ├── **6. Particle**
 │       │   │ **Function**: Part of phrasal verb
 │       │   └── give up, take off
 │       │
-│       └── **Interjection**
+│       └── **7. Interjection**
 │           │ **Function**: Express emotion / stance
 │           └── oh!, hey!, honestly!
 │
 │   **EXAM TRAP**:
 │   → Same word form ≠ same word class (e.g., fast)
 │
-└── **WORD FORMATION PROCESSES**
+└── **III. WORD FORMATION PROCESSES**
     │ **Definition**: Mechanisms for creating new lexemes
     │
-    ├── **Affixation**
-    │   └── **Prefixation** / **Suffixation**
+    ├── **A. Affixation**
+    │   ├── **1. Prefixation**
+    │   └── **2. Suffixation**
     │
-    ├── **Compounding**
-    │   └── sunflower, stone wall
-    │
-    ├── **Conversion**
-    │   └── a gift → to gift
-    │
-    ├── **Clipping**
-    │   └── advertisement → ad
-    │
-    ├── **Blending**
-    │   └── smoke + fog → smog
-    │
-    ├── **Acronym**
-    │   └── NASA
-    │
-    └── **Back-formation**
-        └── editor → edit
+    ├── **B. Compounding**: (e.g. *sunflower, stone wall*)
+    ├── **C. Conversion**: (e.g. *a gift → to gift*)
+    ├── **D. Clipping**: (e.g. *advertisement → ad*)
+    ├── **E. Blending**: (e.g. *smoke + fog → smog*)
+    ├── **F. Acronym**: (e.g. *NASA*)
+    └── **G. Back-formation** (e.g. *editor → edit*)
 
 ```
 ---
 
 ## 🏛️ LEVEL 3 — SYNTAX (The Core Engine: Sentence Structure)
 The arrangement of words and phrases to create well-formed sentences.
-
+├── **I Sentence**
+│   │ **Definition**: A complete grammatical unit expressing a full thought.
 ---
 ```md
-### **3. SYNTAX (Sentence Structure)**
+### ** SYNTAX (Sentence Structure)**
 │
-├── **3.1 Sentence**
-│   ├── **Definition**: A complete grammatical unit expressing a full thought.
-│   ├── **Internal Structure**: Clause → Phrase → Word
-│   ├── **Types CLASSIFICATION**: Simple / Compound / Complex / Compound-Complex
-│   └── **Sentence Force**: Declarative / Interrogative / Imperative / Optative / Exclamative
+├── **I Sentence**
+│   │
+│   ├── **A. Internal Structure**:
+│   │   ├── **Clause**
+│   │   │   ├── **1 Clause Types by Independence**
+│   │   │   │   ├── **i. Independent (Main Clause)**
+│   │   │   │   │   ├── **(1) Simple Main Clause**
+│   │   │   │   │   └── **(2) Complex Main Clause**
+│   │   │   │   │
+│   │   │   │   └── **ii. Dependent (Subordinate Clause)**
+│   │   │   │       ├── **(1) Noun Clause**
+│   │   │   │       ├── **(2) Adjective (Relative) Clause**
+│   │   │   │       └── **(3) Adverbial Clause**
+│   │   │   │
+│   │   │   ├── **2 Clause Types by Verb Form**
+│   │   │   │   ├── **i. Finite Clause**
+│   │   │   │   │   ├── **(1) That-Clause / Finite Nominal Clause**
+│   │   │   │   │   │   ├── **(a) That-Clause**
+│   │   │   │   │   │   └── **(b) Finite Nominal Clause**
+│   │   │   │   │   │
+│   │   │   │   │   └── **(2)**
+│   │   │   │   │
+│   │   │   │   └── **ii. Non-finite Clause**
+│   │   │   │       ├── **(1) To-infinitive**
+│   │   │   │       ├── **(2) Infinitive Phrase / Infinitival Clause**
+│   │   │   │       │   ├── **(a) Infinitive Phrase**
+│   │   │   │       │   └── **(b) Infinitival Clause**
+│   │   │   │       │
+│   │   │   │       └── **(3) Gerund (Verb + ing used as a Noun) -ing Clause Participle**
+│   │   │   │
+│   │   │   └── **3 Clause Elements**
+│   │   │       ├── **i. Subject**
+│   │   │       │   ├── **Elements of Subject**
+│   │   │       │   │   ├── **Noun Phrase / Noun Clause**
+│   │   │       │   │   ├── **Pronoun Phrase**
+│   │   │       │   │   ├── **Gerund Phrase / Gerund Clause  (Non-finite Clause)**
+│   │   │       │   │   ├── **Infinitive Phrase / Infinitival Clause**
+│   │   │       │   │   ├── **That-Clause / Finite Nominal Clause**
+│   │   │       │   │   └── **Dummy/Expletive Subject**
+│   │   │       │   │
+│   │   │       │   └── **Subject Functions**
+│   │   │       │       ├── **Subject of a Sentence**
+│   │   │       │       ├── **Subject of a Verb**
+│   │   │       │       ├── **Subject of a Prepositional Phrase**
+│   │   │       │       └── **Subject of a Relative Clause**
+│   │   │       │
+│   │   │       ├── **ii. Predicate**
+│   │   │       │   ├── **Functions of Predicates**
+│   │   │       │   │   ├── **Main Predicate**
+│   │   │       │   │   └── **Subordinate Predicate**
+│   │   │       │   │
+│   │   │       │   └── **Elements of Predicates**
+│   │   │       │       ├── **(1) Verb**
+│   │   │       │       │   ├── **(a) Category by form**
+│   │   │       │       │   │   ├── **(i)Base**
+│   │   │       │       │   │   ├── **(ii)-s (3rd person)**
+│   │   │       │       │   │   ├── **(iii)-ing (present participle)**
+│   │   │       │       │   │   └── **(iv)-ed/-en (past/past participle)**
+│   │   │       │       │   │
+│   │   │       │       │   ├── **(b) Category by type**
+│   │   │       │       │   │   ├── **Finite Verb**
+│   │   │       │       │   │   └── **Non-finite Verb**
+│   │   │       │       │   │
+│   │   │       │       │   └── **(c) Category by function**
+│   │   │       │       │       ├── **Main Verb (Base Verb)**
+│   │   │       │       │       ├── **Auxiliary Verb**
+│   │   │       │       │       ├── **Gerund Verb**
+│   │   │       │       │       ├── **Infinitive Verb**
+│   │   │       │       │       └── **Modal Verb**
+│   │   │       │       │
+│   │   │       │       └── **(2) Object**
+│   │   │       │           ├── **Functions of Objects**
+│   │   │       │           │   ├── **Direct Object (DO)**
+│   │   │       │           │   ├── **Indirect Object (IO)**
+│   │   │       │           │   ├── **Prepositional Object (PO)**
+│   │   │       │           │   └── **Double Object**
+│   │   │       │           │
+│   │   │       │           └── **Elements of Objects**
+│   │   │       │               ├── **(a) Noun Phrase / Noun Clause**
+│   │   │       │               ├── **(b) Pronoun Phrase**
+│   │   │       │               ├── **(c) Gerund Phrase / Gerund Clause  (Non-finite Clause)**
+│   │   │       │               ├── **(d) Infinitive Phrase / Infinitival Clause**
+│   │   │       │               ├── **(e) That-Clause / Finite Nominal Clause**
+│   │   │       │               └── **(f) Dummy/Expletive Object**
+│   │   │       │
+│   │   │       ├── **iii. Complement (C)**
+│   │   │       │   ├── **Elements of Complements**
+│   │   │       │   │   ├── **(a) Noun Phrase / Noun Clause**
+│   │   │       │   │   ├── **(b) Pronoun Phrase**
+│   │   │       │   │   ├── **(c) Gerund Phrase / Gerund Clause  (Non-finite Clause)**
+│   │   │       │   │   ├── **(d) Infinitive Phrase / Infinitival Clause**
+│   │   │       │   │   ├── **(e) That-Clause / Finite Nominal Clause**
+│   │   │       │   │   └── **(f) Dummy/Expletive Complement**
+│   │   │       │   │
+│   │   │       │   └── **Functions of Complements**
+│   │   │       │       ├── **Subject Complement (SC)**
+│   │   │       │       ├── **Predicate Complement (PC)**
+│   │   │       │       ├── **Object Complement (OC)**
+│   │   │       │       └── **Double Complement**
+│   │   │       │
+│   │   │       └── **MODIFIERS**
+│   │   │           ├── **Functions of Modifiers (Position-based)**
+│   │   │           │   ├── **Pre-Modifiers**
+│   │   │           │   │   ├── **Determiners**
+│   │   │           │   │   ├── **Adjectives**
+│   │   │           │   │   ├── **Nouns (as modifiers)**
+│   │   │           │   │   ├── **Participles**
+│   │   │           │   │   └── **Quantifiers/numeral**
+│   │   │           │   │
+│   │   │           │   └── **Post-Modifiers**
+│   │   │           │       ├── **Prepositional phrase**
+│   │   │           │       ├── **Infinitive phrase/clause**
+│   │   │           │       ├── **Relative clause**
+│   │   │           │       └── **Participle phrase**
+│   │   │           │
+│   │   │           └── **Types of Modifiers (Form-based)**
+│   │   │               ├── **Adjectival Modifiers (modify nouns/pronouns)**
+│   │   │               │   ├── **Single adjectives**
+│   │   │               │   ├── **Adjective phrases**
+│   │   │               │   ├── **Participles/participle phrases**
+│   │   │               │   ├── **Nouns (noun adjuncts/attributive nouns)**
+│   │   │               │   └── **Genitives/possessives**
+│   │   │               │
+│   │   │               ├── **Adverbial Modifiers (modify verbs, adjectives, adverbs, or sentences)**
+│   │   │               │   ├── **Forms of Adverbials**
+│   │   │               │   │   ├── **Single adverb**
+│   │   │               │   │   ├── **Adverb phrase**
+│   │   │               │   │   ├── **Prepositional phrase**
+│   │   │               │   │   ├── **Infinitive phrase**
+│   │   │               │   │   ├── **Non-finite clause (participle)**
+│   │   │               │   │   └── **Finite clause (subordinate clause)**
+│   │   │               │   │
+│   │   │               │   └── **Functions of Adverbials (Meaning-based/Semantic)**
+│   │   │               │       ├── **Manner (how?)**
+│   │   │               │       ├── **Place (where?)**
+│   │   │               │       ├── **Time (when? / how long?)**
+│   │   │               │       ├── **Frequency (how often?)**
+│   │   │               │       ├── **Purpose (why? / for what reason?)**
+│   │   │               │       ├── **Reason/Cause (why? / because of what?)**
+│   │   │               │       ├── **Condition (under what condition?)**
+│   │   │               │       └── **Concession (despite what?)**
+│   │   │               │
+│   │   │               └── **Nominal Modifiers**
+│   │   │                   └── Primarily nouns used attributively to modify other nouns (e.g., stone wall, car door). 
+│   │   │                       Genitives (my book) are a related possessive form. 
+│   │   │                       (Note: This is often grouped under adjectival modifiers as "noun adjuncts.")
+│   │   │
+│   │   ├── **Phrase**
+│   │   │   ├── **Noun Phrase (NP)**
+│   │   │   ├── **Verb Phrase (VP)**
+│   │   │   ├── **Adjective Phrase (AP)**
+│   │   │   ├── **Adverb Phrase (AdvP)**
+│   │   │   └── **Prepositional Phrase (PP)**
+│   │   │
+│   │   ├── **C. Aspect & Voice**
+│   │   │   ├── **Aspect**
+│   │   │   │   ├── **Simple Aspect**
+│   │   │   │   ├── **Perfect Aspect**
+│   │   │   │   ├── **Progressive Aspect**
+│   │   │   │   └── **Perfect Progressive Aspect**
+│   │   │   └── **Voice**
+│   │   │       ├── **Active Voice**
+│   │   │       └── **Passive Voice**
+│   │   │
+│   │   ├── **D. Clause Type Categorization**
+│   │   │   ├── **Root Clause (Matrix Clause)**
+│   │   │   ├── **Embedded Clause**
+│   │   │   └── **Adjunct Clause**
+│   │   │
+│   │   ├── **E. Relative Clause Types**
+│   │   │   ├── **Defining (Restrictive)**
+│   │   │   └── **Non-defining (Non-restrictive)**
+│   │   │
+│   │   └── 
+│   │
+│   ├── **B. Types CLASSIFICATION**:
+│   │   ├── **Simple**
+│   │   ├── **Compound**
+│   │   ├── **Complex**
+│   │   └── **Compound-Complex**
+│   │
+│   └── **C. Sentence Force**:
+│       ├── **Declarative**
+│       ├── **Interrogative**
+│       ├── **Imperative**
+│       ├── **Optative**
+│       └── **Exclamative**
 │
-├── **3.1.1 Internal Structure: Clause**
+├── **A. Internal Structure: Clause**
 │   ├── **Definition**: A grammatical unit containing a Subject and a Predicate.
 │   │
-│   ├── **3.1.1.1 Clause Types by Independence**
-│   │   ├── **3.1.1.1.1 Independent (Main Clause)**
+│   ├── **1 Clause Types by Independence**
+│   │   ├── **i. Independent (Main Clause)**
 │   │   │   └── Can stand alone as a complete sentence.
 │   │   │       - Example: *She studies hard.*
 │   │   │
-│   │   └── **3.1.1.1.2 Dependent (Subordinate Clause)**
+│   │   └── **ii. Dependent (Subordinate Clause)**
 │   │       ├── Cannot stand alone; must be attached to a main clause.
-│   │       ├── **Noun Clause** (Acts as noun: subject, object, complement)
+│   │       ├── **(1) Noun Clause** (Acts as noun: subject, object, complement)
 │   │       │   - Example: *What he said* is important. / *I know that she is coming.*
-│   │       ├── **Adjective (Relative) Clause** (Modifies a noun)
+│   │       ├── **(2) Adjective (Relative) Clause** (Modifies a noun)
 │   │       │   - Example: *The book that I read* was excellent.
-│   │       └── **Adverbial Clause** (Modifies a verb, adjective, or adverb)
+│   │       └── **(3) Adverbial Clause** (Modifies a verb, adjective, or adverb)
 │   │           - Example: *She succeeded because she worked hard.*
 │   │
-│   ├── **3.1.1.2 Clause Types by Verb Form**
-│   │   ├── **3.1.1.2.1 Finite Clause**
+│   ├── **2 Clause Types by Verb Form**
+│   │   ├── **i. Finite Clause**
 │   │   │   └── Contains a finite verb (marked for tense and agreement).
 │   │   │       - Example: *He goes to school.* / *She was sleeping.*
 │   │   │
-│   │   └── **3.1.1.2.2 Non-finite Clause**
+│   │   └── **ii. Non-finite Clause**
 │   │       ├── Contains a non-finite verb (not marked for tense).
 │   │       ├── **To-infinitive**
 │   │       │   - Form: *to + base verb* (e.g., *to walk, to study*)
@@ -520,8 +682,8 @@ The arrangement of words and phrases to create well-formed sentences.
 │   │           - Form: *verb + -ed* (e.g., *walked, broken*)
 │   │           - Example: *Broken windows need repair.* / *Once finished, he left.*
 │   │
-│   ├── **3.1.1.3 Clause Elements**
-│   │   ├── **3.1.1.3.1 Subject (S)**: The entity performing the action.
+│   ├── **3 Clause Elements**
+│   │   ├── **a. Subject (S)**: The entity performing the action.
 │   │   │   - Example: *She studies hard.*
 │   │   │   - Subject can be a noun, pronoun, or noun phrase.
 │   │   │   - **Subject Realization**:
@@ -540,8 +702,8 @@ The arrangement of words and phrases to create well-formed sentences.
 │   │   │
 │   │   │
 │   │   │
-│   │   ├── **3.1.1.3.2 Predicate (P)**: The action performed by the subject.
-│   │   │   ├── **3.1.1.3.2.1 Verb (V)**: The action performed by the subject.
+│   │   ├── **b. Predicate (P)**: The action performed by the subject.
+│   │   │   ├── **b.1 Verb (V)**: The action performed by the subject.
 │   │   │   │   - Example: *studies hard.*
 │   │   │   │     ├── **Main (verb)**: Lexical, Transitive, Intransitive, Ditransitive, Linking
 │   │   │   │     ├── **Auxiliary (verb)**: Primary (*be, have, do*), Modal (*can, must*)
@@ -550,7 +712,7 @@ The arrangement of words and phrases to create well-formed sentences.
 │   │   │   │     ├── **Modal (verb)**: 
 │   │   │   │     └── **Verb Forms**: Base, -s (3rd person), -ing (present participle), -ed/-en (past/past participle) 
 │   │   │   │
-│   │   │   ├── **3.1.1.3.2.2 Object (O)**: The entity receiving the action of the verb.
+│   │   │   ├── **b.2 Object (O)**: The entity receiving the action of the verb.
 │   │   │   │   - Example: *She reads **books**.* / *I saw **him**.*
 │   │   │   │   - Object can be a noun, pronoun, or noun phrase.
 │   │   │   │   - **Object Realization**:
@@ -558,7 +720,7 @@ The arrangement of words and phrases to create well-formed sentences.
 │   │   │   │     ├── **Indirect Object (IO)**: The recipient/beneficiary (*I gave **him** a gift.*)
 │   │   │   │     └── **Prepositional Object (PO)**: Object of preposition (*He relies on **his friends**.*)
 │   │   │   │
-│   │   │   ├── **3.1.1.3.2.3 Complement (C)**: Completes the meaning of the subject or object.
+│   │   │   ├── **b.3 Complement (C)**: Completes the meaning of the subject or object.
 │   │   │   │   - Example: *She is **a teacher**.* / *They elected him **president**.*
 │   │   │   │   - Complement can be a noun, adjective, or noun phrase.
 │   │   │   │   - **Complement Realization**:
@@ -569,7 +731,7 @@ The arrangement of words and phrases to create well-formed sentences.
 │   │   │   │     ├── **Object Complement (OC)**: Describes object (*They painted the door **blue**.* / *We consider him **honest**.*)
 │   │   │   │     └── **Prepositional Complement (PC)**: Completes preposition (*interested **in music**.*)
 │   │   │   │
-│   │   │   └── **3.1.1.3.2.4 Adverbial (Adv)**: Provides additional information about the action.
+│   │   │   └── **b.4 Adverbial (Adv)**: Provides additional information about the action.
 │   │   │       - Example: *She studies **hard**.* / *He arrived **yesterday**.*
 │   │   │       - Adverbial can be an adverb, adverb phrase, or prepositional phrase.
 │   │   │       - **Adverbial types**:
@@ -590,7 +752,7 @@ The arrangement of words and phrases to create well-formed sentences.
 │   │   │             ├── Attitude: *frankly, honestly, fortunately, sadly*
 │   │   │             └── Style: *in my opinion, to be honest, technically*
 │   │   │
-│   │   ├── **3.1.1.3.3 Determiners (Det)**
+│   │   ├── **c Determiners (Det)**
 │   │   │   ├── **Definition**: Words preceding nouns to specify reference, quantity, or possession.
 │   │   │   └── **Types**:
 │   │   │       ├── **Articles**: *the* (def), *a/an* (indef).
@@ -609,7 +771,7 @@ The arrangement of words and phrases to create well-formed sentences.
 │   │   │             - *One of the girls **has** arrived.* ✓ (subject = "one")
 │   │   │             - *The group of students **is** here.* ✓ (or *are* if collective plural sense)
 │   │   │
-│   │   ├── **3.1.1.3.4 Pre-modifiers**
+│   │   ├── **d. Pre-modifiers**
 │   │   │   ├── **Definition**: 
 │   │   │   │   Words, phrases, or clauses that come **before the noun** to add information, describe, quantify, or limit the noun. They form part of the **noun phrase** and modify the head noun.  
 │   │   │   ├── **Functions**: 
@@ -651,7 +813,7 @@ The arrangement of words and phrases to create well-formed sentences.
 │   │   │           - Degree words usually **precede adjectives** (*very tall*, *too little water*).  
 │   │   │           - Participial phrases often **describe the noun** directly (*the running horse, the broken vase*).  
 │   │   │
-│   │   └── **3.1.1.3.5 Post-modifiers**
+│   │   └── **e. Post-modifiers**
 │   │       ├── **Definition**: 
 │   │       │   Words, phrases, or clauses that **come after the noun** to provide additional information, clarify, or describe it. 
 │   │       │   Post-modifiers are part of the **noun phrase** and refine the meaning of the head noun.  
@@ -690,7 +852,7 @@ The arrangement of words and phrases to create well-formed sentences.
 │   └── **Exam Tip**:
 │       └── A sentence may contain multiple clauses, but at least one independent clause is required for it to be a complete sentence.
 │
-├── **3.1.2 Internal Structure: Phrase**
+├── **B. Internal Structure: Phrase**
 │   ├── **Definition**: A group of words without a finite verb, functioning as a single unit.
 │   │
 │   ├── **Types**
@@ -717,7 +879,7 @@ The arrangement of words and phrases to create well-formed sentences.
 │   └── **Exam Trap**:
 │       └── Phrase ≠ Clause → A clause MUST have a Subject + Finite Verb.
 │
-├── **3.1.3 Aspect & Voice** (Verbal Categories)
+├── **C. Aspect & Voice** (Verbal Categories)
 │   ├── **Aspect**: How action unfolds over time.
 │   │   ├── **Simple**: Action as a whole (*She walks.*)
 │   │   ├── **Perfect**: Completed action with present relevance (*have/has/had + past participle*)
@@ -733,7 +895,7 @@ The arrangement of words and phrases to create well-formed sentences.
 │       │   └── Example: *The fish **was eaten** by the cat.*
 │       └── **Exam Tip**: Passive = by-phrase often present; focus shifts to receiver.
 │
-├── **3.1.4 Clause Type Categorization** (Generative Syntax)
+├── **D. Clause Type Categorization** (Generative Syntax)
 │   ├── **Root Clause (Matrix Clause)**: Main clause; can stand alone.
 │   │   └── Example: *She left.* / *He is happy.*
 │   ├── **Embedded Clause**: Clause within another clause.
@@ -743,22 +905,22 @@ The arrangement of words and phrases to create well-formed sentences.
 │   │   └── Example: ***When she arrived**, everyone cheered.* / ***If it rains**, we'll stay home.*
 │   └── **Exam Tip**: Root = Independent; Embedded/Adjunct = Dependent variations.
 │
-├── **3.1.5 Relative Clause Types** (Exam Critical)
+├── **E. Relative Clause Types** (Exam Critical)
 │   ├── **Defining (Restrictive)**: Essential to meaning; NO commas.
 │   │   └── Example: *The students **who studied hard** passed.* (Which students? Those who studied.)
 │   ├── **Non-defining (Non-restrictive)**: Extra info; WITH commas.
 │   │   └── Example: *My father, **who is a doctor**, lives in London.* (Father is already identified.)
 │   └── **Exam Tip**: Remove non-defining clause → sentence still makes sense.
 │
-├── **3.2.1 Types CLASSIFICATION: Simple**: One independent clause.
+├── **F. Types CLASSIFICATION: Simple**: One independent clause.
 │
-├── **3.2.2 Types CLASSIFICATION: Compound**: Two or more independent clauses. (Joined by Coordinating Conjunctions)
+├── **G. Types CLASSIFICATION: Compound**: Two or more independent clauses. (Joined by Coordinating Conjunctions)
 │
-├── **3.2.3 Types CLASSIFICATION: Complex**: One independent clause and one or more dependent clauses. (Joined by Subordinating Conjunctions)
+├── **H. Types CLASSIFICATION: Complex**: One independent clause and one or more dependent clauses. (Joined by Subordinating Conjunctions)
 │
-├── **3.2.4 Types CLASSIFICATION: Compound-Complex**: Two or more independent clauses and one or more dependent clauses. (Joined by Coordinating Conjunctions and Subordinating Conjunctions)
+├── **I. Types CLASSIFICATION: Compound-Complex**: Two or more independent clauses and one or more dependent clauses. (Joined by Coordinating Conjunctions and Subordinating Conjunctions)
 │
-├── **3.3.1 Sentence Force: Declarative**: 
+├── **J. Sentence Force: Declarative**: 
 │   └── Statements of fact or information (*The sun rises in the east.* / *She is a doctor.*)
 │
 ├── **3.3.2 Sentence Force: Interrogative**: 
