@@ -2786,6 +2786,38 @@
 │   │
 │   ├── **1. Concept**
 │   │   │
+│   │   ├── **⭐ COMPARATIVE MATRIX: The 5 Core Constituents**
+│   │   │   │
+│   │   │   │ **FEATURE** | **HEAD** | **MODIFIER/ADJUNCT** | **COMPLEMENT** | **ADVERBIAL** | **SPECIFIER**
+│   │   │   │ ---|---|---|---|---|---
+│   │   │   │ **Position** | Core | Attached (various) | Right-adjacent | Peripheral (various) | Leftmost (Spec)
+│   │   │   │ **Obligatoriness** | REQUIRED | Optional | Often required | Optional | Variable
+│   │   │   │ **Repeatability** | Unique (1 per phrase) | Multiple (stackable) | Often unique | Multiple (stackable) | Typically unique
+│   │   │   │ **Example** | "book" in "big book" | "big" in "big book" | "on shelf" in "book on shelf" | "quickly" in "left quickly" | "the" in "the book"
+│   │   │   │ **Function** | Categories phrase | Restricts/refines meaning | Completes meaning | Adds circumstance | Determines reference
+│   │   │   │ **Selection** | Selects complements/modifiers | NOT selected by head | SELECTED by head | NOT selected by head | Sometimes selected by head
+│   │   │   │ **Dependency** | GOVERNS dependents | ATTACHED freely | REQUIRED by head | ATTACHED freely | DEPENDENT on head
+│   │   │   │ **Deletion Test** | ✘ Cannot omit (breaks phrase) | ✔ Can omit (phrase OK) | ✘ Often can't omit (incomplete) | ✔ Can omit (grammatical) | ⚠ Varies by context
+│   │   │   │ **Scope** | Internal (immediate) | Over head + complements | Internal (required) | Broad (sentence-level often) | Over entire X'
+│   │   │   │ **Core Examples** | Noun, Verb, Adj, Adv, P | Red, beautifully, on shelf | Book, happiness, afraid | Yesterday, quickly, here | The, very, he (as subject)
+│   │   │   │ **Key Property** | **Phrase Category** | **Optionality** | **Required Content** | **Circumstance** | **Scope/Reference**
+│   │   │   │
+│   │   │   ├── **How to Use This Matrix:**
+│   │   │   │   ├── **Identifying unknowns:** Is element required? (Complement) Optional? (Modifier)
+│   │   │   │   ├── **Understanding roles:** Each constituent has distinct grammatical function
+│   │   │   │   ├── **Position clues:** Right-adjacent usually = complement; leftmost = specifier; attached anywhere = adjunct
+│   │   │   │   ├── **Selection clues:** If head controls element = complement or specifier; if element attaches freely = modifier/adjunct
+│   │   │   │   └── **Cross-reference:** See detailed sections (a-e below) for each constituent type
+│   │   │   │
+│   │   │   └── **🔗 CROSS-REFERENCE GUIDE:**
+│   │   │       ├── **To understand HEAD better:** See [II.1.a](#a-head)
+│   │   │       ├── **To understand MODIFIERS better:** See [II.1.b](#b-modifieradjunct)
+│   │   │       ├── **To understand COMPLEMENTS better:** See [II.1.c](#c-complement) + [Section IV: GOVERNMENT & CASE](#iv-government--case)
+│   │   │       ├── **To understand ADVERBIALS better:** See [II.1.d](#d-adverbial) + [Section III: WORD ORDER](#iii-word-order)
+│   │   │       ├── **To understand SPECIFIERS better:** See [II.1.e](#e-specifier)
+│   │   │       ├── **To see variations in constituent arrangement:** See [Section II.2: VARIATIONS](#variations) (Inversion, Passive, Fronting)
+│   │   │       └── **To see how constituents combine:** See [Section I: SENTENCE](#i-sentence) + [Section III: WORD ORDER](#iii-word-order)
+│   │   │
 │   │   ├──  **a. Head**
 │   │   │   │
 │   │   │   ├── **What is a Head?**
@@ -5187,7 +5219,34 @@
 │                       ├── [AdvP yesterday] (temporal adjunct)
 │                       └── ]]]]] (all adjuncts modify VP level)
 │
+├── **🔗 CROSS-REFERENCES: How Variations Relate to Other Sections**
+│   ├── **→ See [III. WORD ORDER](#iii-word-order):**
+│   │   └── All variation types (inversion, passive, fronting) create non-canonical word orders.
+│   │       Section III explains the 7 basic patterns; Variations show how they shift/rearrange.
+│   │
+│   ├── **→ See [II.1.a HEAD](#a-head) (Verb Projection & Agreement):**
+│   │   └── Passive changes verb morphology (be + -en form). Inversion triggers subject-verb
+│   │       movement. Both relate to how heads project and govern dependents.
+│   │
+│   ├── **→ See [II.1.d ADVERBIAL](#d-adverbial) (Position & Scope):**
+│   │   └── Fronting often targets adverbials; their position is central to word order
+│   │       variation. Adverbial placement rules constrain rearrangement possibilities.
+│   │
+│   └── **→ See [IV. GOVERNMENT & CASE](#iv-government--case):**
+│       └── Passive voice changes case relations (object → subject). Government 
+│           constraints limit which verbs can undergo certain variations.
+│
 ├── **III. Word Order**
+│   │
+│   ├── **🔗 INTRODUCTION: How Word Order Connects to Earlier Sections**
+│   │   ├── Section III provides the **baseline patterns** (canonical word orders)
+│   │   ├── Section II.2 (Variations) shows how these patterns **transform**:
+│   │   │   ├── Inversion: S-V reversal in questions, conditionals, negative fronting
+│   │   │   ├── Passive: Patient becomes subject; agent becomes optional oblique
+│   │   │   ├── Fronting: Non-subjects move to sentence-initial position
+│   │   │   └── Extraposition: Heavy elements move to sentence-final position
+│   │   ├── Section I (Sentence) shows how **clauses combine** (affecting overall structure)
+│   │   └── **Key Insight:** All variations presuppose understanding these 7 basic patterns.
 │   │
 │   ├── **Basic Pattern [7 Traditional Types]**
 │   │   │
@@ -5550,6 +5609,287 @@
 │       │           ├── ✔ "The committee decided to implement the program."
 │       │           └── Passive = 14 words; Active = 9 words (more concise)
 │       │
+│       ├── **Advanced Passive Phenomena & Constraints**
+│       │   │
+│       │   ├── **Restrictions on Passivization**
+│       │   │   ├── **Cannot Passivize Intransitives**
+│       │   │   │   ├── Active: "The child slept soundly."
+│       │   │   │   ├── *Passive: "Soundly was slept by the child." (NOT GRAMMATICAL)
+│       │   │   │   ├── Reason: No object to promote to subject
+│       │   │   │   ├── **Test:** Ask "who/what is being [past-participle]?"
+│       │   │   │   ├── Intransitive verbs: arrive, sleep, run, laugh, exist, appear
+│       │   │   │   └── Some verbs have both: "run" (intransitive) vs. "run a race" (transitive)
+│       │   │   │
+│       │   │   ├── **Indirect Objects & Double Objects**
+│       │   │   │   ├── **Ditransitive Verbs (two objects possible):**
+│       │   │   │   │   ├── Active: "She **gave** him a book." (IO: him; DO: book)
+│       │   │   │   │   ├── Passive 1 (IO→S): "**He** was given a book." (indirect object promotes)
+│       │   │   │   │   ├── Passive 2 (DO→S): "**The book** was given to him." (direct object promotes, IO becomes to-phrase)
+│       │   │   │   │   ├── **Both are grammatical but differ in focus:**
+│       │   │   │   │   │   ├── "He was given a book." = Emphasis on recipient
+│       │   │   │   │   │   └── "The book was given to him." = Emphasis on thing given
+│       │   │   │   ├── **Verbs permitting both passives:** give, send, show, teach, tell, promise, offer, ask
+│       │   │   │   ├── **Verbs with only DO passivization:** explain, describe, suggest (IO must use to-phrase)
+│       │   │   │   │   ├── ✓ "The theory was explained to the class."
+│       │   │   │   │   ├── ✗ "The class was explained the theory." (ungrammatical)
+│       │   │   │   └── **Note:** IO passivization more natural/preferred in English for focus/emphasis
+│       │   │
+│       │   ├── **Embedded Passives (Passives within Complement Clauses)**
+│       │   │   ├── **Passive in Infinitive Complements (ECM construction):**
+│       │   │   │   ├── Active: "They believe John to be a doctor."
+│       │   │   │   ├── Passive: "**John** is believed **to be** a doctor." (personal passive)
+│       │   │   │   ├── Alternative: "**It** is believed **that John is** a doctor." (impersonal passive)
+│       │   │   │   ├── Verbs: believe, consider, presume, find, report, claim, allege, show, prove
+│       │   │   │   └── **Note:** Personal passive more elegant but requires bare infinitive tolerance
+│       │   │
+│       │   ├── **Double Passives (Rare; passive of passive)**
+│       │   │   ├── **Structure:** Passive + inner passive (very marked/unusual)
+│       │   │   ├── **Examples:**
+│       │   │   │   ├── "The error was attempted to be corrected." (attempt passive + inner be-passive; awkward)
+│       │   │   │   ├── Better: "The error was corrected." (simple passive)
+│       │   │   │   ├── Occurs with: try, attempt, expect, want, begin, seem (when stacked)
+│       │   │   │   └── "**The problem** was expected to **be solved** by June." (expected passive + solve passive)
+│       │   │   ├── **Acceptability:** Generally *not* grammatical in standard English
+│       │   │   └── **Avoidance Strategy:** Use active or restructure sentence
+│       │   │
+│       │   ├── **Passives of Phrasal Verbs (verb + particle)**
+│       │   │   ├── **Simple Phrasal Verbs (particle stays with verb):**
+│       │   │   │   ├── Active: "They **turned down** the offer."
+│       │   │   │   ├── Passive: "The offer **was turned down**." (particle stays with verb)
+│       │   │   │   ├── Verbs: turn down, put off, call off, bring up, carry out, take over, look after
+│       │   │   │   └── **Note:** In passive, particle is RIGHT-ADJACENT to verb (is turned down)
+│       │   │
+│       │   ├── **Prepositional Verbs (verb + preposition governing an object):**
+│       │   │   ├── Active: "They **looked at** the painting."
+│       │   │   ├── Passive: "The painting **was looked at**." (preposition stranded at end)
+│       │   │   ├── Verbs: look at, listen to, depend on, agree with, approve of, consist of, account for
+│       │   │   ├── **Stranding vs. Pied-piping:**
+│       │   │   │   ├── **Stranding (more common):** "**This** was agreed with." (prep. at end)
+│       │   │   │   ├── **Pied-piping (formal):** "**With this**, we agreed." (prep. with fronted object; archaic)
+│       │   │   │   └── Modern English strongly prefers stranding in passive
+│       │   │
+│       │   └── **Ambiguous/Problematic Passives**
+│       │       ├── **Scope Ambiguity (Negation with passive):**
+│       │       │   ├── "The report was **not** sent by John." 
+│       │       │   │   ├── Reading 1: Report wasn't sent; John didn't do it. (Negation of entire passive)
+│       │       │   │   ├── Reading 2: The report was sent, but not BY John (by someone else). (Negation of agent)
+│       │       │   │   └── Pragmatic context disambiguates
+│       │       │
+│       │       ├── **Agentless Passives Creating Ambiguity:**
+│       │       │   ├── "The cake was eaten." 
+│       │       │   │   ├── Who ate it? Unknown/irrelevant.
+│       │       │   │   ├── Could be: person, animal, decay, accident
+│       │       │   │   └── Can lead to humorous/absurd readings
+│       │       │
+│       │       └── **Semantic Contradiction (When passive sounds odd):**
+│       │           ├── "The accident was avoided." (✓ fine; active choice to avoid)
+│       │           ├── "The accident was happened." (✗ impossible; happen is intransitive)
+│       │           ├── "The truth was existed." (✗ impossible; exist is intransitive/stative)
+│       │           └── **Note:** Some semantic verbs resist passivization even if syntactically transitive
+│       │
+│       ├── **Discourse & Stylistic Effects of Passive**
+│       │   │
+│       │   ├── **Topic-Comment Structure**
+│       │   │   ├── **Active:** "**The government** {topic} announced new tax rates {comment}."
+│       │   │   ├── **Passive:** "**New tax rates** {topic} were announced by the government {comment}."
+│       │   │   ├── **Effect:** Passive shifts which constituent is topic/focus
+│       │   │   ├── **In Discourse Context:**
+│       │   │   │   ├── Previous: "The new tax rates are controversial."
+│       │   │   │   ├── Next: "**They** were announced by the government yesterday." (pronoun referring to rates)
+│       │   │   │   ├── Passive creates cohesion by keeping "tax rates" as discourse topic
+│       │   │   │   └── Active would disrupt topic continuity (government becomes topic)
+│       │   │
+│       │   ├── **Information Structure (Given vs. New)**
+│       │   │   ├── **Pattern 1: Given subject → New complement (Active)**
+│       │   │   │   ├── "The President {given} made a major announcement {new}."
+│       │   │   │   ├── Natural if President already established in discourse
+│       │   │   │
+│       │   │   ├── **Pattern 2: Given object → New agent (Passive)**
+│       │   │   │   ├── "The announcement {given} was made by the President {new}."
+│       │   │   │   ├── Natural if announcement already established in discourse
+│       │   │   │   ├── Agent (President) is new/noteworthy information
+│       │   │   │
+│       │   │   └── **Rule:** Put given information early (subject); new information late (complement/agent)
+│       │   │
+│       │   ├── **Stylistic Register Effects**
+│       │   │   ├── **Scientific/Formal Register (High Passive Density):**
+│       │   │   │   ├── "The experiment was conducted under sterile conditions. The samples were analyzed using mass spectrometry. Results were recorded every 10 minutes."
+│       │   │   │   ├── **Effect:** Objective, impersonal, authoritative tone
+│       │   │   │   ├── **Advantage:** Focus on process/results, not researcher
+│       │   │   │   ├── **Disadvantage:** Can feel dry, impersonal, distant
+│       │   │   │
+│       │   ├── **Academic/Formal Register (Moderate Passive):**
+│       │   │   │   ├── "It is argued that X, and this point has been made previously. However, critics have suggested alternatives."
+│       │   │   │   ├── **Effect:** Balanced; maintains some objectivity while naming agents
+│       │   │   │   ├── **Advantage:** Builds on previous work; acknowledges sources
+│       │   │   │
+│       │   ├── **Colloquial/Narrative Register (Low Passive):**
+│       │   │   │   ├── "I told her that. She didn't listen. So I left."
+│       │   │   │   ├── **Effect:** Direct, personal, engaging
+│       │   │   │   ├── **Advantage:** Clear agency; reader follows action easily
+│       │   │   │
+│       │   └── **Evasion & Euphemism (Passive for politeness)**
+│       │       ├── **Evasive Passive:**
+│       │       │   ├── "Mistakes were made." (avoids naming who made them)
+│       │       │   ├── "It has been decided." (avoids naming who decided)
+│       │       │   ├── "An investigation is underway." (avoids saying who is investigating)
+│       │       │   └── **Effect:** Shifts responsibility/agency away from speaker/actor
+│       │       │
+│       │       ├── **Euphemistic Passive:**
+│       │       │   ├── "The patient was let go." (instead of "The patient died.")
+│       │       │   ├── "The program was discontinued." (instead of "We cancelled it.")
+│       │       │   ├── "Downsizing was implemented." (instead of "We fired people.")
+│       │       │   └── **Effect:** Softens harsh reality through grammatical indirectness
+│       │       │
+│       │       └── **Ironic/Rhetorical Passive:**
+│       │           ├── "Well, I was **told** to do this!" (emphasizes passive reception; blame-shifting)
+│       │           ├── "It was **suggested** to me." (ironic; implies unreasonable pressure)
+│       │           └── Intonation/context marks as ironic
+│       │
+│       ├── **Dialect & Register Variation in Passive Use**
+│       │   │
+│       │   ├── **American English (AmE)**
+│       │   │   ├── **Characteristics:** Slightly lower passive frequency than British English
+│       │   │   ├── **Get-passive more common:** "He got fired." (informal, widely accepted)
+│       │   │   ├── **Short passive preferred in casual speech**
+│       │   │   ├── **By-agent less frequent in AmE** (often omitted in journalistic writing)
+│       │   │   ├── **Example:** "The bill was passed." (agent omitted; understood to be Congress)
+│       │   │   └── **Register shift:** AmE speakers shift toward active more readily in casual contexts
+│       │   │
+│       │   ├── **British English (BrE)**
+│       │   │   ├── **Characteristics:** Slightly higher passive frequency, especially formal contexts
+│       │   │   ├── **Be-passive strongly preferred** (get-passive seen as too informal)
+│       │   │   ├── **By-agent more frequently included** (agent identification valued)
+│       │   │   ├── **Example:** "The decision has been taken by the committee." (agent included)
+│       │   │   ├── **Academic/news register:** Higher passive density than AmE equivalents
+│       │   │   └── **Institutional writing:** "It is regretted that..." (more common in BrE)
+│       │   │
+│       │   ├── **Singapore English (SgE) / Indian English (IndE)**
+│       │   │   ├── **Characteristics:** Higher passive frequency than AmE/BrE (substrate influence)
+│       │   │   ├── **More agentless passives** (agent often omitted)
+│       │   │   ├── **Example:** "This matter was referred." (agent understood from context)
+│       │   │   ├── **Formal/official register:** Passives extremely common
+│       │   │   ├── **Possible influence:** Adjacent languages with high passive use
+│       │   │   └── **Note:** Often characterized as more formal/stiff than AmE/BrE informal speech
+│       │   │
+│       │   └── **Code-mixing Effects**
+│       │       ├── Bilingual speakers vary passive use by language context
+│       │       ├── Formal contexts: Increased passive use (institutional pressure)
+│       │       ├── Casual contexts: Decreased passive use (interpersonal warmth)
+│       │       └── Register shifting visible in passive frequency
+│       │
+│       ├── **Frequency & Occurrence Patterns**
+│       │   │
+│       │   ├── **Passive Frequency by Register (Corpus Statistics)**
+│       │   │   ├── **Academic writing:** 10-20% of all clauses passive
+│       │   │   │   ├── Science/Technology: 15-20% (high)
+│       │   │   │   ├── Humanities: 10-15% (moderate)
+│       │   │   │   ├── Social Sciences: 8-12% (lower)
+│       │   │   │
+│       │   │   ├── **Journalism/News:** 5-10% passive
+│       │   │   │   ├── Headlines: Lower (active preferred for drama)
+│       │   │   │   ├── Body text: Higher (objectivity norm)
+│       │   │   │
+│       │   │   ├── **Fiction/Narrative:** 2-5% passive
+│       │   │   │   ├── Literary: Highly variable (stylistic choice)
+│       │   │   │   ├── Genre fiction: Lower (clarity/pace)
+│       │   │   │
+│       │   │   ├── **Conversation/Speech:** <2% passive
+│       │   │   │   ├── Informal: Almost no passive use
+│       │   │   │   ├── Formal speech: 2-3%
+│       │   │   │
+│       │   │   └── **Technical/Legal Writing:** 15-25% passive (highest)
+│       │       ├── Legal contracts: 20%+
+│       │       ├── Technical manuals: 15-20%
+│       │       └── **Reason:** Precision, formality, agent de-emphasis required
+│       │
+│       │   ├── **Common Verbs in Passive (Frequency-ranked)**
+│       │   │   ├── **Very High Frequency (most passivizable):**
+│       │   │   │   ├── use, make, give, take, find, see, know, think, tell, come, call
+│       │   │   │
+│       │   │   ├── **High Frequency:**
+│       │   │   │   ├── say, do, ask, become, report, show, write, provide, learn, receive
+│       │   │   │
+│       │   │   ├── **Moderate Frequency:**
+│       │   │   │   ├── believe, serve, consider, appreciate, suggest, require, determine, develop
+│       │   │   │
+│       │   │   └── **Lower Frequency (less often passivized):**
+│       │   │       ├── resemble, equal, suit, fit, lack, contain, matter, succeed, fail
+│       │
+│       │   └── **Temporal Patterns (When passive is used)**
+│       │       ├── **In Main Clauses:** More common than in embedded clauses
+│       │       ├── **In Dependent Clauses:** Often reduced (relative/participial clauses)
+│       │       ├── **Progressive Passive:** More rare than simple passive
+│       │       ├── **Perfect Passive:** Fairly common (has been done)
+│       │       └── **Modal Passive:** Very common (must be done, can be done)
+│       │
+│       ├── **Passive Voice: Comparative Table (Active vs. Passive Summary)**
+│       │   │
+│       │   │ **FEATURE** | **ACTIVE** | **PASSIVE**
+│       │   │ ---|---|---
+│       │   │ **Word Order** | SVO (Subject-Verb-Object) | S(patient)-Aux-V.past.part-(by Agent)
+│       │   │ **Agent/Actor** | Subject (prominent position) | Optional; in by-phrase (demoted)
+│       │   │ **Patient/Object** | Direct object (demoted) | Subject (prominent position)
+│       │   │ **Focus** | On agent/action | On patient/result
+│       │   │ **Morphology** | Bare verb stem + tense | Auxiliary be + past participle
+│       │   │ **Formality** | Neutral/informal | Formal/academic/technical
+│       │   │ **Register** | General; all contexts | Science, legal, academic (high frequency)
+│       │   │ **Conciseness** | Shorter (fewer words) | Longer (aux + pp + possibly by-phrase)
+│       │   │ **Agency Clarity** | Clear (subject = agent) | Ambiguous when agent omitted
+│       │   │ **Typical Use** | Narrative, conversation, journalism | Reports, research, objective writing
+│       │   │ **Information Structure** | Given-agent → New-patient | Given-patient → New-agent
+│       │
+│       │   ├── **Example in Context:**
+│       │   │   ├── Active: "**The researcher** conducted the experiment carefully."
+│       │   │   │   ├── Focus: On researcher's action
+│       │   │   │   ├── Register: Narrative
+│       │   │   │   └── Agent clear and emphasized
+│       │   │
+│       │   ├── Passive: "The experiment was conducted carefully **by the researcher**."
+│       │   │   ├── Focus: On experiment's treatment
+│       │   │   ├── Register: Formal/technical
+│       │   │   ├── Agent still identified but deprioritized
+│       │   │   └── Longer by 2 words (was conducted)
+│       │
+│       └── **Key Takeaway: Passive Voice Strategy**
+│           ├── **USE PASSIVE WHEN:**
+│           │   ├── Focus on patient/result rather than agent
+│           │   ├── Agent unknown, unimportant, or multiple (team effort)
+│           │   ├── Maintaining discourse topic (cohesion)
+│           │   ├── Formal/scientific register required
+│           │   └── Shifting responsibility (diplomatic/evasive)
+│           │
+│           ├── **AVOID PASSIVE WHEN:**
+│           │   ├── Agent is important/interesting (loses emphasis)
+│           │   ├── Clarity/brevity valued (active is shorter)
+│           │   ├── Readability critical (readers parse active easier)
+│           │   ├── Personal/engaging tone desired (active feels more direct)
+│           │   └── Already using abstract language (passive compounds abstraction)
+│           │
+│           └── **GOLDEN RULE:** Passive is a tool for specific contexts—not a universal improvement.
+│               Overuse creates bloated, evasive prose. Use actively/intentionally, not by default.
+│       │
+│       ├── **🔗 CROSS-REFERENCES: How Passive Relates to Other Sections**
+│       │   ├── **→ See [III. WORD ORDER](#iii-word-order) (Pattern 7):**
+│       │   │   └── Passive changes constituent ordering from SVO → S(patient)-be-VP.pp-(by-Agent)
+│       │   │       This is the fundamental word order shift created by passivization.
+│       │   │
+│       │   ├── **→ See [II.1.c COMPLEMENT](#c-complement) (Obligatoriness & Selection):**
+│       │   │   └── In passive, complements shift: Object becomes subject; agent becomes optional 
+│       │   │       oblique. Selection restrictions apply to both active and passive (same verbs).
+│       │   │
+│       │   ├── **→ See [IV. GOVERNMENT & CASE](#iv-government--case) (Case Assignment):**
+│       │   │   └── Passive changes case: Accusative object → Nominative subject; Agent gets
+│       │   │       oblique case (by-phrase). Verb no longer governs object case.
+│       │   │
+│       │   ├── **→ See [II.2.a INVERSION](#a-inversion) (Comparison of Rearrangement):**
+│       │   │   └── Both passive and inversion rearrange elements. Key difference: Passive changes
+│       │   │       grammatical relations (S vs. O); Inversion only reverses S-V order without changing roles.
+│       │   │
+│       │   └── **→ See [II.2.c FRONTING](#-fronting--shifting-elements-for-emphasisfocusbalance):**
+│       │       └── Fronting (e.g., "That book, I love") and passive both shift focus. But fronting 
+│       │           maintains grammatical relations; passive redefines them via object-promotion.
+│       │
 │       └── **Fronting / Extraposition (Shifting elements for emphasis/focus/balance)**
 │           │
 │           ├── **FRONTING (Moving non-subject element to sentence-initial position)**
@@ -5812,6 +6152,17 @@
 │                   └── Speech: Strongly prefers extraposition (weight principle)
 │
 ├── **IV. GOVERNMENT & CASE**
+│   │
+│   ├── **🔗 INTRODUCTION: How Government & Case Relates to Other Sections**
+│   │   ├── **Complements** (Section II.1.c) require specific forms based on verb selection
+│   │   │   └── Verb governs: what type of complement? (NP, PP, CP, infinitive, gerund, etc.)
+│   │   ├── **Passive Voice** (Section II.2.b) changes case assignment:
+│   │   │   └── Object case → Subject nominative; verb no longer assigns object case
+│   │   ├── **Subject-Verb Agreement** (Section II.1.a, II.1.b) involves nominative case & T-agreement
+│   │   │   └── The head of TP (Tense) assigns nominative to the subject
+│   │   ├── **Word Order** (Section III) is partially determined by case:
+│   │   │   └── Nominative subjects precede verbs; accusative objects follow in canonical SVO
+│   │   └── **Key Insight:** Case marks grammatical functions; government determines what forms verbs/heads allow.
 │   │
 │   ├── **A. Governing Heads (Elements that dictate form/case of dependents)**
 │   │   │
